@@ -128,3 +128,4 @@ Below is a screenshot of index.html when user is not logged in. As well a a coup
 <img src="preview4.png" alt="image could not load">
 <img src="preview5.png" alt="image could not load">
 
+License: GNU
