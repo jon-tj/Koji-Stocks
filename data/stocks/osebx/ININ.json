@@ -1,0 +1,21 @@
+{
+	"name":"ININ",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[9.94,9.94],
+		"Median":[9.94,9.94],
+		"High":[9.94,9.94]
+	},
+	"FinancialCalendar":{
+		"Time":["210506","210506","210604","210907","211202","220303","220629","220927","230309"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call"]
+	},
+	"NewsDN":{
+		"Time":["231804","230504","230404","232803","221612","221412","222709","222709","220408","220408","220308","220507","222306","222206","220806","221602","220202","211312","210212","211111","211110","210510","210110","210110","213009","212909","210709","210709","210609","211608","211208","211207","210605","211902","202312","202112","201812","200812","201711","200911","200611","202409","201409","200308","202707"],
+		"Author":["TDN Direkt","TDN Direkt","Lene Marita Berg Hermann","TDN Direkt","TDN Direkt","TDN Direkt","Kimmo Risbakken","Bjørn Borkamo/TDN Direkt","Kimmo Risbakken","Lene Marita Berg Hermann","TDN Direkt","TDN Direkt","Christopher Magnus","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Martin Kværnes","TDN Direkt","Kenneth Lund","TDN Direkt","TDN Direkt","Martin Kværnes","Jonas Christensen","Martin Kværnes","TDN Direkt","Adham Rana","Adham Rana / TDN Direkt","TDN Direkt / Jonas Solgård","TDN Direkt","TDN Direkt/Herman Østensen","Till Zhang","TDN Direkt","Kathinka Hartwig","Christopher Magnus","Agnete Klevstrand","Jonas Christensen","Henrik Giæver","Birk Helle","Jonas Solgård","Henrik Giæver","Henrik Giæver","TDN Direkt","Bendik Zinedin Gran Johnsen","TDN Direkt"],
+		"Title":["Inin Group overgår ambisjonene","Administrerende direktør Øivind Horpestad kjøper 50.000 aksjer i Inin Group","Tilknyttet selskap av Inin Group utvider kontrakt","Inin Group har inngått avtale for å etablere nytt fellesskap med Lerøy Vedlikehold","Inin Group med tilbakekjøpsprogram på inntil ti millioner kroner","Datterselskap av Inin Group har inngått kontrakt på 42 millioner kroner","Harpestad kjøper minipost i Elop","Teknologiselskapet Elop endrer retning – skal bli lønnsomt","Elop kjøpte egne aksjer for høy pris","Elop vurderer tilbakekjøp av aksjer","Elop kjøper over halvparten av elektroentreprenør for 24,7 mill. kroner","Elop kjøper hele Nordic Infrastructure Group","Elop fjernes fra Børsens «straffebenk»","Ny styreleder foreslått i Elop","Elop med avtale om Simplifai","Elop har inngått sin første kontrakt i Frankrike","Elops datterselskap tildelt India-kontrakt","Innsidere kjøper i Elop","Elop gikk med over 18 millioner kroner i minus i tredje kvartal","Elop har fått første ordre fra Japan","Elop har inngått samarbeid med Veidekke og Stavangerregionen Havn","Elop inngår avtale om logistikksamarbeid i Tyskland","Oslo Børs endte flatt – Scatec falt kraftig etter resultatvarsel","Elop stuper på børsen etter pengejakt","Elop vil hente inntil 100 millioner kroner","Elop har inngått partnerskap med amerikanske ICM","Oslo Børs åpner flatt tirsdag","Elop presenterte driftsresultat på -18,5 millioner kroner i andre kvartal","Elops datterselskap Simplifai tildelt kontrakt i India","Elops datterselskap Simplifai inngår strategisk partnerskap med Easy2You","Elops datterselskap Simplifai tildelt «betydelig kontrakt»","IT-selskap inngår AI-forretningsenhetsavtale med Elop","Elop: I rute til å omsette for en milliard innen 2025","Øivind Horpestad vil fungere som konsernsjef i Elop","Styrelederen laster opp i ELOP","Elop kjøper norsk kunstig intelligens","Elop snuser på Asia: Inngår samarbeidsavtale med kinesiske Norient Advisors","Elop ruller ut sin ultralydscanner Elop Insight for kommersielt salg","Styreleder kjøper aksjer i Elop","Elop-styreleder kjøpte aksjer","Elop planlegger å kjøpe norske Simplifai","Elop får millionstøtte fra Innovasjon Norge","Styreleder i Elop har kjøpt aksjer til 569.000 i eget selskap","Innsidekjøp i Elop","Teknologiselskapet Elop inngår samarbeid med Semcon Norge as"]
+	},
+
+	"updated":"5/15/23 10:24:04",
+	"currency":"NOK"
+}

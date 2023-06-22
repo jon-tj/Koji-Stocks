@@ -1,0 +1,33 @@
+{
+	"name":"MPCES",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[24,24],
+		"Median":[25,25],
+		"High":[26,26]
+	},
+	"FinancialCalendar":{
+		"Time":["210630","210831","210915","211130","220203","220302","220303","220410","220426","220428","220511","220623","220817","220914","221103","230329","230418","230427"],
+		"Type":["Shareholder meeting","Earnings Call","Presentation","Earnings Call","Presentation","Presentation","Earnings Call","Presentation","Presentation","Earnings Call","Presentation","Shareholder meeting","Earnings Call","Presentation","Earnings Call","Capital Markets Day","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[-0.01,-0.1,-0.03,-0.09,-0.12,-0.05,-0.05,-0.06,-0.05,-0.08,-0.064,-0.02,-0.02,-0.11,-0.02,-0.08]
+	},
+	"About":{
+		"Employees":[15],
+		"Incorporated year":[2020],
+		"Description":["MPC Energy Solutions NV is a company based in the Netherlands. The Company operates within power producing industry and is primarily engaged in providing sustainable energy. MPC Energy Solutions focuses on utilizing low-carbon energy infrastructure, including solar and wind assets, and other hybrid and energy efficiency solutions. The Company is also engaged in combining renewable sources and energy storage technologies. Main business activity of the Company is to develop, construct, own and operate renewable energy assets globally, technically, as well as commercially operate the renewable energy assets, generate energy and to sell it. Latin America and Caribbean are currently main regions where the Company focuses its business operations."],
+		"City":["AMSTERDAM"],
+		"Phone":["0"],
+		"Homepage":["https://www.mpc-energysolutions.com/"]
+	},
+	"NewsDN":{
+		"Time":["220311","221608","221101","212610","212610","210907","210502"],
+		"Author":["TDN Direkt","TDN Direkt","Till Zhang","TDN Direkt/Kahni Ismail","TDN Direkt","Till Zhang","TDN Direkt"],
+		"Title":["MPC Energy Solutions gikk fra overskudd til underskudd i tredje kvartal","MPC Energy Solutions reduserer utsiktene for året","Oslo Børs stiger fra start – Kahoot snur til bratt fall","Arctic Securities mener MPC Energy Solutions handles med rabatt","Arctic Securities tar opp dekning på MPC Energy Solutions","Styremedlem i MPC Energy Solutions kjøper 10.000 aksjer i selskapet","Fonybarselskapet MPC Energy Solutions inngår partnerskap med Enernet Global"]
+	},
+
+	"updated":"5/15/23 10:24:06",
+	"currency":"NOK"
+}

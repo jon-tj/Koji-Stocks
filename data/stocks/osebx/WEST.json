@@ -1,0 +1,45 @@
+{
+	"name":"WEST",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[45.18,45.18],
+		"Median":[45.18,45.18],
+		"High":[45.18,45.18]
+	},
+	"DividendsMS":{
+		"X-day":[220321,220427,220817,221024,230214],
+		"Payout date":[220329,220505,220825,221102,230222],
+		"Announce date":[220310,220426,220815,221020,230209],
+		"Amount NOK":[17.23,4.24,3.85,3,3]
+	},
+	"FinancialCalendar":{
+		"Time":["210914","210914","220317","230330"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200101","200101"],
+		"Difference%":[5.267,2.046,2.046]
+	},
+	"About":{
+		"Employees":[118],
+		"Incorporated year":[2008],
+		"Description":["Western Bulk Chartering AS is a Norway-based company that provides shipping services. The Company is a global operator in the Supramax/Ultramax and Handysize dry bulk shipping market and operates a chartered-in fleet of over 110 vessels. The Company match cargo with vessels under all market conditions; chartering vessels from various vessel owners and transporting cargo for customers worldwide. The Company operates in Norway, Singapore, the United States of America, Dubai, Chile, Sweden and Morocco. "],
+		"City":["OSLO"],
+		"Phone":[23133400],
+		"Homepage":["https://www.westernbulk.com/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-7.62],
+		"Market cap":["921.523M"]
+	},
+	"NewsDN":{
+		"Time":["221708","221508","222903","211512","212710","210510","212009"],
+		"Author":["Katrine Nordanger Mjelde","Bjørn Borkamo","TDN Direkt","Sara Sofie Tallaksen","Kahni Ismail","Herman Østensen","Emilie Solberg"],
+		"Title":["Western Bulk faller på børs dagen etter tallslipp","Rekordresultat for Sveeas-rederiet Western Bulk","God start på året for Western Bulk","Western Bulk venter et årsresultat etter skatt på 75-80 millioner dollar","Western Bulk åpner kontor i Dubai","Western Bulk øker resultatestimatet med 10 millioner dollar","Sveaas-rederiet Western Bulk stiger 20 prosent første dag på børs"]
+	},
+
+	"updated":"5/15/23 10:24:15",
+	"currency":"NOK"
+}

@@ -1,0 +1,21 @@
+{
+	"name":"GEOS",
+	"FinancialCalendar":{
+		"Time":["220610"],
+		"Type":["Shareholder meeting"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-6.38],
+		"Market cap":["104.129M"]
+	},
+	"NewsDN":{
+		"Time":["221309","221108","222306","223105","221805","220704","211612","213009","211706","201006","190110","192709","191507","191305","192404","180110"],
+		"Author":["Malin Noem","TDN Direkt","Magnus Newth","TDN Direkt","TDN Direkt","TDN Direkt","Sara Sofie Tallaksen","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","Eirik Helgaker","Jonas Christensen","Jonas Christensen","Jonas Christensen"],
+		"Title":["Golden Energy Offshore forlenger kontrakt med Repsol Norge","Golden Energy Offshore Services inngår kontrakt for skip","Oslo Børs hentet seg inn i sluttfortsatte i sluttspurten, men fallet fortsatte","Golden Energy Offshore Services minsket tapene i første kvartal","Intensjonsavtale mellom Golden Energy Offshore Services og Gen2 Energy AS","Golden Energy Offshore Services vil øke aksjekapitalen med 25,6 mill.","Oslo Børs stiger kraftig ved åpning","Golden Energy Offshore  tapte 21 millioner i første halvår","Golden Energy Offshore Services tar skip ut av opplag","Kontraktsforlengelse for rederiet Golden Energy","Offshore-selskap med mindre underskudd","Golden Energy Offshore Services sikrer arbeid for to skip","Golden Energy har utvidet kontrakter","Parkeringsfamilie satser på oljeservice","Klarer ikke å betale for skip - skylder på lav appetitt i finansmarkedene","Rederiknøtt forlenger to måneder med Total"]
+	},
+
+	"updated":"5/15/23 10:24:02",
+	"currency":"NOK"
+}

@@ -1,0 +1,21 @@
+{
+	"name":"LIFE",
+	"FinancialCalendar":{
+		"Time":["210930","210930","211106","211110","220421","220506","220825","221206","230222","230228","230418"],
+		"Type":["Shareholder meeting","Shareholder meeting","Presentation","Sales and Revenue Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Presentation","Earnings Call","Shareholder meeting"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-1.20],
+		"Market cap":["102.071M"]
+	},
+	"NewsDN":{
+		"Time":["221409","222508","210312","210111","210710","210510","210510","210410","212708","210608","210508","210508","210508","210308","210308","212306","210604","210504","211903","202104"],
+		"Author":["TDN Dirket","TDN","Jonas Christensen","Katrine Nordanger Mjelde","Kahni Ismail","Synnøve Meisingset","Herman Østensen","Jonas Solgård","TDN Direkt","Till Zhang","Ingeborg Løkling","Erik Bucher Johannessen","TDN Direkt","Ingeborg Løkling","Ingeborg Løkling","Odin Alnæs","Martin Kværnes","Martin Kværnes","Kenneth Lund","TDN Direkt"],
+		"Title":["Lifecare med intensjonsavtale","Negativt driftsresultat fra Lifecare","Oslo Børs opphever vedtak om gebyr til Lifecare","Pyrum Innovations stiger kraftig på børs mandag","Oslo Børs ilegger Lifecare overtredelsesgebyr på 100.000 kroner","Lifecare henter 26 millioner kroner i en rettet emisjon","Lifecare venter å prise rettet emisjon til 1,70 per aksje","Lifecare vil hente opptil 40 mill. kroner i friske penger","Lifecare vurderer kapitalinnhenting","Oslo Børs starter dagen med oppgang – festen fortsetter for Seadrill","Oslo Børs stenger flatt torsdag ettermiddag","Flat utvikling på Oslo Børs","Lifecare mer enn doblet underskuddet i første halvår","Oslo Børs endte dagen med svak nedgang","Lifecare har fått patent på oppdatert sensormålingssystem","Solid dag på Oslo Børs","Oslo Børs steg til rekordnotering på månedens første handelsdag – helseselskap falt 18 prosent på konkursnyhet","Lifecare mener å være godt beskyttet ved Digid-konkurs","Knall og fall for småsparerfavoritten Lifecare","Lifecare med eierandel i selskap bak koronatest"]
+	},
+
+	"updated":"5/15/23 10:24:05",
+	"currency":"NOK"
+}

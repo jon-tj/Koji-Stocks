@@ -1,0 +1,12 @@
+qna{
+    display: block;
+    margin: 1em;
+    background-color: rgb(235, 235, 235);
+    padding:1em;
+    text-align: left;
+}
+article{
+    background-color: rgb(235, 235, 235);
+    padding: 1em;
+    margin:1em;
+}

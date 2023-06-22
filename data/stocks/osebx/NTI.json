@@ -1,0 +1,29 @@
+{
+	"name":"NTI",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[15,15],
+		"Median":[15,15],
+		"High":[15,15]
+	},
+	"FinancialCalendar":{
+		"Time":["210831","210831","211214","220303","220420","220831","221006","230309","230411"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Presentation","Earnings Call","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[97],
+		"Incorporated year":[2007],
+		"Description":["Norsk Titanium AS is a Norway-based company that manufactures titanium components. The Company optimized Repeatable Digital Programming (RPD) technology to produce complex titanium components for industrial applications. The Company uses adapted Three-Dimensional (3D) printed titanium parts to create its titanium components. Through its Boeing Material Specification (BMS) and Aerospace Material Specification (AMS) 7004 / 7005 the Company's titanium parts can directly replace parts within the same design parameters and existing industrial flow. With this 3D technology, Norsk Titanium AS enters the Industrial, Commercial Aerospace, Maritime, Engine and Turbine market. The Company operates through its subsidiaries: Norsk Titanium Equipment AS, NTi MH AS, Norsk Titanium US Inc, Norsk Titanium Services Ltd, NTi Equipment Leasing(US) and One LLC."],
+		"City":["HONEFOSS"],
+		"Phone":["0"],
+		"Homepage":["https://www.norsktitanium.com/"]
+	},
+	"NewsDN":{
+		"Time":["231304","233003","220812","221011","221011","220303","211506"],
+		"Author":["Martin Kværnes","Mikael Holter","Malin Noem","Bjørn-Egil Mikalsen","TDN","Jonas Christensen","Katrine Nordanger Mjelde"],
+		"Title":["Norsk Titanium skal hente ytterligere kapital","Norsk Titanium vil hente opptil 130 millioner i emisjon","Styremedlem gir seg i Norsk Titanium","Norsk Titanium hentet 75 mill. i friske penger","Titanprodusenten Norsk Titanium vil hente inntil 104,3 mill.","Fortsatt minus for Norsk Titanium","Norsk Titanium utvider og inngår samarbeid med Hittech Group"]
+	},
+
+	"updated":"5/15/23 10:24:08",
+	"currency":"NOK"
+}

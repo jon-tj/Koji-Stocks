@@ -1,0 +1,40 @@
+{
+	"name":"VGM",
+	"FinancialCalendar":{
+		"Time":["220225","220225","220512","220601","220826","230217"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Presentation","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200101"],
+		"Difference%":["0","-0.0415"]
+	},
+	"About":{
+		"Employees":[2],
+		"Incorporated year":[2021],
+		"Description":["Vow Green Metals AS is a Norway-based producer of BioCarbon for the metallurgic industry and CO2-neutral energy for energy intensive industries. In Vow Green Metals factories, the Companyl recycles waste streams from wood and produce two main products; BioCarbon (labeled BioCarbon) and CO2-neutral energy. The purpose with BioCarbon is to replace the use of fossil carbon. The second product, CO2-neutral energy can be used to replace fossil gas in energy-intensive industries. The Company aims to provide solutions for the metallurgical industry and to meet the growing demand for industry decarbonising. Vow Green Metals AS builds, owes, and operates plants that produce high value biocarbon for the metallurgical industry. "],
+		"City":["LYSAKER"],
+		"Phone":["0"],
+		"Homepage":["https://www.vowgreenmetals.com/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-4.32],
+		"Market cap":["529.304M"],
+		"Dividend yield":[4.44],
+		"Beta":["0.41"],
+		"ROE TTM":[-17.64],
+		"Net profits TTM":[-279.04],
+		"Gross Margin TTM":[69.66],
+		" TTME BITD":["30.49M"],
+		"Debt to equity":[71.29]
+	},
+	"NewsDN":{
+		"Time":["222608","222203","212210","210309","212408","210308"],
+		"Author":["Bjørn Borkamo","Kahni Ismail","TDN Direkt","Martin Kværnes","Christopher Magnus","Ingeborg Løkling"],
+		"Title":["Vow Green Metals med resultat før skatt på minus 6,8 millioner kroner","Vow Green Metals vil vurdere andre områder på Follum","Vow Green Metals har signert kontrakt verdt 215 millioner kroner","Primærinnsider kjøper i Vow Green Metals","Flat dag på Oslo Børs, men store utslag i enkeltaksjer","Oslo Børs endte dagen med svak nedgang"]
+	},
+
+	"updated":"5/15/23 10:24:15",
+	"currency":"NOK"
+}

@@ -1,0 +1,28 @@
+{
+	"name":"KING",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[10.31,10.31],
+		"Median":[11.45,11.45],
+		"High":[12.6,12.6]
+	},
+	"FinancialCalendar":{
+		"Time":["210610","210610","210707","210902","220609","220714","220902","220902","221014","221019","221116","230119","230227","230420"],
+		"Type":["Shareholder meeting","Shareholder meeting","Special Situation","Earnings Call","Shareholder meeting","Sales and Revenue Call","Investor Day","Earnings Call","Shareholder meeting","Earnings Call","Shareholder meeting","Sales and Revenue Call","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200101","200101","200205","200205","200205","200205","200505","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[-0.05,-0.05,-0.04,-0.02553,-0.03632,0,-0.02,-0.02797,-0.02361,-0.02,-0.02,-0.02131,-0.02131,-0.02]
+	},
+	"About":{
+		"Employees":[95]
+	},
+	"NewsDN":{
+		"Time":["231901","222410","221910","220209","222104","221801","221001","210710","210109","210707","212506","212306","212206","211806","210904","211503","211502","211102","211102","211002","201412","202511","202511"],
+		"Author":["TDN Direkt","Leila Feratovic","TDN Direkt","Felix Sandblom","Jonas Christensen","Leila Feratovic","TDN Direkt","Kahni Ismail/TDN Direkt","DN / TDN Direkt","TDN Direkt/Herman Østensen","TDN Direkt","Louise Nygaard","Louise Nygaard","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","Christopher Magnus","Jonas Christensen","TDN Direkt/Erik Bucher Johannessen","Jonas Christensen","Jacob Trumpy","Anders Furuset"],
+		"Title":["Oppdatering fra Kingfish Company – omsatte for fem mill. euro i fjerde kvartal","The Kingfish Company får byggetillatelse i USA","The Kingfish Company økte omsettingen i tredje kvartal","Kingfish ser mulige forsinkelser og økte kostnader fremover","Kingfish Company mer enn doblet omsetningen i første kvartal","Kingfish har inngått langsiktig gjeldsfinansiering på ti mill. euro","The Kingfish Company omsatte for 38 mill. i fjerde kvartal","The Kingfish Company oppjusterer kapasitetsveiledningen til 1.500 tonn i året","The Kingfish Company tapte 46 millioner kroner på driften i første halvår","Kingfish omsatte for 2,3 millioner euro i andre kvartal","Kingfish lanserer nytt fiskeprodukt i Nederland","Creadev fikk gjennomslag for aksjekjøp. Eier nå 19,7 prosent av aksjene i Kingfish","Forlenger tilbud til The Kingfish Company","Vurderer storkjøp i The Kingfish Company","The Kingfish Company bekrefter avtale med amerikansk dagligvaregigant","DNB Markets tar opp dekning på The Kingfish Company","Kingfish avviser negative nyheter etter aksjesalg","Oppgang på Oslo Børs - Borr Drilling suste videre oppover","Orkla faller to prosent på børs","Storinvestor i Kingfish vurderer nedsalg","The Kingfish Company ekspanderer i Nederland","Svak nedgang på Oslo Børs tross bedring i USAs økonomi","Oppdrettsselskap stiger markert første handelsdag"]
+	},
+
+	"updated":"5/15/23 10:24:04",
+	"currency":"NOK"
+}

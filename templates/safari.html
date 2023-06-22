@@ -1,0 +1,27 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}
+
+{% endblock %}
+
+{%block body%}
+    <section name="content">
+        <p >{{lang['level']}}&nbsp;<span id="level">1</span></p>
+        <div id="data">
+            <canvas class="unselectable" id="history_graph" style="background-color: aliceblue;" height="600" width="800" ></canvas>
+        </div>
+        <div id="placebets">
+            <p> {{lang['stock will go']}} </p>
+            <div class="btn" onclick="placeBet(1)">{{lang['up']}}</div>
+            <div class="btn" onclick="placeBet(-1)">{{lang['down']}}</div>
+        </div>
+        <div id="results" style="display:hidden">
+            <p id="results_text"></p>
+            <div class="btn" onclick="load_next()">{{lang['continue']}}</div>
+
+        </section>
+{% endblock %}
+
+{%block tail%}
+<script src="../static/scripts/render_graph.js" onload="setup('history_graph','','safari');"></script>
+<script src="../static/scripts/safari.js" onload="setup();"></script>
+{% endblock %}

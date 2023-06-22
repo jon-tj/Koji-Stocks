@@ -1,0 +1,29 @@
+{
+	"name":"OTS",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":["0.05","0.05"],
+		"Median":["0.05","0.05"],
+		"High":["0.05","0.05"]
+	},
+	"FinancialCalendar":{
+		"Time":["180712","180712","181130","190523","190910","191127","210504","220404","220523"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[182],
+		"Incorporated year":[2005],
+		"Description":["Oceanteam ASA is a Norway-based offshore services company. The Company owns, charters and manages deep-water offshore support vessels (CSVs & Pipe Lay) and fast support vessels. The Company focuses on solution driven offshore services by combining engineering and equipment capabilities. The Company is engaged in the design, build and own a big pool of demountable turntables and additional equipment for a variety of cables, umbilicals, pipes and flowlines. The Company operates on a global basis and is comprised of two operating segments: Oceanteam Shipping and Oceanteam Solutions. Oceanteam is known for its reliability, flexibility and pro-active approach. The Company has offices in Baerum, Norway and a regional office in Velsen-Noord, the Netherlands."],
+		"City":["LYSAKER"],
+		"Phone":[55108240],
+		"Homepage":["https://www.oceanteam.nl/"]
+	},
+	"NewsDN":{
+		"Time":["230103","223108","210807","211705","211601","202701","190411","193008","192708","190207","180811","182709","182709","181109","180907","181605","181304","181304","181204","180904","182903","182303","182203","182203","181403","181303","181203","180503","182202","182202","182002","181402","181202","183001","170812","171411","170711","172410","170210","173008","172108","171708","173107","172707","172306","172006","171606","170206","170205","171204","172601","172501","171101","161612"],
+		"Author":["Jonas Solgård","TDN Direkt","Martin Kværnes","Synnøve Berg Meisingset","Jantra Hollum","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Christian Bjerknes","TDN Direkt","Anders Kvale","Anders Kvale","Anders Kvale","Thomas Frantsvold","Christian Bjerknes","Line Kaspersen","Line Kaspersen","Anders Kvale","Marit Tronier Halvorsen","Thomas Frantsvold","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","Anders Kvale","Jonas Christensen","Jonas Christensen","Jonas Christensen","Marit Tronier Halvorsen","Jonas Christensen","Line Kaspersen","TDN Finans","Jonas Christensen","Jonas Christensen","TDN Finans","Jonas Christensen","Jonas Christensen","Heljar Havnes","Bente Bjørndal","Børskommentator Thor Chr. Jensen","TDN Finans/Heljar Havnes","TDN Finans","Jonas Christensen","Heljar Havnes","TDN Finans","Thomas Frantsvold","TDN Finans"],
+		"Title":["Midlertidig toppsjef i Oceanteam går på dagen – erstattes av ny midlertidig toppsjef","Oceanteam med tap på én million dollar i første halvår","Oceanteam-toppsjef Henk van den IJssel går av","Oceanteam med kabelkontrakt","Oceanteam-båt sikret seg ny kontrakt for Southern Ocean","Oceanteam har fått ny konsernsjef","Oceanteam forlenger kontrakt","Oceanteam i pluss","Oceanteam-skip forlenger kontrakt med tre måneder","Oceanteam forlenger kontrakt med nederlandsk selskap","Oceanteam fikk med seg obligasjonseierne","Oceanteam-aksjen stiger 50 prosent på én kontrakt","Oceanteam sender skip ut i arbeid","Oceanteam med kabelkontrakt - aksjen opp 90 prosent","Faller til «dårligste noensinne» etter at børsen åpnet for handel i Oceanteam","Styremedlem tar over sjefsstolen i Oceanteam","Forslag om grenseoverskridende fusjon ble avlyst","Enige om Oceanteam-løsning","– Jeg vet ikke om jeg kan kalle det et bud","Keesjan Cordia skal sikre kriserammede Oceanteams fremtid","Oceanteam får fungerende sjef","Nytt styremedlem trekker seg i Oceanteam","Kreditorene overtar Oceanteam","Oceanteam-styreleder går på dagen","Stanser handel i Oceanteam","Finanstilsynet mener Oceanteam ga «villedende signaler»","Har ikke penger til å rømme landet","Må svare for seg innen onsdag","«Gammel nyhet» fra Oceanteam","Stanser handel i Oceanteam","Får revisorforlengelse","Oceanteam får bot på 1,3 mill. kroner av Oslo Børs","Seadrill skyter fart på børs","Oceanteam skrelles på børs etter varsel om tvangsoppløsning","Oceanteam vil selge deler av virksomhet","Oceanteam suspenderer revisor","Oceanteam får tilbake skip, men med en hake","Betalingsforsinkelser for OceanTeam","Oceanteam signerer kontrakt","Oslo Børs åpner opp","Avslutter engasjement med finansdirektør","Oceanteam ilagt gebyr av Finanstilsynet","Kontrakt for Oceanteam","Oceanteam tildelt kontrakt","Utsetter årsrapport","Oceanteam fullfører salget av sin andel av North Ocean 105","Oceanteam kom ikke heldig ut av møtet med Finanstilsynet","Advarer om avvikling","Endringer godkjent i Oceanteams obligasjonsavtale","Oceanteam inngår refinansieringsavtale","På agendaen i dag","Kraftig børsoppgang for børsmygger","Oceanteam har oppnådd forståelse med obligasjonseierne","Diavaz-Oceanteam usetter skiplevering"]
+	},
+
+	"updated":"5/15/23 10:24:09",
+	"currency":"NOK"
+}

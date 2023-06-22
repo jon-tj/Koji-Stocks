@@ -1,0 +1,33 @@
+{
+	"name":"SMCRT",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[19,19],
+		"Median":[22,22],
+		"High":[25,25]
+	},
+	"FinancialCalendar":{
+		"Time":["210824","210824","211110","211110","211122","211206","220223","220223","220224","220302","220303","220317","220330","220407","220520","220524","220524","220530","220608","220825","220831","221101","221102","221109","221205","221207","230215","230313","230428","230509"],
+		"Type":["Earnings Call","Earnings Call","Roadshow","Earnings Call","Roadshow - ABG Sundal Collier","Presentation","Roadshow - Carnegie - Day 1","Earnings Call","Roadshow - Carnegie - Day 2","Roadshow - Berenberg - Day 1","Roadshow - Berenberg - Day 2","Presentation","Presentation","Presentation","Shareholder meeting","Roadshow - ABG Sundal Collier","Earnings Call","Roadshow - Danske Bank","Roadshow - Berenberg","Earnings Call","Presentation","Earnings Call","Roadshow","Presentation","Presentation","Presentation","Earnings Call","Presentation","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200725","201025"],
+		"Difference%":["0.1","0.06","-0.01","71.4"]
+	},
+	"About":{
+		"Employees":[183],
+		"Incorporated year":[2017],
+		"Description":["Smartcraft ASA is a Norway-based provider of software solutions and digital tools for craftsmen and the construction industry. The Company delivers Software as a Service (SaaS) solutions to help craftsmen and construction companies become more efficient and profitable as well as to simplify their businesses. Smartcraftâ€™s solutions include cable dimensioning, project management for small and medium sized businesses, Quality and Safety as well as EL-VIS solutions, that offer tools and templates for electricians. The Company has several subsidiaries, including SmartCraft Sweden AB, Homerunbynet Oy, SmartCraft Norway AS and Kvalitetskontroll AS. Smartcraft ASA has 14 offices across Norway, Sweden and Finland."],
+		"City":["HONEFOSS"],
+		"Phone":["0"],
+		"Homepage":["https://smartcraft.com/"]
+	},
+	"NewsDN":{
+		"Time":["220211","220111","221006","222405","222803","222302","212506","212406"],
+		"Author":["TDN Direkt","Bjørn Borkamo","TDN Direkt","Jonas Christensen","Martin Kværnes","TDN Direkt","Erik Bucher Johannessen","Erik Bucher Johannessen"],
+		"Title":["Smartcraft vil gjennomføre tilbakekjøp av aksjer","Smartcraft økte omsetningen i forrige kvartal","SmartCraft kjøper hele Elverdi Norge","It-selskap for håndverkere vokser mer","Datteren til finansdirektøren kjøper i Smartcraft","Smartcraft økte resultatet i fjerde kvartal: – Ser positivt på fremtiden","Oslo Børs ender uken med oppgang","Smartcraft bykset rett opp på første børsdag"]
+	},
+
+	"updated":"5/15/23 10:24:13",
+	"currency":"NOK"
+}

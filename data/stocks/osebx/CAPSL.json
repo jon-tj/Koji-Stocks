@@ -1,0 +1,19 @@
+{
+	"name":"CAPSL",
+	"About":{
+		"Employees":[7],
+		"Incorporated year":[2014],
+		"Description":["Co2 Capsol AS is a Norway-based pure play company offering carbon capture technologies that prevent the captured carbon dioxide from being released into the atmosphere. The Companyâ€™s activities include capturing Carbon Dioxide (CO2) from Waste-to-Energy (WtE), power plants and industrial facilities by using the patented Capsol EoP (End of Pipe) solution. It is a unit that utilizes a patented heat recovery process in conjunction with Hot Potassium Carbonate (HPC) and captures carbon dioxide from large scale emitters, such as cement, steel, biomass, power production, process and chemical industry, Waste-to-Energy, Liquefied Natural Gas (LNG) and hydrogen. The captured carbon dioxide can be utilized as a component in other industrial processes or for enhanced oil recovery. "],
+		"City":["OSLO"],
+		"Phone":["0"],
+		"Homepage":["https://www.co2capsol.com/"]
+	},
+	"NewsDN":{
+		"Time":["220202","212812"],
+		"Author":["Jonas Christensen","Adham Rana"],
+		"Title":["CO2 Capsol signert intensjonsavtale","Oslo Børs stenger opp tirsdag"]
+	},
+
+	"updated":"5/15/23 10:23:59",
+	"currency":"NOK"
+}

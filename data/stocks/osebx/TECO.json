@@ -1,0 +1,38 @@
+{
+	"name":"TECO",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[12,12],
+		"Median":[15,15],
+		"High":[41.77,41.77]
+	},
+	"FinancialCalendar":{
+		"Time":["210805","210805","220211","220520","220531","221111","230315","230317","230413"],
+		"Type":["Presentation","Presentation","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Presentation"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200205","200205","200205","200505","200725","200725","201025"],
+		"Difference%":[-0.492,-0.026,-0.12,-0.12,-0.09,-0.08,-0.1177,-0.07]
+	},
+	"About":{
+		"Employees":[23],
+		"Incorporated year":[2019],
+		"Description":["Teco 2030 ASA is a Norway-based engineering and equipment development company with focus on a greener and cleaner environment. The Company is developing hydrogen fuel cells that enable ships and other heavy-duty applications to become emissions-free. The Company is also developing other solutions that can help the maritime industry to reduce its emissions, such as exhaust gas cleaning and carbon capture systems for ships. It operates within four business areas: Hydrogen Fuel Cells, that convert hydrogen into electricity while emitting nothing but water vapour and warm air; Carbon Capture & Storage, that reduce greenhouse gas emissions from the shipping industry; Future Funnel, which is gas cleaning system that has been developed to enable ships to comply with upcoming and stricter environmental regulations; and Ballast Water Treatment Systems eliminate marine organisms that are present in the ballast water."],
+		"City":["LYSAKER"],
+		"Phone":[67200300],
+		"Homepage":["https://teco2030.no/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["NOK"],
+		"PE":[-16.86]
+	},
+	"NewsDN":{
+		"Time":["231703","222112","222012","221512","221212","220512","221711","221411","221111","220910","220209","220407","223105","223005","223005","220104","222002","221502","221102","222601","221201","211712","211612","212510","211410","210710","210410","212309","213108","211608","211308","210707","212306","212804","211904","211103","211003","211003","210403","211202","210502","210402","212901","210501","210401","200812","200812","201811","201711","201910","201210"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt","Lene Marita Berg Hermann","Lene Marita Berg Hermann","Jonas Christensen","TDN Direkt","Jonas Solgård","TDN Direkt","Lene Marita Berg Hermann","Jonas Solgård","TDN Direkt","TDN Direkt","Kahni Ismail","Jonas Solgård","Kahni Ismail","Katrine Nordanger Mjelde","TDN Direkt","TDN Direkt","Jonas Christensen","Till Zhang","Emilie Solberg","Martin Kværnes","TDN Direkt","TDN Direkt","Martin Kværnes","TDN Direkt/Live Tronstad","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","Herman Østensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Magnus Newth","Magnus Newth","Magnus Newth","Synnøve Berg Meisingset","TDN Direkt","Kenneth Lund","Leila Feratovic","TDN Direkt","Leila Feratovic","Jonas Christensen","TDN Direkt","Henrik Giæver","Jonas Christensen","Ida Grieg Riisnæs","Stian Øvrebø Johannessen","TDN Direkt"],
+		"Title":["Teco 2030 tapte 26,7 mill. kroner i fjerde kvartal","Teco 2030 har signert tilskuddsavtale","TECO 2030 signerer kontrakt med thyssenkrupp Automation Engineering","TECO har fullført produksjonen for første brenselcellestack","TECO 2030 inngår strategisk samarbeid med SinoHyKey","Nytt styremedlem i Teco 2030","Styret i Teco foreslår Tim Young som styremedlem","Teco 2030 henter 100 mill. kroner i friske penger","Underskuddet økte i Teco i tredje kvartal","Teco 2023 henter 11 millioner i rettet emisjon","Teco 2030 halverte inntektene og nær doblet tapene i første halvår","Hydrogenløsningsselskapet Teco 2030 mottar millionsum i støtte til bygging av fartøy","Tapene øker for Teco 2030","Oslo Børs stiger rundt en prosent fra start mandag","Teco 2030 sikrer konvertibelt lån på 70,6 mill. kroner","Oslo Børs faller fra start – Zaptec stuper fra start","Teco 2030 henter mer penger fra saudiarabisk selskap","Teco 2030 har inngått strategisk samarbeidsavtale Al Misehal Group","Teco 2030 med -17 millioner kroner i driftsresultat i fjerde kvartal","Oslo Børs stiger fra start","Teco 2030 og Gen2 Energy har signert intensjonsavtale om hydrogenprosjekter","Teco har gjennomført en rettet emisjon på 45 millioner","Teco vurderer rettet emisjon på inntil 65 millioner kroner","Teco mottar 50 millioner i støtte fra Innovasjon Norge","Teco inngår rammeavtale med Chemgas Shipping","Teco 2030 hentet 21,5 mill. i frisk kapital","Teco 2030 har mottatt prinsippgodkjennelse","Teco får myndighetsstøtte i form av skattelette","Everfuel og Teco 2030 finner tonen","Teco 2030 inngår intensjonsavtale med Greenstat om hydrogenprosjekt","Inntekter for Teco 2030, men tapene øker","Teco mottar ordre til verdi på 2,35 millioner kroner","Teco 2030 henter 20 mill. fra tre investorer","Underskudd på 13,3 mill. for Teco 2030 i første kvartal","Teco 2030 inngår samarbeid med Implenia Norge","Teco 2030 «bløffet børsen» ifølge Finansavisen - nå svarer hydrogenselskapet","Oslo Børs åpner flatt - grønne aksjer stiger","Teco 2030 planlegger «gigafabrikk» i Narvik - vil investere milliard over ti år","TECO 2030 har inngått intensjonsavtale","TECO 2030 signerer samarbeidsavtale med Slåttland","Teco 2030 foreslår aksjesplitt","Teco 2030 inngår samarbeidsavtale med nederlandsk verft","Teco 2030 tapte 27 mill. i 2020","Teco 2030 mottar ordre verdt 1 mill.","Teco 2030 ansetter ny leder","Teco 2030 lanserer neste generasjons utslippsreduksjonssystem","Teco 2030 lanserer nye systemer for utslippsreduksjon","Oslo Børs åpner flatt onsdag","Teco 2030 ny partner i Østerrike","Flatt på Oslo Børs","Stian Aakre blir ny sjef for Teco 2030"]
+	},
+
+	"updated":"5/15/23 10:24:14",
+	"currency":"NOK"
+}

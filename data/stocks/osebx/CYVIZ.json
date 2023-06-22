@@ -1,0 +1,29 @@
+{
+	"name":"CYVIZ",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[55,55],
+		"Median":[55,55],
+		"High":[55,55]
+	},
+	"FinancialCalendar":{
+		"Time":["210527","210831","211119","220310","220513","220601","220817","220831","221111","230210","230512"],
+		"Type":["Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Presentation","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"About":{
+		"Employees":[109],
+		"Incorporated year":[1995],
+		"Description":["Cyviz AS is a Norway-based global technology provider for comprehensive conference rooms, control rooms and experience centers. The Company develops, markets, sells and installs software and hardware visualization solutions for all types of meeting rooms based on a self-developed IT platform for collaboration, management and control of the meeting rooms in various organizations, including participating in other companies with similar activities. The Company serves global enterprises and governments. The Company has 100% ownership in subsidiaries: Cyviz LLC (USA), Cyviz Limited (United Kingdom), Cyviz Pty Ltd (Australia) and Cyviz Pte Ltd (Singapore). The Company operates in Norway, United Kingdom, United States, United Arab Emirates, Singapore, Saudi Arabia and Indonesia."],
+		"City":["OSLO"],
+		"Phone":[51635580],
+		"Homepage":["https://www.cyviz.com/"]
+	},
+	"NewsDN":{
+		"Time":["222112","221612","221111","221507","220707","220407","221003","212312","210908","210807","211106","211703","212402"],
+		"Author":["Kenneth Lund","Lene Marita Berg Hermann","Malin Noem","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Kahni Ismail","TDN Direkt","Marcus Hippe","Christopher Magnus","TDN Direkt","Mads Randen"],
+		"Title":["Cyviz med forsvarskontrakt","Teknologiselskapet Cyviz har inngått en ny avtale Midtøsten-kunde","Cyviz økte inntektene med over 80 prosent i tredje kvartal","Cyviz-kontrakt med militær kunde i Midtøsten","Cyviz har inngått avtale med Techlit SCM","Cyviz tildelt kontrakt av Aker BP","Cyviz doblet omsetningen – resultat fortsatt i minus","Cyviz er tildelt kontrakt på 18,9 millioner kroner","Cyviz fikk millionkontrakter i Midtøsten","Teknologiselskapet Cyviz inngår kontrakter med Microsoft","Oslo Børs brøt den negative trenden","Karbon Invest skal investere 49 mill. i Cyviz","It-giganten Microsoft inngår partnerskap med Euronext Growth-selskap"]
+	},
+
+	"updated":"5/15/23 10:24:00",
+	"currency":"NOK"
+}

@@ -1,0 +1,190 @@
+:root {
+    /*--main_background: rgba(10,20,50,1);
+    --outline_color: rgba(0,130,225,0.8);
+    #--outline_color: "red" linear-gradient(to right, rgba(0,130,225,0.8), rgba(10,20,50,1));
+    --white: #ffffff;
+    --title_color: #2962ff;
+    --dark_orange: #FF8C00;*/
+    
+    --main_background: #212329;
+    --outline_color: #2f323a;
+    --text_color: #ffffff;
+    --title_color: #2962ff;
+    --dark_orange: #FF8C00;
+    --dark_green: #008080;
+    --dark_purple: #7b1fa2;
+    --dark_cyan: #268600;
+    --dark_orange_faded: linear-gradient(to bottom, var(--outline_color) 0%, var(--outline_color) 5%, var(--dark_orange) 100%);
+    --dark_green_faded: linear-gradient(to bottom, var(--outline_color) 0%, var(--outline_color) 5%, var(--dark_green) 100%);
+    --dark_purple_faded: linear-gradient(to bottom, var(--outline_color) 0%, var(--outline_color) 5%, var(--dark_purple) 100%);
+    --dark_cyan_faded: linear-gradient(to bottom, var(--outline_color) 0%, var(--outline_color) 5%, var(--dark_cyan) 100%);
+    --input_color: linear-gradient(to bottom, var(--main_background) 0%, var(--main_background) 5%, var(--dark_green) 500%);
+}
+
+body {
+    background-color: var(--main_background);
+    font-family: 'Family', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    background-color: var(--main_background);
+    color: var(--text_color);
+
+    font-family: 'Family', sans-serif;
+    padding: 0px;
+    margin: 0px;
+
+    display: flex;
+    flex-direction: column;
+}
+figure>section {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+}
+
+/* STOCK TABLE SITE STYLES */
+#stock_page {
+    background-color: var(--outline_color);
+    font-family: arial, sans-serif;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.canvas_position {
+    margin-top: 1em;
+}
+aside {
+    margin-top: 1em;
+    /*min-width: 25%;
+    width: fit-content;*/
+    width:-webkit-fill-available;
+
+}
+
+.GraphButton {
+    background-color: var(--main_background);
+    color: var(--text_color);
+    margin: 0.1em;
+    border: none;
+    border-radius: 0px;
+    padding: 1em;
+}
+/* Vertical bar hack, xd */
+.GraphButton:nth-child(n+2) {
+    border-left: 1px solid var(--outline_color);
+    clip-path: polygon(2% 15%, 2% 0, 100% 0, 100% 100%, 2% 100%, 2% 85%, 0 85%, 0 15%);
+}
+.GraphButton:hover:nth-child(n+2) {
+    border-left: 1px solid var(--main_background);
+}
+.GraphButton:hover {
+    background-color: var(--outline_color);
+    clip-path: none;
+}
+
+#canvas_overlay_box {
+    z-index: 2;
+    color: var(--text_color);
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    background-color: black;
+    width: 50%;
+    height: 45%;
+}
+
+.canvas_overlay_search_input {
+    margin: 1em;   
+}
+.canvas_overlay_search_li_result_elements {
+    list-style: none;
+    min-width: fit-content;
+    padding: 0.2em;
+    margin: 0.2em;
+}
+.canvas_overlay_search_li_result_elements:hover {
+    background-color: var(--main_background);
+}
+.overlay_sideline_ol {
+    z-index: 1;
+    position: absolute;
+    list-style: none;
+    padding: 0.5em;
+    margin: 0px;
+    width: 10%;
+    left: 15%;
+    white-space: nowrap;
+}
+.overlay_sideline_indicator_li {
+    display: flex;
+    width: 100%;
+}
+
+
+/* COOL STUFF */
+/*.block_select {
+    display: inline-block;
+    height: fit-content;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+    text-align: center;
+    background-color: var(--dark_green_faded);
+    color: white;
+    margin: 0;
+}
+.block_select[type="input"] {
+    width: 2em;
+}
+
+.block_select[type="input"]::-webkit-inner-spin-button,
+.block_select[type="input"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.block_p {
+    margin: 0;
+    height: fit-content;
+}*/
+.block_strategy_title {
+    border-bottom: 5px solid var(--main_background);
+    text-align: center;
+}
+.block_strategy_sub_title {
+    margin: 0px;
+}
+.block_strategy {
+    background-color: var(--outline_color);
+    padding: 5px;
+    margin: 10px;
+}
+.block_strategy_input {
+    min-height: 1em;
+
+    background-color: var(--main_background);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    
+}
+.edit_indicator_frame {
+    margin: 1em;
+    display: inline-grid;
+    grid-template-columns: auto 1fr;
+}
+.strikethrough {
+    text-decoration: line-through;
+}
+.trash_button_indicator {
+    content: url("/static/icons/trash_closed.png");
+    width: 1.3em; color: white; 
+    filter: invert(1) contrast(500%);
+    transition: 1s;
+}
+.trash_button_indicator:hover {
+    content: url("/static/icons/trash_open.png");
+}

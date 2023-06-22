@@ -1,0 +1,15 @@
+{
+	"name":"OBSRV",
+	"FinancialCalendar":{
+		"Time":["210512","210512","210521","210820","211103","220217","220603","220603","220825","221103","221215","230217"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Presentation","Earnings Call"]
+	},
+	"NewsDN":{
+		"Time":["232303","221412","221412","220306","222803","220803","221401","212709","212008","210306","212302","211202","210502","201506","201205"],
+		"Author":["TDN Direkt/DN","TDN","TDN","Jonas Solgård","Lene Marita Berg Hermann","TDN Direkt","TDN Direkt / Christopher Magnus","Synnøve Berg Meisingset","Till Zhang","Ola Magnussen Rydje","TDN Direkt","Christopher Magnus","Erik Bucher Johannessen","Magnus Newth","TDN Direkt"],
+		"Title":["Observe Medical er sikret kortsiktig finansiering","Observe Medical forhandler om oppkjøp av produksjonsfasilitet i Italia","Noen store aksjonærer støtter Observe Medicals finansieringsplan","Observe Medical doblet tapet i første kvartal","Björn Larsson går av som toppsjef i Observe Medical","Observe Medical utvider til USA","Observe Medical kjøper Biim Ultrasound","Observe Medical skal levere til et større sykehus i Italia","Observe Medical fikk et positivt resultat","Hovedindeksen stenger flatt - Mohn-selskap dagens vinner","Større underskudd for Observe Medical","Kloakkaksje trosset nedgangen på Oslo Børs","Arne Gunnar Harnes flagger i Observe Medical – eier over fem prosent","Observe Medical henter 45 mill. med stor rabatt","Observe Medical med nedgang i første kvartal"]
+	},
+
+	"updated":"5/15/23 10:24:09",
+	"currency":"NOK"
+}

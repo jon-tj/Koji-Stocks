@@ -1,0 +1,33 @@
+{
+	"name":"ANDF",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[55,55],
+		"Median":[58,58],
+		"High":[60,60]
+	},
+	"FinancialCalendar":{
+		"Time":["210506","210506","210903","220428","220603","220915","230316","230511"],
+		"Type":["Shareholder meeting","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200725","200725","200725","200725","201025"],
+		"Difference%":[-0.14,-0.34,-0.34,-0.26895,-0.17,-0.32,-0.08,-0.34,-0.1958,-0.2523,-0.35]
+	},
+	"About":{
+		"Employees":[26],
+		"Incorporated year":[2014],
+		"Description":["Andfjord Salmon AS is a Norway-based aquaculture company. The Company's developed a concept for a flow-through plant with seawater that combines the advantages of traditional farming in the sea and land-based farming. Andfjord Salmon aims to build fish-friendly and environmentally friendly facility for salmon, with the lowest possible energy consumption and cost. The Company develops production facilities and operating premises on Andoya. It holds a license to farm 10,000 tonnes of maximum allowed biomass (MAB) and is in the first phase of development on fish farms at Kvalnes on Andoya to exploit the licence. The Companyâ€™s main activities consist of the development and construction of land-based fish farms. "],
+		"City":["SORTLAND"],
+		"Phone":["0"],
+		"Homepage":["https://www.andfjordsalmon.com/"]
+	},
+	"NewsDN":{
+		"Time":["220212","220111","221509","222207","222306","222206","221406","220306","221802","211612","210312","210309","211203","200212","200112","200610","200907"],
+		"Author":["TDN Direkt","Kimmo Risbakken","Sara Sofie Tallaksen","Felix Sandblom","Felix Sandblom","Jonas Christensen","TDN Direkt","Jonas Christensen","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","Birk Helle","Birk Helle","Erik Bucher Johannessen"],
+		"Title":["14,7 mill. i minus på driften for Andfjord Salmon","Andfjord Salmon melder om kilostor fisk","Andfjord Salmon hadde store underskudd i andre kvartal","Andefjord Salmon gir opsjoner til toppansatte","Ekstraordinær generalforsamling i Andfjord Salmon","Portugisere tar jafs av Andfjord Salmon","Andøy kommune godkjenner utbygging av landbasert oppdrettsanlegg","Andfjord Salmon tapte 10,6 mill. – klar for smoltslipp i slutten av juni","Rettet emisjon i Andfjord Salmon","Andfjord Salmon verifiserer oppdrettsteknologi","11 millioner i minus for Andfjord Salmon i tredje kvartal","Anfjord Salmon tapte 6,9 mill. på driften i andre kvartal","Andfjord Salmon tapte 6,9 mill. i fjerde kvartal","Andfjord Salmon fyller på kassen","Andfjord Salmon vil hente frisk kapital","Andfjord Salmon henter ny finansdirektør","Styremedlem-selskap kjøper aksjer for 500.000 kroner i Andfjord Salmon"]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

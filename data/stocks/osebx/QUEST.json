@@ -1,0 +1,10 @@
+{
+	"name":"QUEST",
+	"FinancialCalendar":{
+		"Time":["220531","220623","220715","220829","221017","221115"],
+		"Type":["Earnings Call","Shareholder meeting","Sales and Revenue Call","Earnings Call","Sales and Revenue Call","Earnings Call"]
+	},
+
+	"updated":"5/15/23 10:24:11",
+	"currency":"NOK"
+}

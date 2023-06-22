@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        {% block title %}{% endblock %}{% if in_session %}🔑{%endif%}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/base.css') }}"/>
+    {% block head %}{% endblock %}
+    <link rel="icon"  href="/static/favicon.png">
+</head>
+
+<body>
+    <!--Navbar-->
+    <div class="navbar">
+        <div class="navbar" style="cursor:pointer; width:fit-content;" onclick="window.location=getLang()">
+            <img src="/static/favicon.png" alt=""><h2 id="navbar_h2_logo_title"><span class="logo">Koji&nbsp;</span>{{lang['Stock Services']}}</h2>
+        </div>
+        <div id="navbarUser">
+            <img id="navbar_lang" src="/static/icons/lang{{lang['code']}}.png" class="unselectable" alt="Language" onclick="toggleLangBox()">
+            <section id="navbar_langBox"> <!--Language selection-->
+                <div class="btn"  onclick="changeLang('/no')">
+                    <img src="/static/icons/lang/no.png" class="unselectable icon" alt="Norwegian">
+                    {{lang['Norwegian']}}
+                </div>
+                <div class="btn"  onclick="changeLang('/en')">
+                    <img src="/static/icons/lang/en.png" class="unselectable icon" alt="English">
+                    {{lang['English']}}
+                </div>
+                <div class="btn"  onclick="changeLang('/ch')">
+                    <img src="/static/icons/lang/ch.png" class="unselectable icon" alt="Chinese">
+                    {{lang['Chinese']}}
+                </div>
+            </section>
+            <div class="spacer"></div>
+            <button class="btn_inline" onclick="toggleSettingsBox();" id="btn_user_navbar" class="unselectable">{{lang['Log in']}}</button>
+            {%if in_session%}
+            <section id="navbar_settingsBox">
+                <section>
+                    <img id="profile_picture" 
+                    {% if session["access_level"]==3 %}
+                    src="/static/icons/admin.png"
+                    {%else%}
+                    src="/static/icons/unknown_user_day.png"
+                    {%endif%} class="unselectable" alt="User profile picture">
+                </section>
+                <div class="btn" onclick="logOutUser()">{{lang['Log out']}}</div>
+                {% if session["access_level"]!=3 %}
+                <div class="btn" onclick="window.location=getLang()+'/settings'">{{lang['Settings']}}</div>
+                {% endif %}
+                <div class="btn" onclick="window.location=getLang()">{{lang['Overview']}}</div>
+            </section>
+            {%endif%}
+        </div>
+    </div>
+    
+    <!--Error box-->
+    <div id="errBox">
+        <p>Something went wrong :(</p>
+    <div onclick="errBox.classList.remove('visible'); ">
+        Okay
+    </div>
+    </div>
+
+    <!--Enter your content-->
+    <div id="_before">
+    {% block before %} {% endblock %}
+    </div>
+    <div class="_body" id="_body">
+
+
+        <div class="_content">
+            {% block body %} {% endblock %}
+        </div>
+        
+        <aside style="float:right">
+            {% block aside_right %} {% endblock %}
+        </aside>
+    </div>
+    {% block after %} {% endblock %}
+
+    <!--Legal footer-->
+    <div class="_copyright">
+        <p>Koji {{lang['Stock Services']}}. {{lang['copyright']}}</p>
+        <table>
+            <tr>
+                <td>
+                    <span style="font-weight:700">{{lang['Contact us']}}</span>
+                </td>
+                <td>
+                    <span style="font-weight:700">Koji</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="/static/icons/phone.png" class="tinyimg" alt=""><span>+47 909 50 090</span>
+                    <br><br>
+                    <img src="/static/icons/email.png" class="tinyimg" alt="">
+                    
+                    <a href="mailto:po@koji.org"><span>po@koji.org</span></a>
+                </td>
+                <td>
+                    <a href="{{lang['code']}}/about">{{lang['Who are we?']}}</a>
+                    <br><br>
+                    <a href="{{lang['code']}}/about?section=faq">{{lang['Check our FAQs']}}</a>
+                    
+                </td>
+            </tr>
+        </table>
+        <p>{{lang['disclaimer']}}</p>
+    </div>
+    
+</body>
+
+<script>
+    //This shady piece of code loads the jinja language content to a js variable, which we can use for dynamic content :)
+    let lang={{ lang | tojson }};
+    let session={{ session | tojson }};
+    let in_session='{{ in_session }}'=='True';
+    //console.log(in_session);
+</script>
+<script src="/static/scripts/helpers.js"></script>
+<script src="/static/scripts/navbar_and_base.js"></script>
+<script src="/static/scripts/overview.js" onload="setup(); "></script>
+
+{% block tail %}{% endblock %}
+</html>

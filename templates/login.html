@@ -1,0 +1,73 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}{% endblock %}
+
+{%block body%}
+    <img src="/static/art/login_bg.gif" id="login_background">
+    <section id="sidebar_login">
+        <form action="api/auth" method="post" id="login_form" >
+            <table style="padding:1em">
+                <tr>
+                    <td> <label for="username">{{lang['Username']}}</label> </td>
+                    <td> <input type="text" name="username" id="username"> </td>
+                </tr>
+                <tr>
+                    <td> <label for="password">{{lang['Password']}}</label> </td>
+                    <td> <input type="password" name="password" id="password"> </td>
+                </tr>
+            </table>
+            
+            <div onclick="attempt_login()" class="btn">{{lang['Log in']}}
+            </div>
+            <br>
+            
+            
+            <p id="errMsg" style="display:none">
+            </p>
+        </form>
+        <section class="footer">
+            
+            
+            <div onclick="window.location='..'+getLang()" style="margin-top: 0.3em;" class="btn">{{lang['Go back']}}</div>
+            <div class="vspacer"></div>
+            <div onclick="attempt_login()" class="btn disabled">{{lang['Alternative login method']}}</div>
+            <div class="vspacer"></div>
+            <div onclick="attempt_login()" class="btn disabled">{{lang['Help logging in']}}</div>
+        </section>
+    </section>
+{% endblock %}
+
+{%block aside_right%}
+
+
+{% endblock %}
+
+{%block tail%}
+<script>
+    async function attempt_login(){
+        let username=document.getElementById('username').value;
+        let password=document.getElementById('password').value;
+        
+        await fetch("/api/auth",{
+            method:'POST',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({username:username,password:password})
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            if(r['successful']=='true'){
+                window.location=getLang();
+            }else{
+                printErr(r['errMsg']);
+            }
+        });
+    }
+    function printErr(msg){
+        let e=document.getElementById('errMsg');
+        e.style.display='block';
+        e.innerHTML=msg;
+    }
+</script>
+
+{% endblock %}

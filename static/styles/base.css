@@ -1,0 +1,311 @@
+.navbar{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    height:2.5em;
+    padding:0.5em;
+    background-color: rgb(18, 20, 22);
+    z-index: 10;
+    border-bottom: 2px solid gold;
+}
+body{overflow-x: hidden;}
+.navbar>img{
+    height:100%;
+}
+.navbar>h2{
+    color:rgb(219, 219, 219);
+    display: inline;
+    position: relative;
+    bottom: 0.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+span.logo{color:rgb(107, 226, 247)}
+._campaign{
+    top: 3.5em;
+    position: relative;
+}
+._campaign>img{
+    z-index: -1;
+}
+._campaign>.container{
+    position: absolute;
+    top:0;
+    bottom:0;
+    text-align: center;
+    height: 100%;
+    width:100%;
+    border: none;
+}
+._body{
+    top: 3.5em;
+    position: relative;
+    min-height:70vh;
+    padding:1em;
+    margin-bottom: 3.5em;
+    text-align: center;
+}
+._copyright{
+    min-height: 20vh;
+    background-color: rgb(226, 226, 226);
+    padding:1em;
+    text-align: center;
+}
+._copyright>table{
+    width:50%;
+    margin: auto;
+    border: none;
+}
+._content{
+    width:100%;
+    margin: auto;
+}
+.btn_inline{
+    display: inline-block;
+    background-color: rgb(48, 48, 48);
+    color:white;
+    cursor: pointer;
+    padding:0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 1em;
+    outline: 1px solid gray;
+    transition: background-color 0.1s;
+}
+.btn_inline:hover{
+    background-color: rgb(78, 78, 78);
+}
+#navbarUser{
+    float: right;
+    display: inline;
+    margin-top: 0.2em;
+    margin-right: 0.5em;
+}
+.tinyimg{
+    position: relative;
+    top:0.4em;
+    height:1.5em;
+    margin-top: -1em;
+    margin-right: 0.5em;
+}
+a{
+    text-decoration: none;
+    color:rgb(59, 86, 175);
+    transition: border 0.1s;
+    border-bottom: 1px solid transparent;
+}
+a:hover{
+    border-bottom: 1px solid rgb(150, 166, 218);
+}
+.short{
+    max-width:12em;
+    display: inline-block;
+}
+.home_btn{
+    text-align: center;
+    width:40%;
+    height:24px;
+    border-radius: 0.5em;
+    padding: 0.7em;
+    border: 2px solid rgb(192, 192, 192);
+    color:white;
+    cursor: pointer;
+    transition: background-color 0.15s, border 0.15s;
+    margin-top: 0;
+    margin: 0.5em;
+}
+div.home_btn:hover{
+    background-color: rgba(19, 19, 19, 0.5);
+    border: 2px solid white;
+}
+td>p{
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p.a0,
+p.a1{
+    font-size: 5em;
+    color:rgb(107, 226, 247);
+}
+p.a2{
+    font-size: 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+
+p.a3{
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+p.a4{
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+a.a4{
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(120, 152, 212);
+    position: relative;
+    transition: border 0.1s;
+    border-bottom: -3px solid transparent;
+}
+a.a4:hover{
+border-bottom: 3px solid rgb(133, 153, 190);
+}
+
+#navbar_langBox{
+    display: inline-block;
+    background-color: rgb(226, 226, 226);
+    position: absolute;
+    top:3.5em;
+    right:0;
+    width:14em;
+    padding:1em;
+    border-bottom-left-radius: 1em;
+    transition: transform 0.2s;
+    transform:translate(16em,0px);
+    display: none;
+}
+#navbar_langBox.visible{transform:translate(0px,0px);}
+.btn>.icon{float: left; width:1.5em;}
+
+#navbar_settingsBox{
+    background-color: rgb(226, 226, 226);
+    position: absolute;
+    top:3.5em;
+    right:0;
+    width:14em;
+    padding:1em;
+    border-bottom-left-radius: 1em;
+    transition: transform 0.2s;
+    transform:translate(16em,0px);
+    display: none;
+}
+#navbar_settingsBox.visible{transform:translate(0px,0px);}
+#navbar_langBox>div,
+#navbar_settingsBox>div{width:100%; margin-bottom: 3px;}
+#profile_picture{border-radius: 50%;}
+#navbar_settingsBox>section{margin:auto;width:70%;}
+#btn_user_navbar>img{height:1em; position: relative; top:0.2em; left:0.15em; margin-left: 1.5em;}
+#navbar_lang{
+    height:2em;
+    float:left;
+    cursor: pointer;
+    border-radius: 50%;
+    border:1px solid black;
+    transition: outline 0.1s;
+    outline: 1px solid transparent
+}
+#navbar_lang:hover{outline:1px solid white;}
+div.spacer{width:1em;height:1em;display: inline-block;}
+
+#errBox{
+    position:fixed;
+    bottom:3em;
+    width:50%;
+    left:25%;
+    z-index:2;
+    color:white;
+    background-color: rgb(194, 58, 58);
+    border-radius: 1em;
+    outline:2px solid rgb(114, 0, 0);
+    padding:1em;
+    height:6em;
+    visibility: hidden;
+}
+#errBox.visible{visibility: visible;}
+#errBox>div{
+position: absolute;
+bottom: 1em;
+right:1em;
+padding:1em;
+border-radius: 1em;
+background-color: rgb(114, 0, 0);
+transition: background-color 0.1s;
+outline:1px solid white;
+cursor: pointer;
+}
+#errBox>div:hover{
+    background-color: rgb(136, 34, 34);
+}
+
+button{
+    /* The 3d styling is bad... */
+	border: none;
+	font: inherit;
+    padding:0.7em;
+    cursor: pointer;
+    border-radius: 0.5em;
+}
+
+@media(orientation:landscape){
+    p.a1 {
+        font-size: 3em;
+    }
+    p.a2 {
+        font-size: 2em;
+    }
+    .logo.main{position: relative; top:-1.5em}
+}
+@media(orientation: portrait){
+    p.a0,p.a1 {
+        font-size: 3em;
+    }
+    .home_btn.short{
+        max-width: none;
+    }
+    p.a1>span{
+        position: relative;
+        top:-0.8em;
+    }
+    p.a2 {
+        font-size: 1.4em;
+    }
+    #banner_clean{width:auto; height:40vh}
+    #banner_clean.insesh{height:75vh;}
+    ._campaign{overflow-x: hidden;}
+    #userData{display: none;}
+    #safariBox{width:100%}
+    
+    
+    #navbar_h2_logo_title {
+        font-size: 1em;
+    }
+    .navbar>img{height:80%}
+    .overviewBox {
+        margin: 0px;
+        grid-template-columns: 0fr;
+        width: calc(100% - 2em);
+        min-height: 60vh;
+    }
+    #portfolioBox{
+        position: absolute;
+        top:0;
+        left:1em;
+    }
+    #safariBox{
+        position: absolute;
+        bottom: 0em;
+        height:20%;
+        min-height: unset;
+        overflow: hidden;
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+    #safariStats>*{
+        position: absolute;
+        z-index: 1;
+        width: 100%;
+    }
+    #safariStats>#safari{
+        transform: translate(0,-1em);
+        text-shadow: 1px 1px 2px #fff,-1px -1px 2px #fff,1px -1px 2px #fff,-1px 1px 2px #fff;
+    }
+    #safariStats>.btn{margin-left: 25%; width:50%}
+    #safari_banner{
+        z-index: 0;
+    }
+}

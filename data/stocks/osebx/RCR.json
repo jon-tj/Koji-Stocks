@@ -1,0 +1,21 @@
+{
+	"name":"RCR",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[40,40],
+		"Median":[40,40],
+		"High":[40,40]
+	},
+	"FinancialCalendar":{
+		"Time":["211112","220218","220408","220819","221111","230414"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["221908","220104","221802","221001","211211","210209"],
+		"Author":["TDN Direkt","Jonas Christensen","Katrine Nordanger Mjelde","TDN Direkt","Kenneth Lund","Jonas Christensen"],
+		"Title":["Resultatfall for eiendomsselskapet Recreate","R8 Property handler eiendom i Oslo","Resultatforbedring for eiendomsselskapet R8 Property","R8 Property inngår leieavtale i Skien","Svakere resultater fra R8 Property","Høyere inntekter og resultat for R8 Property"]
+	},
+
+	"updated":"5/15/23 10:24:11",
+	"currency":"NOK"
+}

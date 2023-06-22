@@ -1,0 +1,23 @@
+{
+	"name":"NUMND",
+	"FinancialCalendar":{
+		"Time":["210519","210519","210526","210811","210819","210819","211119","220218","220520","220525","220831","220831","221117","230223"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Shareholder meeting","Presentation","Capital Markets Day","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Presentation","Earnings Call","Earnings Call"]
+	},
+	"About":{
+		"Employees":[140],
+		"Incorporated year":[2013],
+		"Description":["Nordic Unmanned ASA is a Norway-based provider of unmanned systems and services, with operations across the continent. The Company delivers products and services related to drones and data capture. The Group is ISO 9001-2015 and certified by for the operation, maintenance, sale, design, development, and production, with of unmanned systems and sensor technology. The production is also AS9100 certified. Nordic Unmanned operates in several areas where drones can deliver a superior solution at a lower cost to existing solutions. These areas include: Maritime, Security, Infrastructure, Logistics, Advisory and Software. The Group has offices in Norway, Denmark, United Kingdom and Germany. The Company is a reseller of unmanned systems such as the Lockheed Martinâ€™s Indago and Condor drones, and Textronâ€™s Aerosonde, and participates in research and development of advancing technology."],
+		"City":["SANDNES"],
+		"Phone":[51209444],
+		"Homepage":["https://nordicunmanned.com/"]
+	},
+	"NewsDN":{
+		"Time":["232703","231502","233001","232001","222112","221612","220812","220712","221710","223008","222208","220306","220306","220206","222305","212210","210610","212909","212809","212209","211908","211708","211708","212907","211207","210707","211905","211304","211902"],
+		"Author":["Mikael Holter","Jonas Solgård","Jonas Solgård","TDN Direkt / Jonas Solgård","Jonas Christensen","Lene Marita Berg Hermann","Jonas Christensen","Malin Noem","TDN Direkt","Kimmo Risbakken","TDN Direkt","Jonas Solgård","Jonas Christensen","Kimmo Risbakken","Ida Grieg Riisnæs","Kahni Ismail","TDN Direkt","Martin Kværnes","Kahni Ismail","Jonas Solgård","Till Zhang","Jantra Hollum","TDN Direkt","Jantra Hollum","TDN Direkt / Christopher Magnus","TDN Direkt/Herman Østensen","Leila Feratovic","TDN Direkt","TDN Direkt"],
+		"Title":["Nordic Unmanned ser på strategiske alternativer – får nytt lån, men må hente kapital","Nordic Unmanned fikk inn bare 9,7 mill. kroner i reparasjonsemisjon","Nordic Unmanned går i gang med reparasjonsemisjon","Nordic Unmanned reduserer reparasjonsemisjon","Ordre i boks for Nordic Unmanned","Droneselskap stiger kraftig etter nyhet om tiårig rammekontrakt","Droneselskapet Nordic Unmanned stuper på børs etter å ha hentet ny kapital til saftig rabatt","Droneleverandøren Nordic Unmanned vil hente inntil 70 millioner kroner","Liv Annike Kverneland fratrer som styremedlem i Nordic Unmanned","Nordic Unmanned med kontrakt i Brasil","Utvider virksomheten med kontor i Baltiomore","Nordic Unmanned raser rett ned på børs etter rabattert kapitalinnhenting","Droneselskap hentet 80 mill. til 17 prosent rabatt","Nordic Unmanned vil hente 50–80 mill.","Gjennombruddskontrakt for Nordic Unmanned","Nordic Unmanned tildelt avtale på 15 millioner kroner","Nordic Unmanned utløser signaturprosess på kontrakt verd syv mill. euro","Nordic Unmanned vil hente inntil 100 millioner kroner – styret vil flytte selskapet til hovedlisten","Nordic Unmanned tildelt rammeavtale med Bane Nor","Nordic Unmanned-aksjen rykket til på børs etter vellykket testflygning","Nordic Unmanned Group med sterk inntektsvekst","Steffan Lindsø er ny teknologidirektør i Nordic Unmanned","Nordic Unmanned lanserer ny drone for jernbanen","Nordic Unmanned tildelt rammekontrakt fra Emsa til 208 mill. kroner","Nordic Unmanned kjøper tysk droneselskap","Nordic Unmanned signerer intensjonsavtale","Droneselskapet Nordic Unmanned med resultatforbedring","Nordic Unmanned oppjusterer kontraktverdi med 11 millioner kroner","Omsetningsløft for Nordic Unmanned"]
+	},
+
+	"updated":"5/15/23 10:24:08",
+	"currency":"NOK"
+}

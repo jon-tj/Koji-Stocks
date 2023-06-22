@@ -1,0 +1,25 @@
+{
+	"name":"BFISH",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[27,27],
+		"Median":[27,27],
+		"High":[27,27]
+	},
+	"FinancialCalendar":{
+		"Time":["220531","220531","220630","220930"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200505","200725","201025","201025"],
+		"Difference%":[7.68099,-0.23,-0.06,-0.01,-0.01]
+	},
+	"NewsDN":{
+		"Time":["230203","230103","231201","230601","230501","222601","210112","211808","211108","210408","210408"],
+		"Author":["Kenneth Lund","Malin Noem","Magnus Newth","Jonas Christensen","Malin Noem","TDN Direkt / Jonas Solgård","Marcus Hippe","Till Zhang","Sofie Braseth/TDN Direkt","Erik Bucher Johannessen","Erik Bucher Johannessen"],
+		"Title":["BioFish Holding-emisjon overtegnet","Biofish Holding hentet 15 millioner kroner i en rette emisjon","Biofish hentet 55 mill.","Biofish sier det var betydelig interesse for kapitalinnhenting – skrinlegger den likevel","Biofish vil hente inntil 55 millioner kroner","Biofish inngår kontrakt verd 24 mill. kroner","Awilco har passert flaggrensen i BioFish: eier nå over ti prosent av selskapet","Biofish mottar smoltkontrakter til en verdi på 20,8 mill.","Biofish tapte voldgiftssak","Oppgang fra start på Oslo Børs","Mattilsynet lar Biofish øke den årlige produksjonen av smolt"]
+	},
+
+	"updated":"5/15/23 10:23:58",
+	"currency":"NOK"
+}

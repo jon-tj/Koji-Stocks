@@ -1,0 +1,33 @@
+{
+	"name":"KRAB",
+	"DividendsMS":{
+		"X-day":[220519],
+		"Payout date":[220524],
+		"Announce date":[220517],
+		"Amount NOK":["0.25"]
+	},
+	"FinancialCalendar":{
+		"Time":["220831","220831","230309"],
+		"Type":["Presentation","Presentation","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025"],
+		"Difference%":["0.34787","0.2161","0.27","0.24","0.18681","0.30648","0.17777","0.17777","0.24","0.29","0.2804","0.29096","0.28","0.33","0.27519","0.31"]
+	},
+	"About":{
+		"Employees":[40],
+		"Incorporated year":[2017],
+		"Description":["Kraft Bank ASA is a Norway-based independent bank. The Bank offers simple products within lending and deposits and focuses on advisory services and customer assistance. The Bank provides accounts checking, savings deposits, money market, mortgage and term loans services, as well as card facilities and Internet banking, consumer financing and housing loan services. It serves clients in Norway."],
+		"City":["SANDNES"],
+		"Phone":["0"],
+		"Homepage":["https://kraftbank.no/"]
+	},
+	"NewsDN":{
+		"Time":["223110","221208","220402","211308"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt"],
+		"Title":["Kraft Bank med redusert resultat i tredje kvartal","Høyere vekst enn ventet for Kraft Bank","Kraft Bank bedret resultatet og foreslår utbytte","Kraft Bank økte resultatet"]
+	},
+
+	"updated":"5/15/23 10:24:05",
+	"currency":"NOK"
+}

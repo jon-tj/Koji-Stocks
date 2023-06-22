@@ -1,0 +1,33 @@
+{
+	"name":"SEAW7",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[4.51,4.51],
+		"Median":[6.6,6.6],
+		"High":[35.11,35.11]
+	},
+	"FinancialCalendar":{
+		"Time":["210225","210225","210520","210528","210827","210930","211117","220303","220428","220728","221117","230302","230414"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.00439","0.00567","0.02","-0.01","-0.004","0","0","0","0.00114","-0.05286","-0.001","-0.15","-0.01","0.01539","-0.02","-0.02"]
+	},
+	"About":{
+		"Employees":[593],
+		"Incorporated year":[2020],
+		"Description":["Seaway 7 ASA is a Norway-based company, which is active in the offshore Renewables Energy industry. The Company engages in delivery of fixed offshore wind projects, offering standalone or integrated foundation, offshore substation, submarine cable and wind turbine generator installation services through various contracting models. Seaway 7 offers the following services: wind turbine generator installation, offshore foundation installation, offshore substation installation, offshore submarine cable installation and heavy transportation for the renewables sector. With the group's engagem in project management, engineering, procurement, and fabrication, as well as fleet and specialist technologies, it can deliver services through a comprehensive array of contractual structures including Engineering, Procurement, Construction and Installation (EPCI), Transportation and Installation (T&I) and Balance of Plant (BoP)."],
+		"City":["OSLO"],
+		"Phone":[21013450],
+		"Homepage":["https://www.seaway7.com/"]
+	},
+	"NewsDN":{
+		"Time":["230203","220510","221306","210812","211211","210807","210807","212805","212602"],
+		"Author":["TDN Direkt","Jonas Solgård","TDN Direkt","TDN Direkt","Jonas Christensen","Herman Østensen","TDN Direkt","TDN Direkt","TDN Direkt"],
+		"Title":["Seaway 7 varsler svakere topplinje og bedre bunnlinje","Seaway 7 henter over to mrd. kroner til saftig rabatt","Seaway 7 justerer guiding","Seaway 7 bekrefter tildeling av en betydelig kontrakt av China Steel Power Corporation","Subsea 7-selskap tildelt potensiell milliardkontrakt på Dogger Bank","OHT åpner opp ni prosent på negativ børs","Subsea 7 slår seg sammen med skipstjenesteleverandøren OHT","Underskudd i første kvartal for OTH","Svakere fra OHT - forbereder prosessen om notering på Oslo Børs"]
+	},
+
+	"updated":"5/15/23 10:24:13",
+	"currency":"NOK"
+}

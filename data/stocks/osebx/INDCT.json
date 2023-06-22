@@ -1,0 +1,15 @@
+{
+	"name":"INDCT",
+	"FinancialCalendar":{
+		"Time":["220622","220622"],
+		"Type":["Shareholder meeting","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["221110","221708","223006","221503","212112","212610","212510","211609","210608","210305","201612","200610","201809","201408","201407","200302","191712","192911","191709","190306","190104","191103","191802","191801","182112","181912","181412","182911","182911","180709","182906","182704","171511","171511"],
+		"Author":["Kenneth Lund","TDN Direkt","Jonas Christensen","TDN Direkt","Katrine Nordanger Mjelde","Kahni Ismail","Kahni Ismail","Kahni Ismail","Ingeborg Løkling","TDN Direkt","TDN og DN","Birk Helle","Jonas Christensen","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","TDN Direkt","Jonas Christensen","Jonas Christensen og Fredrick Ekeseth","Jonas Christensen","Jonas Christensen","Line Kaspersen","Line Kaspersen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Blich Bakken","Anders Kvale","Anders Kvale","Jonas Christensen","Jonas Christensen"],
+		"Title":["Induct kjøper folkefinansieringselskap","Resultatoppgang for it-selskap","Kjetil Myrlid Aasen blir stor i Induct","Induct inngår avtale med Xtrainvestor om annonser","Programvareselskapet Induct låner inntil ti mill.","Induct har fått aksept for kjøp av over 50 prosent i OSINT Analytics","Induct har gitt bud på samtlige aksjer i OSINT Analytics","Øystein Tvenge inn i Induct-styret","Oslo Børs ender uken med nedgang","Resultatfall for Induct","Induct tapte i lagmannsretten","Induct bytter finansdirektør","Element-styreleder går ut av styret i Induct","Induct med resultatfremgang på to millioner","Induct har gjort en rettet emisjon på tre millioner kroner","Kraftig resultatoppgang for Induct","Sjefen vil skyte penger inn i Induct","Induct har gjennomført rettet emisjon","Induct anker dom fra Oslo tingrett","Shortet selskaper i senk - får millionbot av Finanstilsynet","Kontrakt for Induct","Treårig kontrakt for Induct","Induct saksøkes av Alpha Blue Ocean","Induct-sjefen saksøker «dødsspiralfond»","Ny styreleder vedtatt i Induct","Induct lander to kontrakter - stiger 40 prosent på børs","Merkur Market-noterte Induct risikerer søksmål","Oslo Børs sender «dødsspirallåneavtale» til Finanstilsynet","Går fra børstaper til partner i First Fondene","Oslo børs endte ned - en aksje doblet","Induct går inn i kraft - aksjen stiger","Oslo Børs faller noe tilbake","Kundetap og svake salg dro ned resultatet","Dette skjer i dag"]
+	},
+
+	"updated":"5/15/23 10:24:04",
+	"currency":"NOK"
+}

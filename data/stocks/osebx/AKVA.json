@@ -1,0 +1,45 @@
+{
+	"name":"AKVA",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[70,70],
+		"Median":[70,70],
+		"High":[70,70]
+	},
+	"DividendsMS":{
+		"X-day":[141125,151112,160826,170303,170825,180309,180918,190225,190823,200224,210407,220303],
+		"Payout date":[141204,151120,160905,170313,170904,180319,180928,190305,190902,200303,210414,220311],
+		"Announce date":[141031,151105,160817,170222,170818,180301,180815,190215,190814,200214,210312,220211],
+		"Amount NOK":[1,1,0.75,0.5,0.75,0.75,0.75,0.75,1,1,1,1]
+	},
+	"FinancialCalendar":{
+		"Time":["180515","180515","180516","180814","180815","180918","190215","190225","190510","190814","190823","200214","200224","200508","200814","201106","201124","210312","210407","210507","210813","210929","211020","211105","220211","220303","220513","220812","221104","230210","230511","230512"],
+		"Type":["Shareholder meeting","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Presentation","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Special Situation","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.26854","-0.33282","0.16","-1.41","0.96428","0.21715","0.21715","1.1","0.665","1.05613","0.48","-1.13","1.09764","0.13131","0.43","-2.55"]
+	},
+	"About":{
+		"Employees":[1466],
+		"Incorporated year":[1995],
+		"Description":["Akva Group ASA is a Norway-based supplier of solutions and services to the global aquaculture industry. Its activities include design, purchase, manufacturing, assembly, sale and installation of technology products as well as rental, service and consulting services. The Company divides its operations into three business segments: Sea Based Technology (SBT), Digital and Land Based Technology (LBT). The SBT main products include Polarcirkel, Wavemaster and Akvasmart hardware brands such as: Plastic cages, steel cages, feed barges, feed systems, sensor- and camera systems, underwater lights and net cleaning systems. The LBT provides technology for water treatment technology. Main components used include mechanical filters, UV treatment, bio filters, degasser units, oxygenation, cooling/heating systems and lifting pumps. The Digital software include brands such as: Production control, planning, traceability, and ERP software for both the aquaculture and the fishing industry. "],
+		"City":["KLEPP STASJON"],
+		"Phone":[51778500],
+		"Homepage":["http://www.akvagroup.com/"]
+	},
+	"Finances":{
+		"Time":["230203"],
+		"Currency":["USD"],
+		"PE":[-0.00],
+		"Market cap":[487.64]
+	},
+	"NewsDN":{
+		"Time":["220411","221208","220308","221807","221305","210511","212110","211910","212909","212909","211608","211308","211108","211006","210705","210705","210902","211401","211101","201911","200611","200511","200408","201206","202705","200805","202104","201404","201903","200702","203001","202001","202001","200901","190512","190411","190111","190111","192810","190810","191408","191005","192603","191402","191302","190502","192201","180211","180111","182409","183008","181508","180108","181605","181505","180103","180103","181601","170311","170311","171608","171608","172106","172006","171906","172202","160311"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","NTB","Herman Østensen","TDN Direkt","TDN Direkt","Kahni Ismail","Synnøve Meisingset/TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","Gard Oterholm","Katrine Nordanger Mjelde","Jonas Christensen","Anders Furuset","TDN Direkt","Birk Helle","Jonas Christensen og Henrik Giæver","TDN Direkt","Jonas Christensen","Henrik Giæver","Mads Randen","TDN Direkt","TDN Direkt","Jonas Christensen","TDN Direkt","Magnus Newth","Line Kaspersen","Jonas Christensen","TDN Direkt","Kenneth Lund","TDN Direkt","Mads Randen","TDN Direkt og Ingrid Ekeberg","TDN Direkt","Ingrid Ekeberg og TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt/William Bugge","Jonas Christensen","Christian Bjerknes","Anders Kvale","TDN Direkt","TDN Direkt","Marit Tronier Halvorsen","Anders Kvale","Anders Kvale","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","TDN Finans/Heljar Havnes","Bente Bjørndal","TDN Finans","Fredrick Ekeseth","Ingrid Bjørklund"],
+		"Title":["Akva Group snudde til tap på driften i tredje kvartal","Høy inflasjons og forsyningsutfordringer ga resultatsmell for Akva Group i andre kvartal","Kvartalsoppdatering fra Akva Group – venter negativt driftsresultat i andre kvartal","Akva-gruppen med oppdrettskontrakt verdt 146,6 millioner kroner","Nedgang for Akva Group","Resultatnedgang for Akva Group","Innsider selger i Akva Group","Israel Group vil eie 18 prosent i Akva Group","Akva-aksjen stiger kraftig etter milliardkontrakt","Israel Corp kjøper 15 prosent av Akva Group","Pareto Securities nedjusterer kursmålet på Akva Group","Akva Group med resultatnedgang","Meglerhus nedgraderer flere oppdrettsaksjer - trekker frem én favoritt blant de store","Oslo Børs åpner flatt","Dataangrep koster Akva Group dyrt","Korona gir Akva Group negative resultater","Utsetter rapportering etter cyberangrep","Kripos bistår Akva Group som fortsatt er hacket","Akva Group rammet av cyberangrep","Storaksjonær selger seg ut av Akva Group","Her er fredagens kvartalsresultater","Akva Group signerer intensjonsavtale verdt omtrent 45 millioner euro","Ronny Meinkøhn ny finansdirektør i Akva Group","Akva Group har inngått kontrakt for landbasert prosjekt","Akva Group kjøper aksjer i Sperre Group for 70 millioner kroner","Resultatfall for Akva Group i første kvartal","Akva Group har signert kontrakt til verdi 100 mill. kroner","Koronakanselleringer for Akva Group","Ny finansdirektør i Akva Group","Alvorlige regnskapsbrudd hos Akva Group - varsler negativt resultat","Akva Group kjøper 70 prosent av Newfoundland Aqua Service","Resultatvarsel fra Akva Group - venter tap","Børspause i påvente av melding","Nutreco forplikter seg til emisjon i Nordic Aqua Partners","Knut Nesse blir konsernsjef i Akva Group","Hallvard Muri går av som toppsjef i Akva group","God dag for flere på Oslo Børs","Sterkere resultat for teknologiselskap","Stengetid på Oslo Børs - sjømataksjer blant dagens vinnere","Pareto justerer kursmål for flere lakseselskaper","Akva Group omsatte for nesten 800 millioner kroner","Godt kvartal for Akva Group, venter lavere omsetning i andre kvartal","Akva tildelt kontrakt for landbasert anlegg","Ny teknologidirektør i Akva Group","Ut av styret i Akva Group","Oppdaterer markedet på bloggen","Pareto ser laksepriser over 60 kr/kg kommende år","Akva Group leverer gode tall for tredje kvartal","Pareto Securities kvitter seg med seks selskaper","Akva Group inngår eksklusiv avtale med Grieg NL","Akva Group i mål med oppkjøpet av Egersund Net","Svakere fra Akva Group","Hiver ut fisk, sol og forsikring","Omsetningsvekst for Akva","Akva Group med oppkjøp","Vekst i omsetning og resultat for Akva","Dette har skjedd i markedene i natt:","Selger aksjer i Akva","Oppdrettsselskap dobler resultatet","Dette skjer i dag","Akva Group doblet resultatet","På agendaen i dag","Pareto anbefaler å kjøpe ni sjømataksjer","Akva Group kjøper egne aksjer","Nye kontrakter for Akva Group","På agendaen i dag","God ordreinngang for leverandør til oppdrettsindustrien"]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

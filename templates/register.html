@@ -1,0 +1,150 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}{% endblock %}
+
+{%block body%}
+<img src="/static/art/login_bg.gif" id="login_background">
+<section id="sidebar_login">
+<form action="api/register" method="post" id="login_form" >
+    <table class="centertable">
+        <tr>
+            <td> <label for="username">{{lang['Username']}}</label> </td>
+            <td> <input type="text" name="username" id="username" onkeyup="check_username_available()"> </td>
+        </tr>
+        <tr>
+            <td> <label for="password">{{lang['Password']}}</label> </td>
+            <td> <input type="password" name="password" id="password" onkeyup="check_pwd_quality()"> </td>
+        </tr>
+    </table>
+    <p>Make sure that your password:</p>
+    <table style="text-align: left; border-top: 1px solid gray;">
+        <tr>
+            <td><img id="pwd_c0" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+            <td>contains at least 10 characters.</td>
+        </tr>
+        <tr>
+            <td><img id="pwd_c1" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+            <td>contains both upper- and lowercase letters.</td>
+        </tr>
+        <tr>
+            <td><img id="pwd_c2" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+            <td>contains digits. (0-9)</td>
+        </tr>
+        <tr>
+            <td><img id="pwd_c3" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+            <td>contains one of the following: .,_!?@#*^´~<>()[]</td>
+        </tr>
+    </table>
+    <p id="pwd_level" style="visibility:hidden" ></p>
+    <p id="username_available"></p>
+    
+    <div onclick="attempt_register()" class="btn">{{lang['Register']}}
+    </div>
+</form>
+    <section class="footer">
+        
+        
+        <div onclick="window.location='..'+getLang()" style="margin-top: 0.3em;" class="btn">{{lang['Go back']}}</div>
+        <div class="vspacer"></div>
+        <div onclick="attempt_login()" class="btn disabled">{{lang['Alternative login method']}}</div>
+        <div class="vspacer"></div>
+        <div onclick="attempt_login()" class="btn disabled">{{lang['Help logging in']}}</div>
+    </section>
+</section>
+{% endblock %}
+
+{%block aside_right%}
+
+
+{% endblock %}
+
+{%block tail%}
+<script>
+    async function attempt_register(){
+        if(pwd_level<5){
+            displayErr('Your password does not match our safety requirements.');
+            return;
+        }
+        if(!username_available){
+            displayErr('Please enter a different username.');
+            return;
+        }
+        let username=document.getElementById('username').value;
+        let password=document.getElementById('password').value;
+        
+        await fetch("/api/user",{
+            method:'POST',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({username:username,password:password})
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            if(r['successful']=='true'){
+                window.location=getLang();
+            }else{
+                displayErr(r['errMsg']);
+            }
+        });
+    }
+    async function check_pwd_quality(){
+        let password=document.getElementById('password').value;
+        
+        await fetch("/api/pwd_quality",{
+            method:'POST',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({pwd:password})
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            let conditions=r['conditions'];
+            for(let i=0; i<4; i++){
+                let src='/static/icons/checkbox_unchecked.png'
+                if(conditions[i])src='/static/icons/checkbox_checked.png';
+                document.getElementById('pwd_c'+i).src=src;
+            }
+            pwd_level=r['level'];
+            let pwdBox=document.getElementById('pwd_level');
+            pwdBox.style.visibility="visible";
+            display_level=pwd_level
+            if(password.length>17)display_level++; //give a little ego boost to people with long a** passwords
+            pwdBox.innerHTML='<span class="colored '+['nocolor','high','high','medium','medium','medium','low'][display_level]+'">'+
+                ['Empty','Bad','Weak','Medium','Medium','Medium','Strong'][display_level]+
+                '</span>&nbsp;password.</p>';
+            
+        });
+    }
+    let username_available=0;
+    let pwd_level=0;
+
+    async function check_username_available(){
+        let username=document.getElementById('username').value;
+        
+        await fetch("/api/username_available",{
+            method:'POST',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({username:username})
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            let usrBox=document.getElementById('username_available');
+            if(r['available']){
+                usrBox.innerHTML='';
+                username_available=1;
+            }
+            else{
+                usrBox.style.visibility="visible";
+                usrBox.innerHTML='<span class="colored high">Username taken.</p>';
+                username_available=0;
+            }
+        });
+    }
+
+
+</script>
+
+{% endblock %}

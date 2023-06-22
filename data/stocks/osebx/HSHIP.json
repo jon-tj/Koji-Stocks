@@ -1,0 +1,19 @@
+{
+	"name":"HSHIP",
+	"FinancialCalendar":{
+		"Time":["220810","220810"],
+		"Type":["Shareholder meeting","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200725","200725","201025"],
+		"Difference%":[-0.02904,-0.02,-0.01,-0.02,-0.02,-0.02305]
+	},
+	"NewsDN":{
+		"Time":["233103","230803"],
+		"Author":["Jonas Solgård","TDN Direkt"],
+		"Title":["Flere detaljer rundt Trøims New York-notering","Himalaya Shipping vil søke notering på New York-børsen"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

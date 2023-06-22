@@ -1,0 +1,33 @@
+{
+	"name":"HKY",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[37.16,37.16],
+		"Median":[37.16,37.16],
+		"High":[37.16,37.16]
+	},
+	"FinancialCalendar":{
+		"Time":["220531","220613"],
+		"Type":["Shareholder meeting","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200505","200725","201025"],
+		"Difference%":[-0.98,-1.08,-1.29,-1.33]
+	},
+	"About":{
+		"Employees":[349],
+		"Incorporated year":[2021],
+		"Description":["Havila Kystruten AS is a Norway-based shipping company in a start-up phase. Havila Kystruten's core business is to operate four environmentally friendly ships along the classic coastal journey between Bergen and Kirkenes in Norway. The ships' batteries are recharged by pure hydropower when ashore. When the batteries are empty the operators switch to natural gas, which is specially designed for maximum energy efficiency, and surplus heat from cooling water and sea is used for heating on board. Havila Kystruten AS has a contract with the Norwegian Ministry of Transport to operate four of the eleven coastal cruise ships on the classic coastal route between Bergen and Kirkenes. Havila Kystruten is part of the Havila Group, which operates fisheries and herring fishing, as well as ship technology, offshore, transport and tourism."],
+		"City":["FOSNAVAAG"],
+		"Phone":[70084500],
+		"Homepage":["https://www.havilavoyages.com/"]
+	},
+	"NewsDN":{
+		"Time":["232702","231602","230802","232701","222212","221612","221909","220307","222806","220905","222604","222604","222104","221404","221304","221304","220902","212411","212309","210209","210908"],
+		"Author":["Malin Noem","Kathinka Hartwig","Jonas Solgård","TDN Direkt","Jonas Christensen","Lene Marita Berg Hermann","NTB","Kahni Ismail","NTB","Mari Malm","Kathinka Hartwig","Jonas Solgård","Katrine Nordanger Mjelde","NTB","DN","Morten Iversen","TDN Direkt / Christopher Magnus","Kahni Ismail/TDN Direkt","Jonas Solgård","TDN Direkt og Jonas Christensen","Louise Nygaard"],
+		"Title":["Havila Kystruten fortsetter å tape penger","Forsinkelser for Havila Kystruten – kansellerer ruter","Havila får bot fra Samferdselsdepartementet","Havila Kystruten avlyser reparasjonsemisjon","Havila Kystruten faller 30 prosent på børsen","Havila Kystruten får medhold i krav om tilbakebetaling på 450 millioner","Inntektsfall for Havila Kystruten i andre kvartal","Styremedlem gir seg i Havila Kystruten","Kystruteskipet Havila Capella er i rute igjen","Utenriksdepartementet har avslått søknad om dispensasjon for å kunne forsikre Havila Capella","Havila Kystruten utsetter publisering av årsrapport","Havila Kystruten får dispensasjon fra Utenriksdepartementet","Havila kansellerer rundtur med sanksjonsstrandet skip","Havila avlyser kystseilas etter russiske sanksjoner","Havila Kystruten stiger etter at skip er holdt igjen i Bergen på grunn av sanksjoner","Havila Capella forsinket fra Bergen","Havila Kystruten melder om forsinket skipsleveranse","Havila Castor blir ytterligere forsinket","Havila Kystruten tapte 8,4 mill. før skatt i første halvår","Meglerhus med ståltro på Havila Kystruten","Tidligere Hurtigruten-topp tiltrer som ny sjef i Havila Kystruten"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

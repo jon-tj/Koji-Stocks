@@ -1,0 +1,39 @@
+{
+	"name":"CAMBI",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[9,9],
+		"Median":[9,9],
+		"High":[9,9]
+	},
+	"FinancialCalendar":{
+		"Time":["210309","210309","210510","210527","210831","211130","220308","220509","220524","220831","221110","230307","230510"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Capital Markets Day - Interim 2021 Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200505","200725","200725","201025","201025"],
+		"Difference%":[-0.00962,-0.00365,-0.00365,0.03,-0.0412,0.08,-0.04173,0.09,-0.01185]
+	},
+	"About":{
+		"Employees":[129],
+		"Incorporated year":[1996],
+		"Description":["Cambi ASA is a Norway-based holding company for the companies from the Cambi Group. The Group is global provider of thermal hydrolysis solutions for sewage sludge and organic waste management. It also provides technology for advanced anaerobic digestion and biogas solutions in wastewater treatment. The Groupâ€™s activities are divided into two business segments: Cambi Group segment, which is focused on developing and marketing the Thermal Hydrolysis Process (THP) technology, and Cambi Invest segment, that is tackling acquisitions and investment opportunities. The Groupâ€™s range of services also comprise sample testing, engineering design, installation of a Cambi plants as well as commissioning. Cambi ASA has a subsidiary, including Groenn Vekst AS."],
+		"City":["ASKER"],
+		"Phone":[66779800],
+		"Homepage":["https://www.cambi.com/"]
+	},
+	"NewsDN":{
+		"Time":["230703","231702","222907","220607","223005","222804","222204","220803","220803","213011","210511","213108","211405","212203","210903","210903","211202"],
+		"Author":["TDN Direkt/Jonas Solgård","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","TDN Direkt","TDN Direkt","Jonas Christensen","Mikael Holter","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Solgård","Jonas Christensen","Christopher Magnus"],
+		"Title":["Underskudd for Cambi i 2022","Cambi nærmer seg kontrakt i USA","Senker kursmålet på Cambi","Ny finansdirektør i Cambi","Cambi tildelt kontrakt verdt over 80 mill.","Cambi har signert kontrakt","Cambi-sjef blir styreleder","Cambis prosjekt i Ukraina satt på vent","Cambi endte med underskudd i fjerde kvartal","Cambi kapper sine egne inntektsforventninger","Cambi får kontrakt for bygging av slamhåndteringsanlegg i Belgia","Betydelig inntektsvekst for Cambi","Slamhåndteringsselskapet Cambi inngår avtale i USA","Cambi signert kontrakt - budsjettert til 150 mill. dollar","Oppgang på Børsen –  Bank Norwegian stiger etter melding fra styret","Kraftig resultatoppgang for Cambi","Kloakkaksje trosset nedgangen på Oslo Børs"]
+	},
+	"DividendsMS":{
+		"X-day":[230511],
+		"Payout date":[230522],
+		"Announce date":[230307],
+		"Amount NOK":["0.15"]
+	},
+
+	"updated":"5/15/23 10:23:59",
+	"currency":"NOK"
+}

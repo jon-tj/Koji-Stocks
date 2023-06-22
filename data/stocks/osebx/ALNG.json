@@ -1,0 +1,39 @@
+{
+	"name":"ALNG",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[4.4,4.4],
+		"Median":[13,13],
+		"High":[16.04,16.04]
+	},
+	"DividendsMS":{
+		"X-day":[230223],
+		"Payout date":[230309],
+		"Announce date":[230216],
+		"Amount NOK":["0.5"]
+	},
+	"FinancialCalendar":{
+		"Time":["180524","180830","181115","190228","190426","190510","190829","190910","191115","200228","200424","201120","210601","211126","220218","220524","220527","220823","221129","230216","230223"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Presentation","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.03913","0.04414","0.04","0.04","0.01786","0.03782","0.05","0.05","0.02","0.01245","0.02","0","0.04005","-0.01736","0.04","-0.04"]
+	},
+	"About":{
+		"Employees":[7],
+		"Incorporated year":[2011],
+		"Description":["Awilco LNG ASA is a Norway-based fully integrated pure play liquefied natural gas (LNG) transportation provider, which owns and operates LNG vessels intended for international trade. The Company owns and operates two 156,000 cbm TFDE membrane LNG vessels WilForce and WilPride, which operate globally. Awilco LNG ASA is a parent company for its subsidiaries: Awilco LNG Technical Management AS, Awilco LNG 1 AS, Awilco LNG 2 AS and Awilco LNG 3 AS. "],
+		"City":["OSLO"],
+		"Phone":[22014200],
+		"Homepage":["http://www.awilcolng.no/"]
+	},
+	"NewsDN":{
+		"Time":["222911","222308","221008","221006","222705","220905","222801","212911","212611","212710","211609","211509","212708","212408","212408","212005","211603","201512","201412","202311","202011","203010","200506","202905","202905","202705","202705","200701","192611","192211","192207","191005","192802","180712","180712","182310","181209","171711","173108","171905","170505","161811"],
+		"Author":["Jonas Christensen","Katrine Nordanger Mjelde","TDN Direkt","TDN Direkt","Lene Marita Berg Hermann","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Kahni Ismail","Kimmo Risbakken","TDN Direkt","Christopher Magnus","TDN Direkt","TDN Direkt","Jonas Christensen","TDN","Christopher Magnus","TDN Direkt","Henrik Giæver","Henrik Giæver","Kenneth Lund","Jonas Christensen","Jonas Christensen","Ida Grieg Riisnæs","Ida Grieg Riisnæs","Kenneth Lund","Line Kaspersen","TDN Direkt","Eirik Helgaker","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","TDN Direkt","TDN Direkt","Jonas Christensen","Gard Oterholm","Thomas Frantsvold","Fredrick Ekeseth","Jonas Blich Bakken"],
+		"Title":["Awilco LNG tapte fem mill. dollar i tredje kvartal","Nullresultat i andre kvartal for gassrederi","Awilco LNG har inngått en ny TC-kontrakt","Awilco inngår ny treårs-kontrakt","Awilco LNG med resultat på 104 millioner før skatt","BlueBay Asset Management flagger i Awilco","Awilco lng har investert i Cool Company Ltd","Oppjusterer og opprettholder kjøpsanbefaling på aksje i «glohett marked»","Awilco forventer sterkt marked - vurderer utbytte","Arctic Securities oppgraderer LNG-aksjer til kjøp","Awilco lng fortsetter å stige","Awilco LNG klatrer på Oslo Børs","Nedgang i resultatet for Awilco LNG","Flat dag på Oslo Børs, men store utslag i enkeltaksjer","Pareto Securities anbefaler kjøp av Awilco-aksje","Awilco LNG med resultatforbedring","Awilco LNG henter gammel Fredriksen-topp","Mirabella eier 9,86 prosent av Awilco LNG etter aksjesalg","Oslo Børs åpnet uken ned","Awilco forlenger midlertidige covenants-endringer","Awilco tapte 6,5 millioner dollar i tredje kvartal","Øyvind Ryssdal gir seg som finansdirektør i Awilco","Barclays leverer tilbake aksjepost i Awilco LNG","Hans Rasmus Astrup selger alt i Awilco LNG","Navig8 kjøper i Awilco","Norwegian fikk bank på Børsen","Stordalen selger alt i Awilco","Awilco LNG i mål med avtale","Avslutter samtaler om etablering om LNG Shipping-initiativ","USA har godkjent bygging av fire LNG-eksportfasiliteter","Oslo Børs åpner opp","Lavere inntekter for Awilco","Sterkt kvartal for Awilco","Awilco løftes på mulig konsolidering","Awilco i diskusjoner om konsolideringer","Nordea oppjusterer kursmål på gassfraktere","Awilco LNG ser høyere rater for gassfrakt","Fraktratene på vei oppover - rederi snur i pluss","Velkommen til DN Investor","Hentet inn 215 mill.","Awilco: betydelig svakere LNG-marked, i samtaler om likviditet og kapitalstruktur","Tap på 4,2 millioner dollar for Awilco LNG"]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

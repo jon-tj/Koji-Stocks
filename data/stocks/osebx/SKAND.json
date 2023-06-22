@@ -1,0 +1,15 @@
+{
+	"name":"SKAND",
+	"FinancialCalendar":{
+		"Time":["211221","220608","220622","220902","230427","230509"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["233103","232802","231502","230302","232001","220604","210705"],
+		"Author":["Jonas Solgård","Jonas Solgård","Jonas Solgård","Jonas Solgård","Jonas Christensen","Martin Kværnes","Katrine Nordanger Mjelde"],
+		"Title":["Ny sjef i Skandia Greenpower","Skandia Greenpower går i gang med omfattende kostnadskutt","Strømselskapet Skandia henter 12,5 mill. kroner i ny kapital","Oslo Børs stanser handelen i Skandia Greenpower-aksjen","Toppsjef i Skandia Greenpower går av på dagen","Lene Johansen blir toppsjef i Skandia Greenpower – Gunnar Norheim går av","Skandia Greenpower med driftsresultat på -2,3 millioner kroner"]
+	},
+
+	"updated":"5/15/23 10:24:13",
+	"currency":"NOK"
+}

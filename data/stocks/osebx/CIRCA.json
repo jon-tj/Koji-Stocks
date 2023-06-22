@@ -1,0 +1,23 @@
+{
+	"name":"CIRCA",
+	"FinancialCalendar":{
+		"Time":["210527","210527","210616","210826","211125","220302","220524","220602","220825","221117"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call"]
+	},
+	"About":{
+		"Employees":[14],
+		"Incorporated year":[2020],
+		"Description":["Circa Group AS is a Norway-based renewable chemicals company. The Company converts biomass into advanced bio-based chemicals using its proprietary Furacell process. The product portfolio is under development, and includes flavorings, biopolymers and bio-solvents such as Cyrene, an alternative to traditional polar aprotic solvents, which is produced in one step from platform biomolecule levoglucosenone. Cyrene, derived from Levoglucosenone (LGO), is greener, safer and often performs better than traditional toxic solvents used in paints, coatings, battery and textile applications as well as many more industrial processes. Circa Group AS has several subsidiaries, including Circa Sustainable Chemicals Pty Ltd, Circa Sustainable Chemicals SAS, Circa Sustainable Chemicals BV and Circa Group Pty. Ltd."],
+		"City":["OSLO"],
+		"Phone":[22512020],
+		"Homepage":["https://circa-group.com/"]
+	},
+	"NewsDN":{
+		"Time":["231602","231701","222508","222005","221603","220102","212611","212211","211410","212608","210103"],
+		"Author":["TDN Direkt","TDN Direkt","TDN","Jonas Christensen","Christopher Magnus","Jonas Christensen","TDN Direkt","Jonas Christensen","TDN Direkt","Jonas Christensen","Kenneth Lund"],
+		"Title":["Tapene økte for Circa Group","Har signert avtale om salg","Svakere resultat fra Cirka Group","Circa får partner","Finansdirektøren kjøper i Circa Group","Får 82 millioner i fransk støtte","Pareto nedjusterer kursmålet på Circa Group fra 30 til 18 kroner","Circa Group oppdaterer avtale","Circa Group forventer økte kostnader","Circa Group krymper underskuddene","Circa Group tas opp for handel på Oslo Børs tirsdag"]
+	},
+
+	"updated":"5/15/23 10:23:59",
+	"currency":"NOK"
+}

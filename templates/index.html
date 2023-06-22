@@ -1,0 +1,179 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}
+
+{% endblock %}
+
+{% block before %}
+<div class="_campaign" style="margin-bottom: -0.25em;">
+
+    <img id="banner_clean" {% if in_session %}class="insesh" {%endif%} src="static/art/banner_clean.jpg" alt="">
+    <table class="container">
+        <td>
+        {% if not in_session %}
+            <p class="a0">{{lang['TURBOBOOST']}}</p>
+            <p class="a2">{{lang['your trading abilities with']}}</p>
+            <p class="a1"><img id="koji_bird" src="static/favicon.png" alt=""><span class="logo main">Koji</span></p>
+            <section id="btns_flex">
+
+            <div class="home_btn short" onclick="window.location=getLang()+'/register'">{{lang['Register']}}</div>
+            <div class="home_btn short" onclick="window.location=getLang()+'/login'">{{lang['Log in']}}</div>
+            </section>
+            <br>
+            <a class="a4" href="{{lang['code']}}/about?section=services">{{lang['what can we offer']}}</a>
+        {% endif %}
+        {% if in_session %}
+            <div class="overviewBox {% if session["access_level"]==3 %}nogrid{%endif%}">
+                {% if session["access_level"]==3 %}
+                <h3>{{lang['welcome']}} admin</h3>
+                
+                <script src="/static/scripts/users_overview.js" onload="loadUsers()"></script>
+                <aside id="users_overview">
+                    <div>
+                        <img target="usersBox" onclick="collapse(this)" style="float:right" class="cbtn" src="static/icons/dd.png">
+                        <div class="searchBox">
+                            <input type="text" target="usersBox" placeholder="{{ lang['Search users']}}" onkeyup="queryUsers(this)">
+                            <img src='static/icons/search.png'>
+                        </div>
+                        
+                        <select class="searchBoxResults hidden" id="searchResults" size=4 >
+                                
+                        </select>
+                    </div>
+                    <hr>
+            
+                    <div id="usersBox">
+                    </div>
+                </aside>
+
+
+
+                {% else %}
+
+                <aside id="safariBox">
+                    <section id="userData">
+                        <img src="../static/icons/unknown_user_day.png" alt="user" class="icon">
+                        <aside name="text">
+                            <a  id="username">#</a>
+                        </aside>
+                    </section>
+                    <hr>
+                    <section id="safariStats">
+                        <div id="safari">  </div>
+                        <br><div class="btn" onclick="window.location=getLang()+'/safari'">{{lang["Go on safari"]}}</div>
+                        <img id="safari_banner" src="../static/art/safari.png" alt="safari">
+                    </section>
+                </aside>
+
+                <section id="editPortfolioMenu"  style="position: absolute; right:1em; top:1em; z-index:3">
+                    <img target="editPositions" class="btn" onclick="collapse(this,false)" src="../static/icons/pencil.png">
+                    <section class="collapsed" style="display: none" id="editPositions">
+                        <input type="text" id="symbol" placeholder="symbol"><br>
+                        <input type="number" id="amount" placeholder="amount">
+                        <div class="btn" onclick="manuallyRegisterPosition()">Update positions</div>
+                    </section>
+                </section>
+                <aside id="portfolioBox">
+                    
+                    <h2 id="portfolioTitle">{{ lang['my portfolio']}}</h2>
+                    
+                    <figure name="portfolio" style="width:100%; position:relative; margin-bottom:3em ">
+                        <canvas id="portfolioCanvas" style="cursor: pointer;" width="500"></canvas>
+                        
+                    </figure>
+                    <section id="analysis">
+                        <h3>Analysis</h3>
+                        <table>
+                            <tr>
+                                <td class="normal_text">
+                                    <p>Beta: <span id="beta_user" class="colored medium tooltip">0.5</span></p>
+                                </td>
+                                <td class="normal_text">
+                                    <p>Risk: <span id="risklevel_user" class="colored medium tooltip">medium</span></p>
+                                </td>
+                                <td class="normal_text">
+                                    <p>Diversified: <span id="diversified_user" class="colored low tooltip">well-diversified</span></p>
+                                </td>
+                                <td class="normal_text">
+                                    <p>RSI: <span id="rsi_user" class="colored low tooltip">40</span></p>
+                                </td>
+                            </tr>
+                        </table>
+                        
+                    </section>
+                </aside>
+
+                
+    
+                
+                
+
+                
+                
+            </div>
+                {% endif %}
+        {% endif %}
+        </td>
+    </table>
+</div>
+{% endblock %}
+
+{%block body%}
+<section id="content">
+    <aside id="movements">
+
+    </aside>
+    <aside id="tickers_overview">
+        <div>
+            <img target="tickersBox" onclick="collapse(this)" style="float:right" class="cbtn" src="static/icons/dd.png">
+            <div class="searchBox">
+                <input type="text" target="tickersBox" placeholder="{{ lang['Search tickers, names...']}}" onkeyup="queryTickers(this)">
+                <img src='static/icons/search.png'>
+            </div>
+            
+            <select class="searchBoxResults hidden" id="searchResults" size=4 >
+                    
+            </select>
+        </div>
+        <hr>
+
+        <div id="tickersBox">
+        </div>
+    </aside>
+    <aside id="posts">
+
+        
+        <div class="btn"
+        {% if not in_session %}
+        onclick="window.location=getLang()+'/login'"
+        {% endif %}
+        {% if in_session %}
+        target="post_maker" onclick="collapse(this)"
+        {% endif %}
+        >
+            <img class="icon" src="../static/icons/make_post.png" alt="make new post">
+            <span>Make post</span>
+        </div>
+        {% if in_session %}
+        <section id="post_maker" class="collapsed" style="display:none">
+            <textarea id="post_body" cols="30" rows="4" placeholder="Nice weather..."></textarea>
+            <div onclick="makePost();" class="btn">Post</div>
+            <hr>
+        </section>
+        {% endif %}
+        <section id="posts_container"></section>
+    </aside>
+</section>
+
+{% endblock %}
+
+{%block tail%}
+    <script src="static/scripts/social_posts.js" onload="loadPosts();"></script>
+    <script src="static/scripts/tickers_overview.js" onload="loadTickers()"></script>
+    <script src="static/scripts/latest_movements.js" onload="make_movement_boxes('movements')"></script>
+    <script src="static/scripts/collapsible.js"></script>
+    
+    {% if in_session and session["access_level"]!=3 %}
+    <script>loadUser();</script>
+    <script src="static/scripts/analyze.js" onload="analyze();"></script>
+    {%endif%}
+{% endblock %}

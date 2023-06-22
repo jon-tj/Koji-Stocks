@@ -1,0 +1,31 @@
+{
+	"name":"AURA",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[125,125],
+		"Median":[125,125],
+		"High":[125,125]
+	},
+	"FinancialCalendar":{
+		"Time":["220511","230511"],
+		"Type":["Shareholder meeting","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200505","200505","200505","200505","200725","201025"],
+		"Difference%":[2688,1.7,1.67,1.67,10.98,1.66,2588]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-4.47],
+		"Market cap":["331.129M"]
+	},
+	"NewsDN":{
+		"Time":["222606","221105","222802","220802","220702"],
+		"Author":["Martin Kværnes","Kahni Ismail","Katrine Nordanger Mjelde","TDN Direkt","TDN Direkt"],
+		"Title":["Aurora Eiendom i mål med kapitalinnhenting: hentet 600 mill.","Aurora Eiendom hadde en omsetning på 77 millioner kroner i første kvartal","Aurora Eiendom har gjennomført emisjon","Aurora Eiendom har fulltegnet emisjonen","Aurora Eiendom vil hente 400 mill."]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

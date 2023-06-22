@@ -1,0 +1,57 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}{% endblock %}
+
+{% block before %}
+<div class="_campaign" style="margin-bottom: -0.25em;">
+    <img src="/static/art/banner_clean.jpg" alt="">
+    <table class="container">
+        <td>
+            <div class="overviewBox" id="overviewBox">
+                
+                <aside id="safariBox">
+                    <section id="userData">
+                        <img src="/static/icons/unknown_user_day.png" alt="user" class="icon">
+                        <aside name="text">
+                            <a id="username"></a>
+                            
+                            {% if session['access_level']>=3 %}
+                                <button onclick="ban_user(user_id_requested)" id="btn_ban">Ban user</button>
+                                <button onclick="delete_user(user_id_requested)" id="btn_delete">DELETE user</button>
+                            {% endif %}
+                        </aside>
+                    </section>
+                    <hr>
+                    <section id="safariStats">
+                        <div id="safari">  </div>
+                        <img id="safari_banner" src="/static/art/safari.png" alt="safari">
+                    </section>
+                </aside>
+
+                <aside id="portfolioBox">
+                    <h2 id="portfolioTitle">Portfolio</h2>
+                    
+                    <figure name="portfolio" style="width:100%; ">
+                        <canvas id="portfolioCanvas" style="cursor: pointer;" width="500"></canvas>
+                        
+                    </figure>
+                </aside>
+
+                
+                
+            </div>
+        </td>
+    </table>
+</div>
+{% endblock %}
+
+
+{%block tail%}
+    <script>
+        let user_id_requested=window.location.href.split('/');
+        user_id_requested=user_id_requested[user_id_requested.length-1];
+        loadUser(user_id_requested);
+    </script>
+    <script src="/static/scripts/tickers_overview.js" onload="loadTickers()"></script>
+    <script src="/static/scripts/collapsible.js"></script>
+    
+{% endblock %}

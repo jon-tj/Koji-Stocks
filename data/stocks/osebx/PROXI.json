@@ -1,0 +1,33 @@
+{
+	"name":"PROXI",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[5,5],
+		"Median":[6,6],
+		"High":[7,7]
+	},
+	"FinancialCalendar":{
+		"Time":["210826","220330","220407","220831","230224","230420","230511","230512"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0","-0.12563","-0.28815","-0.07","-0.1247","-0.44216","-0.44216","-0.14","-0.09925","-0.14352","-0.26","-0.14","-0.12563","-0.34069","-0.07","-0.15"]
+	},
+	"About":{
+		"Employees":[13],
+		"Incorporated year":[2015],
+		"Description":["Proximar Seafood AS is a Norway-based land-based salmon farming company. Its fish farming is based on Recirculating Aquaculture System (RAS)-technology. The Company is currently constructing its first production facility located at the foot of Mount Fuji in Japan. The facility consists of two separate buildings, a Hatchery & Nursery where fish is raised from egg to approx. 100g and a Post Smolt Grow Out site where the fish is grown to harvest size of around 5kg. Through land-based fish farming, Proximar Seafood AS is able to produce fresh Atlantic salmon, free of medication and without impact from traditional challenges such as lice and microplastics. Proximar Seafood AS has one subsidiary, Proximar Ltd."],
+		"City":["BERGEN"],
+		"Phone":["0"],
+		"Homepage":["http://www.proximarseafood.no/"]
+	},
+	"NewsDN":{
+		"Time":["221210","222004","221804","220704","221401","211412","211811","211108","210507","212204"],
+		"Author":["TDN Direkt","Jonas Christensen","Kimmo Risbakken","Lene Marita Berg Hermann","Sara Sofie Tallaksen","TDN Direkt","Marcus Hippe","TDN Direkt","TDN Direkt / Jonas Solgård","Leila Feratovic"],
+		"Title":["Proximar Seafood forlenger tegningsperiode for konvertibel obligasjon","Landet distributør i Japan","Proximar Seafood med aksjehandelsavtale","Peter Hermanrud går inn i Proximar Seafood-styret","Styremedlem kjøper aksjer for 1,8 mill. i Proximar Seafood","Dharma Rajeswarn ansatt som ny driftsdirektør i Proximar","Innsider kjøper i Proximar Seafood","Meglerhus nedgraderer flere oppdrettsaksjer - trekker frem én favoritt blant de store","Oppdretteren Proximar har signert rammeavtale","Styremedlem Helge Nielsen i Proximar Seafood kjøpte aksjer til 235.000 kroner"]
+	},
+
+	"updated":"5/15/23 10:24:11",
+	"currency":"NOK"
+}

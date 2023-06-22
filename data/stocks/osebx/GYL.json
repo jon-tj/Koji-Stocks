@@ -1,0 +1,29 @@
+{
+	"name":"GYL",
+	"DividendsMS":{
+		"X-day":[130523,140528,150520,160525,170531,180612,190607,200626,210604,220608],
+		"Payout date":[130612,140610,150610,160610,170613,180622,190621,200708,210615,220617],
+		"Announce date":[130215,140404,150409,160212,170405,180216,190307,200306,210311,220513],
+		"Amount NOK":[7,7,4,7,7,7,7,7,10,10]
+	},
+	"FinancialCalendar":{
+		"Time":["180611","180611","180612","190606","190607","200625","200626"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[1855],
+		"Incorporated year":[1995],
+		"Description":["Gyldendal ASA is a Norway-based holding company primarily active within the book publishing and distribution areas. The Company is involved in all business areas of the Norwegian book publishing industry. Gyldendal ASA is responsible for corporate strategy, finance and property development. It operates through a number of subsidiaries, including Gyldendal Norsk Forlag AS, a publishing house, Ark Bokhandel AS, a manager of a chain of bookstores, Forlagssentralen ANS, a book distributor that also proivdes logistics activities, and De norske Bokklubbene AS, an operator of book sales club."],
+		"City":["OSLO"],
+		"Phone":[22034100],
+		"Homepage":["https://www.gyldendalasa.no/"]
+	},
+	"NewsDN":{
+		"Time":["231804","232001","221309","222308","220607","221003","211208","210303","210402","202312","202808","200306","202602","202401","191809","190703","182906","181602","172802","171702","161412","163011","162408","162408","162806","150912"],
+		"Author":["TDN Direkt","Jonas Solgård","Leila Feratovic","TDN","Lene Marita Berg Hermann","NTB","Sofie Braseth","Birk Helle","Kim Ingwersen","Christopher Magnus","Jonas Solgård","Jonas Solgård","Magnus Newth","Magnus Newth","Ingrid Ekeberg","Stian Øvrebø Johannessen","Anders Kvale","Anders Kvale","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jakob Schultz","Jonas Blich Bakken","Jonas Blich Bakken","Simen Sundsbø","Jostein Løvås"],
+		"Title":["Gyldendal med svak omsetningsøkning i første kvartal","Inntektsfall for Gyldendal i fjerde kvartal","Gyldendal inn på eiersiden i nytt forlagshus","Inntektsvekst for Gyldendal","Gyldendal økte inntektene til en milliard kroner i første halvår","Gyldendal leverte knalltall","Gøril Joys Johnsen er ny toppsjef for bokhandelkjeden Ark","Karen Onsager Keiserud går fra Equinor til Gyldendal","Gyldendal inngår intensjonsavtale om å overta hele eierskap av Forlagssentralen","Høyesterett skal behandle kartell-anken til Cappelen Damm og Gyldendal","Den «beste sommeren noensinne» ga omsetningsløft for Gyldendal","Gyldendal reduserer utbytteforslag på grunn av korona","Ark kjøper Tanums flyplassbutikker","Silje Therese Gabrielsen slutter i Gyldendal","Stengetid på Oslo Børs: Gyldendal dagens store vinner","Gyldendal økte omsetningen, men resultatet før skatt faller","Oslo Børs i grønt","Sterkt år i svakt marked","Gyldendals finansdirektør går av 1. mars","Gyldendal bedrer kvartalsresultatet fra i fjor","Konserndirektøren i Gyldendal gir seg","Konkurransetilsynet: Bokavtalen bør ikke videreføres","Omsatte bare 75 aksjer per dag - vil av børs","Gyldendal glade for tap på 31 millioner","Varsler milliongebyr til fire forlag","Datteren overtar i Gyldendal"]
+	},
+
+	"updated":"5/15/23 10:24:02",
+	"currency":"NOK"
+}

@@ -1,0 +1,25 @@
+{
+	"name":"BALT",
+	"DividendsMS":{
+		"X-day":[190125,210615,220802],
+		"Payout date":[190215,210621,220808],
+		"Announce date":[190107,210611,220729],
+		"Amount NOK":[1,1.5,1.5]
+	},
+	"FinancialCalendar":{
+		"Time":["220601"],
+		"Type":["Shareholder meeting"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"]
+	},
+	"NewsDN":{
+		"Time":["232803","221708","211708"],
+		"Author":["TDN Direkt","Lene Marita Berg Hermann","TDN Direkt"],
+		"Title":["Alternus Energy Group enige om midlertidig endring i obligasjonsavtale","Alternus Energy doblet omsetning i andre kvartal","Alternus Energy Group økte omsetningen"]
+	},
+
+	"updated":"5/15/23 10:23:58",
+	"currency":"NOK"
+}

@@ -1,0 +1,15 @@
+{
+	"name":"LYTIX",
+	"FinancialCalendar":{
+		"Time":["220217","220217","220421","220512","220601","220605","220623","220825","220909","221107","221108","221117","221122","230119","230216","230310","230418","230420","230503","230511"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Capital Markets Day","Presentation","Presentation","Earnings Call","Presentation","Presentation","Presentation","Earnings Call","Capital Markets Day","Presentation","Earnings Call","Presentation","Shareholder meeting","Presentation","Presentation","Earnings Call"]
+	},
+	"NewsDN":{
+		"Time":["220504","210812","210811","212708","211507","211406"],
+		"Author":["TDN Direkt","Katrine Nordanger Mjelde","Jonas Christensen","Kathinka Hartwig","TDN Direkt","Jonas Solgård"],
+		"Title":["Lytix mottar milepælbetaling på en million dollar","Lytix er i gang med behandling av første pasient i klinisk studie","Flat børsåpning","Kreftbehandlingsselskapet Lytix Biopharma økte underskuddet i andre kvartal","Lytix Biopharma igangsetter fase to av kreftstudie","Oslo Børs stiger fra start"]
+	},
+
+	"updated":"5/15/23 10:24:05",
+	"currency":"NOK"
+}

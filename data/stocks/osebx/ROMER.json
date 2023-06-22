@@ -1,0 +1,39 @@
+{
+	"name":"ROMER",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[130,130],
+		"Median":[130,130],
+		"High":[130,130]
+	},
+	"DividendsMS":{
+		"X-day":[180316,190315,200320,210326,220401,230330],
+		"Payout date":[180327,190326,200401,210409,220408,230412],
+		"Announce date":[180213,190212,200211,210216,220215,230216],
+		"Amount NOK":["0.63","7.4","6.4","7.4","8.4","6.7"]
+	},
+	"FinancialCalendar":{
+		"Time":["190314","190314"],
+		"Type":["Shareholder meeting","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","201025"],
+		"Difference%":[2.7,2,2.15,1.81,2.18]
+	},
+	"About":{
+		"Employees":[51],
+		"Incorporated year":[1995],
+		"Description":["Romerike Sparebank is a Norway-based independent savings bank. The Bankâ€™ s main market is region in Romerike. It is engaged in the provision of banking services and offers financial services and professional advice with local roots to personal and business customers. The Bank offers online and mobile banking services, card issue, payment services, mortgage and different kind of small loans, saving and retire account, property and health insurance and real estate credit among others. "],
+		"City":["LILLESTROM"],
+		"Phone":[63804200],
+		"Homepage":["https://rsbank.no/"]
+	},
+	"NewsDN":{
+		"Time":["222608","222705","222502","212912","212409","211709","212805","210904","193008","182405","182302","182601","172411","170301","170201","162411"],
+		"Author":["Bjørn Borkamo","TDN Direkt / DN","Jonas Christensen","Adham Rana","Kahni Ismail","Synnøve Berg Meisingset","TDN Direkt","Martin Kværnes","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","TDN Finans","Einar Takla","Morten Iversen"],
+		"Title":["Eiendomsselskapet RomReal med svakere andre kvartal enn i 2021","Opptur for Romreal i første kvartal: resultat på 400.000 før skatt","Bedre fra Romreal","Oslo Børs falt onsdag","Oslo Børs stenger ned","Administrerende direktør og styreleder Kjetil Grønskag kjøper aksjer for 554.400 kroner","Resultatøkning for Romreal","Administrerende direktør og styreleder Kjetil Grønskag kjøper ni aksjer for til sammen 15,75 kroner i RomReal","Hårfint i pluss","Romreal tapte mer på driften","Slik har markedene beveget seg i natt","Får 4,6 mill. etter salg av dyrket mark i Romania","Dette skjer i dag","Styremedlem selger unna én million aksjer i Romreal","RomReal selger to eiendomsprosjekter","Dagens finanskalender"]
+	},
+
+	"updated":"5/15/23 10:24:12",
+	"currency":"NOK"
+}

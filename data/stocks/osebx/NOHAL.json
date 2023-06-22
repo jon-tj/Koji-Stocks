@@ -1,0 +1,33 @@
+{
+	"name":"NOHAL",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[35,35],
+		"Median":[35,35],
+		"High":[35,35]
+	},
+	"FinancialCalendar":{
+		"Time":["220215","220426","221111","230221","230510"],
+		"Type":["Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[-0.3837,-0.4522,-0.3,-0.59,-0.30903,-0.25701,-0.8,-1.08,-0.61047,-0.34416,-0.8,-0.01,-0.41645,-0.50305,-0.5,-0.46]
+	},
+	"About":{
+		"Employees":[25],
+		"Incorporated year":[1995],
+		"Description":["Nordic Halibut AS is a Norway-based farmer of Atlantic halibut. The Company has a fully integrated and value chain from genetics to sales and biological development. Nordic Halibutâ€™s production has 4 phases; broodstock and fry production, juvenile production, on-growing and grow-out. The Company implements a growth plan to expand production volumes. Nordic Halibut creates shareholder value by pursuing value accretive organic growth through increased production. Nordic Halibut's approach in early phase production enables the Company to grow with considerably improved biological, operational, and financial performance. The Company's business is located along the Norwegian western coast with five locations: Bergen, Midsund, Askoey, Averoey and Eide. "],
+		"City":["AVEROY"],
+		"Phone":[55215020],
+		"Homepage":["https://www.nordichalibut.com/"]
+	},
+	"NewsDN":{
+		"Time":["231204","220906","210911","213009","212009","211709","212508","211108"],
+		"Author":["Kimmo Risbakken","TDN Direkt","Kathinka Hartwig","Kahni Ismail","Katrine Nordanger Mjelde","Kimmo Risbakken","TDN Direkt","TDN Direkt"],
+		"Title":["Nordic Halibut med driftsoppdatering","Innsider handler aksjer i Nordic Hallibut","Nordic Halibut har hentet 170 mill. i friske penger","Nordic Halibut har sikret område for landbasert oppdrett","Nordic Halibut AS har ansatt ny finansdirektør","Nordic Halibut øker produksjonen","Underskudd på kveite","Meglerhus nedgraderer flere oppdrettsaksjer - trekker frem én favoritt blant de store"]
+	},
+
+	"updated":"5/15/23 10:24:07",
+	"currency":"NOK"
+}

@@ -1,0 +1,43 @@
+{
+	"name":"MNTR",
+	"DividendsMS":{
+		"X-day":[230307],
+		"Payout date":[230314],
+		"Announce date":[230208],
+		"Amount NOK":[1.75]
+	},
+	"FinancialCalendar":{
+		"Time":["210225","210225","210512","210526","210816","211115","220210","220504","220525","220811","230208"],
+		"Type":["Capital Markets Day - FY 2020 Earnings Call","Capital Markets Day - FY 2020 Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.01","0.0242","0.01","0.02866","0.0522","0.04","0.05012","0.039","0.0968","0.02168","0.04759","0.04759","0.0332"]
+	},
+	"PPE":{
+		"Time":["180110","180111","180210","180211","180310","180312","180410","180412","180510","180511","180611","180612","180711","180712","180810","180811","180910","180911","181010","181012","181110","181112","181210","181211","181212","181311","181312","181411","181412","181510","181511","181610","181611","181710","181712","181810","181812","181910","181911","181912","182011","182012","182111","182112","182210","182310","182311","182410","182412","182510","182610","182611","182612","182711","182712","182811","182812","182910","182911","183009","183010","183011","183110","220107","220108","220109","220111","220112","220208","220209","220211","220212","220308","220310","220311","220408","220410","220411","220507","220508","220510","220512","220607","220609","220610","220612","220707","220709","220710","220711","220712","220807","220808","220809","220811","220812","220908","220909","220911","220912","221008","221010","221011","221107","221108","221110","221111","221207","221208","221209","221210","221212","221307","221309","221310","221312","221407","221409","221410","221411","221412","221507","221508","221509","221511","221512","221608","221609","221611","221612","221708","221710","221711","221807","221808","221810","221811","221907","221908","221909","221910","221912","222007","222009","222010","222012","222107","222109","222110","222111","222112","222207","222208","222209","222211","222212","222308","222309","222311","222312","222408","222410","222507","222508","222510","222511","222607","222608","222609","222610","222707","222709","222710","222712","222807","222809","222810","222811","222812","222907","222908","222909","222911","222912","223006","223008","223009","223011","223012","223108","223110"],
+		"PPE":[750.0000,669.0000,740.0000,720.0000,760.0000,595.0000,752.5250,550.0000,800.0000,757.5000,660.0000,530.0000,670.0000,535.0000,750.0000,680.0000,730.1000,675.0000,720.0000,510.0000,710.2000,470.0000,710.0000,620.0000,520.0000,600.0000,539.9000,626.0000,470.0000,760.0000,580.0000,842.0000,590.0000,796.0000,480.0000,760.0000,419.9000,760.0000,627.5000,390.0000,642.5000,390.0000,647.5000,410.0000,720.0000,683.0000,645.0000,650.0000,365.0000,740.0000,710.0000,650.0000,330.0000,630.0000,327.4500,635.0000,310.0000,671.4000,581.0000,730.1000,628.0000,588.0000,595.0000,3.1124,2.8011,4.8397,19.9333,15.0000,2.8011,3.3862,18.0000,17.5000,2.8011,19.7667,17.6667,2.8011,18.6000,15.2333,3.1124,2.8011,18.7500,15.3333,3.1124,4.2795,16.6667,13.3333,2.7233,3.8904,17.2100,18.3333,13.3333,2.7233,2.8011,3.7348,19.6667,13.3333,2.8011,3.7348,20.0000,12.6667,2.8167,17.5000,20.0000,2.7233,2.8011,17.6667,17.5333,2.7233,3.6726,3.4625,17.5000,12.6667,2.9178,3.8904,17.5000,13.3333,3.4858,4.2017,18.5000,14.0000,13.3333,3.1124,3.3458,4.2017,14.5333,13.3333,3.3069,3.8904,14.8333,17.6667,3.3069,19.6667,16.6333,3.5014,4.2717,19.1667,19.3333,3.1124,3.8904,4.6685,19.2000,17.0000,3.1124,4.7191,19.2333,17.0000,3.1124,4.6685,20.0000,16.0833,18.3333,3.1341,6.2247,4.6685,18.8333,14.0000,5.2171,4.6530,19.1667,17.8333,5.7579,15.0000,3.1341,5.7968,15.3000,20.0000,3.1124,5.3688,4.2795,18.6667,2.8245,4.6685,20.0000,16.2667,2.8011,4.6685,19.9333,16.5000,17.3333,2.8011,5.1743,4.6685,19.0000,17.3333,3.1124,4.8242,18.5000,14.6333,16.6667,5.9913,19.0000]
+	},
+	"About":{
+		"Employees":[144],
+		"Incorporated year":[2014],
+		"Description":["Mintra Holding AS is a Norway-based technology company and a provider of an on-demand digital learning and enterprise Human Capital Management (HCM) software solutions for safety-critical industries worldwide. The Company is the parent Company of the Mintra Group. The Group has three main business lines: eLearning Solutions, HCM Solutions and Consultancy Services. The eLearning business line focuses on safety-critical and compliance-driven industries, such as energy and maritime, where companies and workers are facing ever increasing requirements with regards to competence, accreditation and certification. The HCM Solutions area serves seafarers and maritime vessels throughout a complete scalable Software as a Service (SaaS) platform, while the Consultancy Services area complement the e-learning and HCM offerings. Mintra Holding AS has several subsidiaries, including Mintra AS and Mintra Midco AS."],
+		"City":["BERGEN"],
+		"Phone":["0"],
+		"Homepage":["https://mintra.com/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-1.59],
+		"Market cap":[746,741.295]
+	},
+	"NewsDN":{
+		"Time":["221909","221508","220405","222803","221603","221702","221002","221001","211511","211210","211110","211110","211708","213103","201811","201211","200510"],
+		"Author":["TDN Direkt","Lene Marita Berg Hermann","TDN Direkt","TDN Direkt","Katrine Nordanger Mjelde","TDN Direkt","TDN Direkt","Till Zhang","TDN Direkt","Kahni Ismail","Christopher Magnus","TDN Direkt","Till Zhang","Martin Kværnes","TDN Direkt","Jonas Christensen","Birk Helle"],
+		"Title":["Mintra Holding tildelt ny kontrakt","Jostein Hufthammer blir ny finansdirektør i Mintra Holding","Mintra leverte et resultat før skatt på 9,8 millioner kroner","Mintra tildelt kontrakt til en verdi av 2,5 mill.","Finansdirektøren i Mintra Holding trer av","E-læringsselskapet Mintra med ny kontrakt til 3,9 mill.","Omsetningsvekst for e-læringsselskap","Mintra fornyer kontrakt om å tilby HR-tjenester","Mintra med resultatforbedring","Oslo Børs stenger med oppgang – E-læringsselskapet Mintra fortsetter fallet","Forsiktig oppgang fra start på Oslo Børs","E-læringsselskapet Mintra forventer lavere inntekter","E-læringsselskapet Mintra mottar toppakkreditering","Styremedlem trekker seg fra Mintra Holding","Konsernsjef har kjøpt 48.000 aksjer i Mintra","Inntektsfall og fortsatt underskudd for Mintra","Programvareselskap debuterer på børsen langt under emisjonskursen"]
+	},
+
+	"updated":"5/15/23 10:24:06",
+	"currency":"NOK"
+}

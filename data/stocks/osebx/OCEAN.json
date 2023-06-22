@@ -1,0 +1,24 @@
+{
+	"name":"OCEAN",
+	"About":{
+		"Employees":[41],
+		"Incorporated year":[2020],
+		"Description":["Ocean Geoloop AS is a Norway-based green tech company. The Company develops and industrializes green technologies with global scaling potential. The company was established as an offshoot of the research project Ocean, initiated by Hans Gude Gudesen in 2006. Ocean GeoLoop is based on long-term systematic research and method development, connected in a holistic concept with the aim of solving the greatest challenges of time a combined climate, environment and resource crisis."],
+		"City":["VERDAL"],
+		"Phone":["0"],
+		"Homepage":["https://oceangeoloop.com/"]
+	},
+	"Finances":{
+		"Time":["230417"],
+		"Currency":["NOK"],
+		"PE":[-20.98]
+	},
+	"NewsDN":{
+		"Time":["220510","222508","221208","221208","221005","220803"],
+		"Author":["Emilie Solberg","Lene Marita Berg Hermann","Katrine Nordanger Mjelde","TDN Direkt","Katrine Nordanger Mjelde","Kahni Ismail"],
+		"Title":["Yara og Ocean Geoloop inngår intensjonsavtale om karbonfangst og elektrisitetsproduksjon","Milliardselskapet Ocean Geoloop øker omsetningen med 48 millioner i første halvår","Ocean Geoloop stiger kraftig etter melding om ny stor investor","Chevron investerer 100 mill. i Ocean Geoloop","Nedgangen fortsetter på Oslo Børs tirsdag","Første handelsdag for Ocean Geoloop"]
+	},
+
+	"updated":"5/15/23 10:24:09",
+	"currency":"NOK"
+}

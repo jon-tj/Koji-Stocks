@@ -1,0 +1,21 @@
+{
+	"name":"HYN",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[5.5,5.5],
+		"Median":[5.5,5.5],
+		"High":[5.5,5.5]
+	},
+	"FinancialCalendar":{
+		"Time":["220215","220308","230403"],
+		"Type":["Earnings Call","Shareholder meeting","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["233001","220411","222607","221507","221802","221901","221901","221701","212109","212009","210609","213008","211706","212304","212304","212204","211904"],
+		"Author":["TDN Direkt","TDN","Katrine Nordanger Mjelde","Felix Sandblom","TDN Direkt","Christopher Magnus","TDN Direkt","Marcus Hippe","TDN Direkt","Katrine Nordanger Mjelde","TDN","Emilie Solberg","TDN Direkt","Erik Bucher Johannessen","Leila Feratovic","Jonas Christensen","Jonas Solgård"],
+		"Title":["Kjapt sjefsbytte i Hynion","Hynion vil hente 58,6 mill. i friske penger","Energisektoren løfter Oslo Børs","Hynion får svenske subsidier","Vil lansere flytende hydrogensetasjonen for fritidsbåter.","Nedgang på Børsen for tredje dag på rad","Hynion med i samarbeid for Nord-Europa","Hydrogenselskapet Hynion med ny bussavtale","Hynion ser muligheter i avkrabonisering av transportsektoren","Hynion skal forsyne taxiselskapet Viggo med drivstoff","Hynion med i nytt prosjekt for brenselcellebiler","Hynion og Premac inngår samarbeid om produksjon av hydrogenstasjoner","Hydrogenselskapet Hynion utvider i Sverige","Svak nedgang på Oslo Børs – hydrogenselskap stiger over 20 prosent","Hynion og Hydrogenpro samarbeider om grønt hydrogen","Voldberg ut av toppen i Hynion","Oppgang fra start på Børsen – Sikri Holding stiger markant etter oppkjøp"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

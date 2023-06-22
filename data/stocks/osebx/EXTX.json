@@ -1,0 +1,23 @@
+{
+	"name":"EXTX",
+	"FinancialCalendar":{
+		"Time":["210604","210604","210901","211203","220608"],
+		"Type":["Presentation","Presentation","Presentation","Shareholder meeting","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[8],
+		"Incorporated year":[2012],
+		"Description":["Exact Therapeutics AS is a Norway-based clinical-stage biopharmaceutical company, which develops ultrasound-mediated technology platform for targeted therapeutic enhancement Acoustic Cluster Therapy (ACT). ACT sonoporation is an approach to ultrasound-mediated, targeted drug enhancement with the potential to significantly amplify the clinical utility of a wide range of therapeutic agents across a multitude of indications including within cancer (chemotherapy, immunotherapy), infectious diseases, and neurological conditions. The Company's purpose is to extend and enrich patient lives through targeted therapeutic enhancement. It is done through harnessing the power of ultrasound in combination with ACT formulation."],
+		"City":["OSLO"],
+		"Phone":["0"],
+		"Homepage":["https://www.exact-tx.com/"]
+	},
+	"NewsDN":{
+		"Time":["222306","220806","222803","212212","210612","210512","212511","212209","211106","211905","212004","210704","212603","212001","201910","201809","201407","201407"],
+		"Author":["TDN Direkt","TDN Direkt","Lene Marita Berg Hermann","Adham Rana","Jonas Christensen","Katrine Nordanger Mjelde","Bente Bjørndal","Jonas Solgård","Christopher Magnus","TDN Direkt","TDN Direkt","Jonas Christensen","Leila Feratovic","Jonas Christensen","Christopher Magnus","Jonas Solgård","William Bugge","Jantra Hollum"],
+		"Title":["Exact Therapeutics-samarbeid tildelt 16 mill. fra Forskningsrådet","Anders Wold ny styreleder i Exact Therapeutics","Per Walday blir konsernsjef i Exact Therapeutics AS","Oslo Børs stengte forsiktig opp","Nytt styremedlem i Exact Therapeutics","Innsider-handel i biotekselskapet Exact Therapeutics","Klouman trekker seg fra styret i Exact","Biotekselskapet Exact mer enn tredoblet tapene i første halvår","Oslo Børs brøt den negative trenden","Exact Therapeutics er innvilget patent i Japan","Exact valgt som flaggskipselskap på konferanse","Ny finansdirektør i Exact","Oppgang på Oslo Børs etter styrket oljepris og krone","Exact Therapeutics inngår samarbeid med GE Healthcare","Oslo Børs åpner flatt - Selvaag upåvirket av sjefsavgang","Exact Therapeutics-gründer har solgt aksjer for 2,5 millioner","Oslo Børs stenger med forsiktig oppgang","Første dag på børs for Exact Therapeutics"]
+	},
+
+	"updated":"5/15/23 10:24:01",
+	"currency":"NOK"
+}

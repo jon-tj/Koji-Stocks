@@ -1,0 +1,15 @@
+{
+	"name":"HYON",
+	"FinancialCalendar":{
+		"Time":["220421"],
+		"Type":["Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["231104","232003","230102","233101","232401","222508","222102","222102"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt","Martin Kværnes","Lene Marita Berg Hermann","Bjørn Borkamo","Karl Wig","Jonas Christensen"],
+		"Title":["Hyon har utnevnt midlertidig finansdirektør","Hyon-kontrakt med Norwegian Hydrogen","Hyon varsler oppdatering fredag","Hyons finansdirektør går av","Nel har solgt samtlige aksjer i Hyon","Spetalen-dominerte Saga Pure dro inn 147 millioner kroner fra finansielle investeringer","Børsfall i Oslo etter Asia-nedgang og økt Ukrania-uro","Ny finansdirektør i Hyon"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

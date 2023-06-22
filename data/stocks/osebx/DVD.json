@@ -1,0 +1,26 @@
+{
+	"name":"DVD",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[14.78,14.78],
+		"Median":[14.78,14.78],
+		"High":[14.78,14.78]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200725","200725","201025","201025"],
+		"Difference%":[-0.03,-0.02,-0.02,-0.03,-0.04,-0.03,-0.04,-0.03]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["NOK"],
+		"PE":[-12.56]
+	},
+	"NewsDN":{
+		"Time":["230203","222705","222601","211509","210508"],
+		"Author":["TDN Direkt/DN","Katrine Nordanger Mjelde","Jonas Christensen","Kimmo Risbakken","Ingeborg Løkling"],
+		"Title":["Styremedlem kjøper i Deep Value Driller","Millionlønning for Deep Value Driller-sjef Svend Anton Maier","Oslo Børs stiger fra start","DVD tærer på kontantene","Svend Anton Maier kjøper aksjer for 575 000 kroner i Deep Value Driller AS"]
+	},
+
+	"updated":"5/15/23 10:24:00",
+	"currency":"NOK"
+}

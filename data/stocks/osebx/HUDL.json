@@ -1,0 +1,33 @@
+{
+	"name":"HUDL",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[4,4],
+		"Median":[4,4],
+		"High":[4,4]
+	},
+	"FinancialCalendar":{
+		"Time":["210526","210526","210826","211118","220210","220512","220512","220818","220831","221110","230223"],
+		"Type":["Special Situation","Special Situation","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Presentation","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200725","200725","201025","201025"],
+		"Difference%":[-0.03,-0.02,-0.02,-0.03,0.01,-0.04,0.01,-0.03]
+	},
+	"About":{
+		"Employees":[67],
+		"Incorporated year":[2018],
+		"Description":["Huddlestock Fintech AS is a Norway-based WealthTech company that develops software as a service (SaaS) solutions for digitizing work processes for custody banks, asset managers and retail trading venues. Through its technology offering, Huddlestock offers compliant, and data-centric WealthTech SaaS, accelerating the digital transformation, and trends of hyper-personalization and on demand banking within the wealth management industry. The Company offers two technology solutions, Apex (Custody) and Bedrock (Connectivity). Apex is a software as a service-solution that links custody services with asset managers and individual investors. Bedrock provides a white label solution that is primarily a product for financial services firms wanting to add low cost-efficient trading and investing services to their client Website and Application offerings."],
+		"City":["STAVANGER"],
+		"Phone":["0"],
+		"Homepage":["https://huddlestock.com/"]
+	},
+	"NewsDN":{
+		"Time":["232803","221110","221905","223103","221603","221403","222102","211712","211012","212411","212807","210706","210106","212005","210505","211504","201012"],
+		"Author":["TDN Direkt","TDN Direkt","Kenneth Lund","TDN Direkt","Christopher Magnus","TDN Direkt","TDN Direkt / DN","TDN","Sara Sofie Tallaksen","TDN Direkt","TDN Direkt","Katrine Nordanger Mjelde","Line Kaspersen","TDN Direkt","Agnete Klevstrand","Katrine Nordanger Mjelde","Henrik Giæver"],
+		"Title":["Huddlestock Fintech har gjennomført oppkjøpet av Trac Services og Tracs Technology","Huddlestock Fintech har inngått avtale med Morningstar","Huddlestock kraftig opp etter bankavtale i Tyskland","Huddlestock Fintech vil kjøpe alle aksjer i F5 IT","Påtroppende styremedlem kjøper i Huddlestock Fintech","Huddlestock har inngått avtale med investeringsklubb","Huddlestock Fintech signerer avtale med finansiell nyhetsside","Huddlestock med rettet plassering av 9,4 millioner aksjer","Stig Myrseth blir en del av styret i Huddlestock Fintech","Huddlestock gir sjef i datterselskap sparken","Huddlestock Fintech godkjent for sekundærnotering i Tyskland","Toppadvokat ansatt som juridisk direktør i Norse Atlantic","Huddlestock Fintech har hentet 35 millioner - sikrer kjøpet av Visigon","Huddlestock Fintech med intensjonsavtale","Fintech-selskapet Huddlestock kjøper Visigon","Huddlestock omsatte for 500.000 kroner i første kvartal på børs","Huddlestock Fintech med ny avtale – venter 50 prosent økt omsetning"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

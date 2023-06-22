@@ -1,0 +1,33 @@
+{
+	"name":"BWIDL",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[40.09,40.09],
+		"Median":[52.69,52.69],
+		"High":[65.29,65.29]
+	},
+	"FinancialCalendar":{
+		"Time":["210520","210819","211116","220224","220512","220513","220729","221110","230217","230328"],
+		"Type":["Sales and Revenue Call","Earnings Call","Sales and Revenue Call","Earnings Call","Sales and Revenue Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Special Situation"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205"],
+		"Difference%":[-0.19179]
+	},
+	"About":{
+		"Employees":[74],
+		"Incorporated year":[2020],
+		"Description":["BW Ideol AS is a Norway-based fully integrated platform in floating offshore wind. The Company is executing its dual-track strategy as a co-developer of offshore floating wind projects and as Engineering, Procurement, Construction and Installation (EPCI) contractor of floating wind technology. The Company has two full-scale offshore floating wind turbines in operation in France and Japan. BW Ideolâ€™s project portfolio includes Floatgen, a 2MW floating wind turbine demonstrator installed off the coast of Le Croisic. The turbine supplies around 5000 inhabitants with electricity. BW Ideol is also a project partner and supplier of the floating foundation technology for the Eolmed project in France. The Company has three subsidiaries: Ideol SA, Ideol Japan LLC and Ideol US Inc."],
+		"City":["OSLO"],
+		"Phone":[23130000],
+		"Homepage":["https://www.bwoffshore.com/"]
+	},
+	"NewsDN":{
+		"Time":["231602","222609","220501","210112","212311","210411","210707","210207","210207","212306"],
+		"Author":["TDN Direkt","Kimmo Risbakken","Adham Rana","Marcus Hippe","Marie Melgård","TDN Direkt","Herman Østensen","Karoline Johannessen Litland","Karoline Johannessen Litland","TDN Direkt"],
+		"Title":["BW Ideol med driftsresultat på minus 17 millioner euro i 2022","BW Ideol med partneravtale","BW Ideol inngår investeringsavtale med JERA og Ademe for offshore vindprosjekt","BW Ideol kjøper fem prosent av flytende vindpilotprosjekt","Oslo Børs sluttet ned 0,66 prosent etter olje-uro","California-prosjekt videre til miljøvurdering","BW Ideol signerer utviklingsavtale for offshore vindpark i Japan","Oslo Børs åpner opp 0,3 prosent","Spetalen-selskap på aksjonærlisten i BW Ideol","BW Ideol inngår i havvindsamarbeid med Hitachi"]
+	},
+
+	"updated":"5/15/23 10:23:59",
+	"currency":"NOK"
+}

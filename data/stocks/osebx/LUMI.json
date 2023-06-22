@@ -1,0 +1,39 @@
+{
+	"name":"LUMI",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[60,60],
+		"Median":[60,60],
+		"High":[60,60]
+	},
+	"DividendsMS":{
+		"X-day":[220427],
+		"Payout date":[220505],
+		"Announce date":[220217],
+		"Amount NOK":[1]
+	},
+	"FinancialCalendar":{
+		"Time":["210511","210511","210825","211104","220217","220510","220817","221102","230217","230510"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200725","201025","201025"],
+		"Difference%":["0.42","0.3","0.47","0.85","0.8","0.4809"]
+	},
+	"About":{
+		"Employees":[247],
+		"Incorporated year":[2017],
+		"Description":["Lumi Gruppen AS, formerly Sonans Holding AS is a Norway-based education company focused on providing educational services. The Company' Brands consist of Sonans Utdanning and Oslo Nye Hoeyskole. Sonans Utdanning is a high school private candidate exam preparation courses, primarily to help former high school students achieve better exam results and/or complete their high school diploma to access higher education. Oslo New University Collegeâ€™s (ONH) mission is to provide research and education to students on campus in Oslo and online. ONH is a college with courses within the fields of psychology, health, business and administration as well as political science and international relations. The college offers courses at masterâ€™s level, bachelorâ€™s level or one year programs. "],
+		"City":["OSLO"],
+		"Phone":["0"],
+		"Homepage":["https://lumigruppen.no/"]
+	},
+	"NewsDN":{
+		"Time":["231704","232803","230703","222609","222109","221908","221708","220408","220408","221702","211409","212508","212508"],
+		"Author":["TDN Direkt","Mikael Holter","Martin Kværnes","Kenneth Lund","Katrine Nordanger Mjelde","TDN Direkt  / DN","Katrine Nordanger Mjelde","Jonas Solgård","TDN Direkt","TDN Direkt","TDN Direkt","Kathinka Hartwig","Birk Helle"],
+		"Title":["Nytt styremedlem i Lumi Gruppen","Lumi-sjefen fikk lavere bonus i 2022","Lumi Gruppen hentet 175 millioner kroner","Utdanningsselskapet Lumi har sikret finansiering","Litt bedre studentopptak for Lumi enn ventet – stiger på børs","Administrerende direktør i Sonans kjøper 20.000 aksjer i Lumi Gruppen","Resultatfall for Lumi Gruppen","Lumi stuper på børs etter oppdatering","Lumi Gruppen melder om markant lavere salgstall i andre kvartal","Lumi Gruppen økte inntektene i fjerde kvartal","Martin Prytz er utnevnt som ny finansdirektør i Sonans Holding","Karbonteknologiselskap faller på børs etter å ha lagt frem resultater","Privatskoleselskapet Sonans Holding dro inn 37 millioner kroner før skatt"]
+	},
+
+	"updated":"5/15/23 10:24:05",
+	"currency":"NOK"
+}

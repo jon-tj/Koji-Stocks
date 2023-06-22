@@ -1,0 +1,27 @@
+{
+	"name":"AEGA",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[43,43],
+		"Median":[43,43],
+		"High":[43,43]
+	},
+	"DividendsMS":{
+		"X-day":[130523,140320,140617,140922,160223,160523,160823,161219,190823,200603],
+		"Payout date":[130604,140401,140627,141001,160229,160531,160831,161228,190830,200611],
+		"Announce date":[130430,140507,140507,140919,160425,160426,160426,161124,190822,200430],
+		"Amount NOK":[2.5,32,3,7,0.03,0.08,0.08,0.03,0.2,0.04]
+	},
+	"FinancialCalendar":{
+		"Time":["200529","210527","220531"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["223011","221209","220408","222106","220306","222502","222101","221201","211511","212710","212210","212409","213108","210903","212602","211802","202912","200312","201611","201910","200906","192310","191005","190905","180609","181604","180602","180602","172012","171812","172211","172211","171508","171508","170707","170905","172104","170202","162012","162311"],
+		"Author":["Sara Sofie Tallaksen","Lene Marita Berg Hermann","TDN Direkt","NTB","Jonas Solgård","TDN Direkt","TDN Direkt","Till Zhang","Magnus Newth","Line Kaspersen","TDN Direkt / Jonas Solgård","Kahni Ismail","TDN Direkt","Kenneth Lund","TDN Direkt","Kenneth Lund","DN Investor","TDN Direkt","TDN Direkt","Christopher Magnus","Jonas Solgård","Kenneth Lund","TDN Direkt","Thomas Frantsvold","Line Kaspersen","Line Kaspersen","Thomas Frantsvold","Thomas Frantsvold","Anders Kvale","Anders Kvale","TDN Finans","Jonas Christensen","Jonas Christensen","Jonas Christensen","Thomas Frantsvold","DN","Fredrick Ekeseth","Jonas Christensen","Øyvind Finstad","Morten Iversen"],
+		"Title":["Aega omsatte for 7,8 millioner i tredje kvartal","Aegas solpark-handel er endelig i havn","Uavklart for Aegas solpark-handel i Italia","Ny måned med nedtur i svensk økonomi","Aega vil hente opptil 30 mill. kroner i friske penger","Aega økte inntektene","Sjefen kjøper i Aega","Aega signerer bindene tilbud om kjøp av solparker i Italia","Aega med eksklusivitetsavtale for mulig kjøp av solcelleparker","Aega har mottatt tegninger på rundt 36 mill. nye aksjer","Observe Medical fortsetter utrulling av produkt i Sverige","Oslo Børs stenger ned","Aega vil hente penger","Aega kjøper solpark i Italia","Aega med fortsatt underskudd i fjerde kvartal","Aega kjøper to solkraftverk i Italia","Forsinket solpark-signering","Aega sikrer seg solparker i Italia","Investeringsselskapet Aega kjøper to solparker i Italia","Solselskapet Aega opp over 40 prosent","Aega-toppsjef har kjøpt aksjer i eget selskap","Aega-sjef Markus Enge slutter","Aega vil selge alle sine solenergianlegg","Aega selger sine åtte solparker til Mareccio til mer enn det dobbelte av dagens aksjekurs","Styreleder-selskap inngår avtale om å kjøpe 972.660 Aega-aksjer","AFT Development kjøper seg opp i Aega","Dette er dagens største børstapere","Aega låner av aksjonærene","Styremedlem dumper solpark-aksjer","Konsernsjef gir seg i Aega","Har 300.000 i forfalt gjeld","Dette skjer i dag: Fredriksen og Trøim","Oppgang for solparkselskap","På agendaen i dag","Kom ikke i mål før sommerferien","Caiano kjøper mer i Wilson","Kjøper mer solkraft i Italia","Ny direktør i Aega","Gjennomfører emisjon","Dagens finanskalender"]
+	},
+
+	"updated":"5/15/23 10:23:56",
+	"currency":"NOK"
+}

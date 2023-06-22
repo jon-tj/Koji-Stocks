@@ -1,0 +1,39 @@
+{
+	"name":"ADS",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[1.57,1.57],
+		"Median":[1.57,1.57],
+		"High":[1.57,1.57]
+	},
+	"DividendsMS":{
+		"X-day":[190612,190904,200310,200604,200901,201123,210222],
+		"Payout date":[190626,190916,200318,200616,200911,201203,210301],
+		"Announce date":[190611,190902,200227,200528,200831,201118,201118],
+		"Amount NOK":["0.37","0.19","0.79","2.86","1.6","1.54","18.48"]
+	},
+	"FinancialCalendar":{
+		"Time":["220408"],
+		"Type":["Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200725","201025","201025"],
+		"Difference%":[-0.1878,-0.01,0.37,-0.02248,0.02]
+	},
+	"About":{
+		"Employees":[1],
+		"Incorporated year":[2018],
+		"Description":["Ads Maritime Holding Plc is a Norway-based shipping investment company. The Companyâ€™s strategy is to make counter-cyclical investments in ships bought at prices discounted to new building parity, particularly tankers and bulkers, as well as projects with long-term secured cashflow, low residual risk, and solid returns on equity. The Companyâ€™s business is investments in shipping. During 2020 when the Company owned a fleet of three VLCC tankers management had organized and managed the entity as one business segment based upon the service provided. During 2020 all three vessels operated in the spot market, with one vessel performing on a six month time charter contract. During 2021 the Company has not had any operating assets."],
+		"City":["KOLBJORNSVIK"],
+		"Phone":["0"],
+		"Homepage":["https://www.adsmh.com/"]
+	},
+	"NewsDN":{
+		"Time":["220209","222207","222107","202309","201009","192611","192208","190606","192905","192702","182011"],
+		"Author":["TDN Direkt","Felix Sandblom","Jonas Solgård","Henrik Giæver","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","TDN Direkt"],
+		"Title":["Selger trakk seg fra skipstransaksjon","Tankrederiet ADS Maritime Holding hentet 100 millioner i friske penger","Tankrederiet ADS Maritime Holding vil hente 100 mill. kroner i friske penger","ADS Crude Carriers har gjennomført salg av Stratus","Setter kursmål 20 kroner på ADS Crude Carriers","Sikret kontrakt for «ADS Stratus»","Svakere fra tankrederi","Ny finansiering for ADS Crude Carriers","Svakere fra rederi","Helomvending fra tankrederi","ADS Crude Carriers kjøper tre scrubbere til flåten"]
+	},
+
+	"updated":"5/15/23 10:23:56",
+	"currency":"NOK"
+}

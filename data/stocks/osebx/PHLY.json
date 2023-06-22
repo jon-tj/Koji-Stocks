@@ -1,0 +1,29 @@
+{
+	"name":"PHLY",
+	"DividendsMS":{
+		"X-day":[140507,140723,141112,150304,150513,150722,151111,160224,160513,160513,160722,160913,161104,170223],
+		"Payout date":[140516,140801,141121,150313,150522,150731,151120,160304,160523,160523,160801,160921,161114,170306],
+		"Announce date":[140502,140717,141111,150226,150507,150716,151105,160218,160509,160509,160718,160819,161031,170217],
+		"Amount USD":[17.5,1.5,0.25,0.25,0.25,0.25,0.25,0.25,3.5,0.25,0.25,3,0.25,0.25]
+	},
+	"FinancialCalendar":{
+		"Time":["180629","180629","190405","200422","210421","220420","230419"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[1406],
+		"Incorporated year":[2007],
+		"Description":["Philly Shipyard ASA is a Norway-based holding company with headquarters in Oslo, Norway, and an U.S. operating subsidiary, Philly Shipyard, Inc in Philadelphia, PA. Philly Shipyard is a shipbuilder that is presently pursuing a mix of commercial and government work. It possesses a shipbuilding facility and is a provider of ocean-going merchant vessels with a track record of delivering ships. Philly Shipyard ASA is committed to maintaining an open and direct dialogue with its shareholders, potential investors, analysts, brokers and the financial community in general. Philly Shipyard has one business segment which is building and repairing vessels for both the U.S. Jones Act market and the U.S. Government."],
+		"City":["OSLO"],
+		"Phone":[23119100],
+		"Homepage":["https://www.phillyshipyard.com/"]
+	},
+	"NewsDN":{
+		"Time":["221407","221905","221804","211611","210311","211407","210802","212201","212001","200211","200209","201507","201504","201404","200804","201202","191607","190207","190702","180611","181707","181707","180805","182901","170311","170311","172407","172407","170405","171404","171702","163110"],
+		"Author":["TDN Direkt","TDN Direkt","Ingrid Bjørklund","Leila Feratovic","Jonas Christensen","TDN Direkt","Erik Bucher Johannessen","TDN","Kim Ingwersen","Henrik Giæver","Jonas Solgård","Jonas Solgård","TDN Direkt / Jonas Solgård","Jonas Solgård","Magnus Newth","Jonas Christensen","Jonas Christensen","TDN Direkt","Jonas Christensen","TDN Direkt","Anders Kvale","Eirik Helgaker","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Fredrick Ekeseth","Jonas Christensen","TDN Finans","Jonas Blich Bakken"],
+		"Title":["Kraftig omsetningsløft for Philly Shipyard","Apollo selger i Kjell Inge Røkkes amerikanske skipsverft","Røkke-kontrollert verft bygger skip for amerikanske myndigheter","Aker-verftet Philly Shipyard får havvindskontrakt verdt 1,7 mrd.","Philly Shipyard fortsatt i minus","Røkke-verft går i minus","Røkke-verftet Philly Shipyard skal reparere amerikansk marinefartøy","Apollo Management selger seg ned i Philly Shipyard","Kahoot steg 8,2 prosent på svakt negativ børs","Røkke-verft tapte 72 millioner i tredje kvartal","Tidligere finansdirektør i Philly Shipyard returnerer til selskapet","Fortsatt i minus for Philly Shipyard","Foreslått ny styreleder i Røkke-kontrollert selskap","Philly Shipyard stiger kraftig på ukens første handelsdag etter påske","Philly Shipyard vinner kjempekontrakt","Nye tap for Philly","Røkke-verft i minus - har ingen skip å bygge","Ny finansdirektør i Philly Shipyard","Røkke-verft går i minus","Philly Shipyard i minus","Oslo Børs stiger","Philly Shipyard tapte penger i andre kvartal","Philly Shipyard i minus","Bergenbio stiger på grønn børs","Skipsverft tjener mer","Dette skjer i dag","Børsen åpner opp - Songa og Philly drar ifra","Avtale for Philly Shipyard","Philly-verftet stopper utbytte på grunn av ordreusikkerhet","Røkke-dominert rederi betaler ut 35 millioner i utbytte","Nær dobling av resultatet for fjerde kvartal","Lønnsomt som liten  for Philly Shipyard"]
+	},
+
+	"updated":"5/15/23 10:24:10",
+	"currency":"NOK"
+}

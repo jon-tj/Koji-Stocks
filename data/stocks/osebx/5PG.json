@@ -1,0 +1,34 @@
+{
+	"name":"5PG",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[4.7,4.7],
+		"Median":[4.7,4.7],
+		"High":[4.7,4.7]
+	},
+	"FinancialCalendar":{
+		"Time":["210914","210914","210929","220426","230314","230403","230427"],
+		"Type":["Special Situation","Special Situation","Special Situation","Shareholder meeting","Shareholder meeting","Special Situation","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[3],
+		"Incorporated year":[2011],
+		"Description":["5Th Planet Games A/S, formerly Hugo Games A/S is a Denmark-based game development company that creates, develops and publishes online and offline mobile games globally. The Company focuses on casual mobile games, where a play session takes up to 15 minutes, and can be picked up quickly and easily. It also focuses on semi-casual games are often characterized by being multi-player games and yet multiplayer games tend to see a higher retention and monetization per active user. 5Th Planet Games A/S has a portfolio of games available on iOS and Android, including Hugo Troll Race 2, Cristiano Ronaldo: Kickâ€™nâ€™Run, Before Your Eyes, Snakebite as well as Tintin Match. The Company has two offices in Copenhagen and Berlin. "],
+		"City":["COPENHAGEN"],
+		"Phone":["0"],
+		"Homepage":["https://www.5thplanetgames.com/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["NOK"],
+		"PE":[-6.41]
+	},
+	"NewsDN":{
+		"Time":["163011","171905","172103","172111","172111","172609","172701","180202","180312","180501","180502","180603","180702","180802","181309","181603","181904","182008","182008","182504","190603","190703","191103","191303","192509","201208","201401","201803","202801","211008","211008","211108","213009","222705","222803","230301"],
+		"Author":["Jakob Schultz","Børskommentator Thor Chr. Jensen","Lars Kristian Solem","Jonas Christensen","Jonas Christensen","Jonas Christensen","Jonas Christensen","Anders Kvale","Jonas Christensen","Anders Kvale","Jonas Christensen","Anders Kvale","Jonas Christensen","Christian Bjerknes","TDN Direkt","Anders Kvale","Anders Kvale","Anders Kvale","Anders Kvale","Anders Kvale","Jonas Christensen","Jonas Christensen","TDN Direkt","Jonas Christensen","Jonas Christensen","Eirik Heggdal Evensen","Jonas Christensen","TDN Direkt","TDN Direkt","Louise Nygaard, NTB","Sofie Braseth og Herman Østensen","Louise Nygaard","Kahni Ismail","TDN Direkt","TDN Direkt","Kimmo Risbakken"],
+		"Title":["Hugo Games: Nytt fotballspill med Real Madrid","CFO kjøper i Hugo Games","Hugo Games forhandler med Ronaldo","Spillselskap henter 44 millioner kroner","Fredrikstad-investor: Har tjent to millioner på ti minutter på nye aksjer","Resultatfall for spillselskap","Hugo Axess har signert avtale med Arsenal FC","Ny finansdirektør i spillselskap","Hugo Games har endret navn","Sjefen investerer millionbeløp i Hugo Games","Spillselskap får betalt fra Kina","Lanserer spill på Facebook-platform - aksjen stiger","Energiinnsprøyting på børs","Cristiano Ronaldo forlenger med Hugo Games","Hugo varsler tredobling av omsetningen","Flat åpning på Oslo Børs","Hugo Games lanserer mobilspill","Hugo Games lanserer Ronaldo-spill - aksjen faller videre","Questerre Energy-aksjen faller etter restriksjoner i Canada","Ny styreleder i Hugo Games","Børsknøtt ber om å få kjøpe selskapet ditt","Får smekk på børs etter å ha varslet oppkjøpsraid","5th Planet Games med konvertibelt rammelån","Spillselskap legger ned i England - 14 ansatte må gå","Pengene fortsetter å renne ut for 5th Planet Games","Dansk hedgefond selger over en million aksjer i mobilspillselskap","Kursras siste år - nå vil selskapet fortelle om status for nær fremtid","Ketil Skorstad-eide Tigerstaden selger seg ned i 5th Planet Games","Vil lansere mobilspill basert på ","Oslo Børs endte dagen med ny sluttrekord","Oslo Børs stiger fra start – spillaksje til værs","Oslo Børs stabiliserer seg, men ender dagen med ny sluttrekord","Regnskapsdirektør Peter Ekman kjøper aksjer for 797.000 kroner i 5th Planet Games","Oslo Børs har godkjent Skybound Game Studios tilbud på 5th Planet Games","Ny distribusjonsavtale for spiller Before Your Eyes","5th Planet Games-sjefen kjøper aksjer"]
+	},
+
+	"updated":"5/15/23 10:23:55",
+	"currency":"NOK"
+}

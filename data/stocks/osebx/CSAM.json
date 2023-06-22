@@ -1,0 +1,33 @@
+{
+	"name":"CSAM",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[45,45],
+		"Median":[56.5,56.5],
+		"High":[68,68]
+	},
+	"FinancialCalendar":{
+		"Time":["210506","210506","220426","220519","220519","220830","220831","221117","221130","230228","230427","230512"],
+		"Type":["Shareholder meeting","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Presentation","Presentation","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200725","201025","201025"],
+		"Difference%":["0.12","-0.38","-1.57","-1.57","73.1","92.1","-0.56","-0.36902"]
+	},
+	"About":{
+		"Employees":[314],
+		"Incorporated year":[2012],
+		"Description":["CSAM HEALTH GROUP AS is a Norway-based provider of specialised software for healthcare sector. Its specialized software solutions are instrumental in the clinical care processes of healthcare providers and in enabling emergency responders to enhance public safety. The Companyâ€™s product portfolio includes solutions in public safety, connected healthcare, women and children's health, laboratory information management systems, medical imaging, medication management, and health analytics. CSAM is headquartered in Oslo, Norway with local offices in Sweden, Denmark, Finland, UK, Lithuania, Spain, New Zealand, the United States and the Philippines. CSAM delivers software and services to almost all hospitals in the Nordic region."],
+		"City":["OSLO"],
+		"Phone":["0"],
+		"Homepage":["https://www.csamhealth.com/"]
+	},
+	"NewsDN":{
+		"Time":["221412","222802","212611","200412","202711","201210"],
+		"Author":["Felix Sandblom","TDN Direkt","TDN Direkt","Birk Helle","William Bugge","William Bugge"],
+		"Title":["Csam Health varsler kostnadsbesparelser – vil kvitte seg med mellom 25–35 ansatte","Csam Health Group kjøper svensk selskap","Underskudd for Csam Health Group","CSAM Health Group kaller inn til ekstraordinær generalforsamling","Sterkere resultat for Csam Health Group","Fredly, Skorstad og Voldberg blant investorene av nynoterte Csam Health Group"]
+	},
+
+	"updated":"5/15/23 10:24:00",
+	"currency":"NOK"
+}

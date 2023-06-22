@@ -1,0 +1,33 @@
+{
+	"name":"SMOP",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[35.11,35.11],
+		"Median":[35.11,35.11],
+		"High":[35.11,35.11]
+	},
+	"FinancialCalendar":{
+		"Time":["210810","210810","210901","211112","220211","220504","220810","221026","230217","230511"],
+		"Type":["Earnings Call","Earnings Call","Presentation","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200725","200725","201025","201025","201025"],
+		"Difference%":["0","0.02","0.009","0.017","0.00998","0.007","0.01883","0.028","0.02","0.008","0.026"]
+	},
+	"About":{
+		"Employees":[297],
+		"Incorporated year":[1995],
+		"Description":["Smartoptics Group AS is a Norway-based holding company of the Smartoptics group of companies. The Group consists of Smartoptics Group AS and three subsidiaries (Smartoptics AS, Smartoptics Sverige AB and Smartoptics US Corp). Smartoptics provides optical networking solutions and devices. Its business activities are divided into three segments: Communication Service Providers (CSP), Internet Content Providers (ICP) and Enterprises. The Communication Service Providers segment provides a broad service offering to both businesses and consumers includes wholesale operators with enterprise and bulk transport service focus. The Internet Content Providers segment are Internet content, public cloud computing, or neutral co-location providers. The Enterprises segment includes medium & big enterprises that purchase equipment directly from manufacturer or reseller to support connectivity for non-telecom core businesses. The Company operates worldwide."],
+		"City":["OSLO"],
+		"Phone":[21417400],
+		"Homepage":["https://www.smartoptics.com/"]
+	},
+	"NewsDN":{
+		"Time":["222610","212009","211008"],
+		"Author":["TDN Direkt","TDN Direkt","Herman Østensen"],
+		"Title":["Liten omsetningsøkning for Smartoptics i tredje kvartal","DNB Markets tar opp dekning av Smartoptics","Smartoptics økte omsetningen med 62 prosent"]
+	},
+
+	"updated":"5/15/23 10:24:13",
+	"currency":"NOK"
+}

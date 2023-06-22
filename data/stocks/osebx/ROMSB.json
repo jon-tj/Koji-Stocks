@@ -1,0 +1,35 @@
+{
+	"name":"ROMSB",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[143,143],
+		"Median":[143,143],
+		"High":[143,143]
+	},
+	"DividendsMS":{
+		"X-day":[211101,220331,230330],
+		"Payout date":[211109,220408,230412],
+		"Announce date":[210304,220302,230302],
+		"Amount NOK":[3.36,8,8.65]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200505","200505","201025"],
+		"Difference%":[3,2.5,1.84478,2.57,2.57,6.42,2.8]
+	},
+	"About":{
+		"Employees":[48],
+		"Incorporated year":[1995],
+		"Description":["Romsdal Sparebank is a Norway-based savings bank. It offers financial products and services in the areas of savings/investment, lending, payment processing, as well as life and non-life insurance. The Bank's objective is to be a full-service bank. Romsdal Sparebank's customers include individual clients, primary industries as well as small and medium-sized businesses. Sparebanken's offering includes credit cards, the Vipps app, international payments, home and health insurance, car and other vehicle insurance as well as car loans and home loans. The business customers can rely on e.g. financial advice, short-term or long-term financing, leasing, Eika Bedrift credit card as well as several different types of business insurance, such as personal insurance, agricultural insurance, and insurance for machines and vehicles."],
+		"City":["ELNESVAGEN"],
+		"Phone":[71268000],
+		"Homepage":["https://romsdalsbanken.no/"]
+	},
+	"NewsDN":{
+		"Time":["222608","222705","222502","212912","212409","211709","212805","210904","193008","182405","182302","182601","172411","170301","170201","162411"],
+		"Author":["Bjørn Borkamo","TDN Direkt / DN","Jonas Christensen","Adham Rana","Kahni Ismail","Synnøve Berg Meisingset","TDN Direkt","Martin Kværnes","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","TDN Finans","Einar Takla","Morten Iversen"],
+		"Title":["Eiendomsselskapet RomReal med svakere andre kvartal enn i 2021","Opptur for Romreal i første kvartal: resultat på 400.000 før skatt","Bedre fra Romreal","Oslo Børs falt onsdag","Oslo Børs stenger ned","Administrerende direktør og styreleder Kjetil Grønskag kjøper aksjer for 554.400 kroner","Resultatøkning for Romreal","Administrerende direktør og styreleder Kjetil Grønskag kjøper ni aksjer for til sammen 15,75 kroner i RomReal","Hårfint i pluss","Romreal tapte mer på driften","Slik har markedene beveget seg i natt","Får 4,6 mill. etter salg av dyrket mark i Romania","Dette skjer i dag","Styremedlem selger unna én million aksjer i Romreal","RomReal selger to eiendomsprosjekter","Dagens finanskalender"]
+	},
+
+	"updated":"5/15/23 10:24:12",
+	"currency":"NOK"
+}

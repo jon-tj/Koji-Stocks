@@ -1,0 +1,35 @@
+{
+	"name":"CLCO",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[180.71,180.71],
+		"Median":[200.73,200.73],
+		"High":[215.82,215.82]
+	},
+	"DividendsMS":{
+		"X-day":[230302],
+		"Payout date":[230310],
+		"Announce date":[230228],
+		"Amount USD":["0.4"]
+	},
+	"FinancialCalendar":{
+		"Time":["220531","220531","220901","220930","221018","221116","230228","230320"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Presentation","Earnings Call","Earnings Call","Presentation"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200725","200725","201025","201025"],
+		"Difference%":["0.67713","0.67713","-0.37878","0.43573","0.42","0.52646","0.92"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"]
+	},
+	"NewsDN":{
+		"Time":["232802","232802","220112","220209","222403","221003"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt"],
+		"Title":["Styrelederen kjøper i Cool Company","Golar LNG selger i Cool Company","Pareto tar inn fire og hiver ut tre","DNB høyner kursmål på Cool Company","Cool Company med ny administrerende direktør","Cool Company har kjøpt nytt LNG-fartøy"]
+	},
+
+	"updated":"5/15/23 10:23:59",
+	"currency":"NOK"
+}

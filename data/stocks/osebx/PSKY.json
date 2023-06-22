@@ -1,0 +1,33 @@
+{
+	"name":"PSKY",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[3,3],
+		"Median":[3.05,3.05],
+		"High":[3.1,3.1]
+	},
+	"FinancialCalendar":{
+		"Time":["210527","210527","210610","210709","210901","211129","220222","220520","220628","220829","221111","230228"],
+		"Type":["Sales and Revenue Call","Sales and Revenue Call","Shareholder meeting","Guidance Call","Earnings Call","Sales and Revenue Call","Sales and Revenue Call","Sales and Revenue Call","Shareholder meeting","Sales and Revenue Call","Sales and Revenue Call","Sales and Revenue Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200725","200725","201025","201025"],
+		"Difference%":[-0.15028,-0.15028,-0.07,-0.06,-0.10195,-0.08,-0.14716]
+	},
+	"About":{
+		"Employees":[176],
+		"Incorporated year":[2017],
+		"Description":["Patientsky Group AS is a Norway-based Information Technology (IT) solutions provider. The Company is developing eHealth solutions for global healthcare and offers both Software-as-aService (SaaS), Platform-as-a-Service (PaaS) and Value-Added Services (VAS) solutions to healthcare providers and their patients. The group's main products are the PatientSky 360 platform, electronic patient record systems and medication modules. The PatientSky 360 platform is the core of the group's business, and is a platform that contains all the necessary building blocks for internal and partner-developed modules with scalable healthcare software. The Company's operating segments include Promed, PS Clinic, System X, Infodoc and Hove Total. "],
+		"City":["OSLO"],
+		"Phone":["0"],
+		"Homepage":["https://www.patientsky.com/"]
+	},
+	"NewsDN":{
+		"Time":["231104","230503","220712","221111","222908","222806","222104","222303","222502","221001","210612","211910","211910","211810","211309","210109","210907","210707","210707","212601","201711","202710","202310"],
+		"Author":["Martin Kværnes","Bjørn Borkamo","TDN Direkt","Bjørn Borkamo","Jonas Solgård","TDN Direkt","TDN Direkt","Mikael Holter","Katrine Nordanger Mjelde","NTB","Magnus Newth","Christopher Magnus","Jonas Solgård","Christopher Magnus","Till Zhang","TDN Direkt / DN","Jantra Hollum","Till Zhang","Herman Østensen","TDN Direkt","Thomas Frantsvold","William Bugge","Jonas Christensen"],
+		"Title":["Konkurransetilsynet godkjenner Patientsky-salg","Patientsky selger deler av virksomheten til danske EG","Styreleder i PasientSky Group har kjøpt aksjer for 255.000 kroner","PatientSky med nær dobling av underskuddet før skatt","Patientsky tapte over 40 mill. før skatt i andre kvartal","DNB Markets tar opp dekning av PatientSky Group med en hold-anbefaling","Starter dekning av PatientSky med en kjøpsanbefaling","Arne Blystad kjøper Patientsky-aksjer for 12 mill.","Innsidehandel i Pasientsky","Siv Jensen nytt styremedlem i PatientSky Norge","Innsider laster opp i Patientsky","Oppgang på Oslo Børs","Patientsky-aksjen faller kraftig","Oslo Børs trosset sur stemning globalt","Voldberg kjøper seg kraftig opp i Kahoot – selger seg ned i Patientsky og Icelandic Salmon","Patientsky økte omsetningen med 50 prosent – tapte 16,6 mill. på driften","Hovedindeksen stiger en prosent – Kahoot opp 4,3 prosent etter Softbank-kjøp","Kahoot og Patientsky fortsetter fallet mens Seadrills nedgang tar seg litt opp","Patientsky faller over tjue prosent etter nedjustert guidet omsetning","Patientsky gjør endringer i toppledelsen – finansdirektør går av","Patientsky har plassert obligasjonslån på 225 mill.","Jesper Melin Ganc-Petersen kjøper kjøper 250.000 aksjer i Patientsky Group","Patientsky opp ti prosent første handelsdag"]
+	},
+
+	"updated":"5/15/23 10:24:11",
+	"currency":"NOK"
+}

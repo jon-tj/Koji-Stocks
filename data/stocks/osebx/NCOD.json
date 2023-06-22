@@ -1,0 +1,23 @@
+{
+	"name":"NCOD",
+	"FinancialCalendar":{
+		"Time":["211104","220523","221110"],
+		"Type":["Earnings Call","Shareholder meeting","Earnings Call"]
+	},
+	"About":{
+		"Employees":[26],
+		"Incorporated year":[2018],
+		"Description":["Norcod AS is a Norway-based fishing company. It is engaged in the production of farmed cod. The Company's core business is commercial cod farming in marine facilities. The Companyâ€™s production is based in its natural cold-water habitat along the coast of Central and Northern Norway. The Company serves customers worldwide."],
+		"City":["TRONDHEIM"],
+		"Phone":["0"],
+		"Homepage":["https://www.norcod.no/"]
+	},
+	"NewsDN":{
+		"Time":["231404","231404","231304","230203","231302","231901","221011","220411","220311","220706","220106","221905","222203","222203","222501","221301","211911","211208","211208","211806","211706","211006","212705","210605","212203","211803","212502","210302","202112","201412","201211","202810","202710"],
+		"Author":["Martin Kværnes","Jonas Solgård","Martin Kværnes","TDN Direkt/Jonas Solgård","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Solgård","Jonas Solgård","TDN Direkt","TDN Direkt","TDN Direkt","Mikael Holter","Kahni Ismail","Jonas Christensen","TDN Direkt","Leila Feratovic","Sofie Braseth","Jonas Christensen","Jonas Christensen","TDN Direkt","Jonas Christensen","Jonas Christensen","TDN Direkt","Leila Feratovic","TDN Direkt","Jantra Hollum","TDN","Christopher Magnus","Christopher Magnus","Jonas Solgård","Jonas Christensen","Jonas Christensen"],
+		"Title":["Norcod hentet 190 mill. til kraftig rabatt","Handel i Norcod-aksjen pauset i påvente av melding fra selskapet","Norcod vil hente opptil 175 mill.","Kraftig i minus for Norcod","Norcod melder om «betydelige» konsekvenser etter tilsynssak","Fiskeridirektoratet har opprettet tilsynssak hos Norcod","Fortsatt i minus for Norcod i tredje kvartal","Rokkeringer i Norcod-ledelsen","Norcod får 75 mill. i lån fra DNB","Sparebank 1 Markets nedjusterer Norcod","Markant i minus for Norcod","Innsidehandel i Norcod","Norcod hentet 175 millioner kroner i fersk kapital","Norcod vurderer å hente mellom 150 og 175 millioner kroner","Norcod øker estimatene og varsler høyere investeringskostnader","Torskeselskapet Norcod vokser videre","Norcod undertegner slakteavtale med Vesterålen Havbruk","Lakseselskap til værs etter budøkning","Torskeoppdretter mer enn tredoblet underskuddet etter å ha justert «overestimert» rapportering","Isfjord selger med rabatt i Norcod","Isfjord Norway vurderer å selge 1,1 millioner aksjer","Oslo Børs åpner flatt","Sjefen kjøper i Norcod","Oppdrettselskap med driftsresultat på  negative 1,3 millioner","Administrerende direktør i Norcod laster opp med flere aksjer","Oppdretteren Norcod har sikret seg ny lokalitet i Meløy","Norcod fortsatt med underskudd","Norcod vil slakte 6000 tonn torsk i sommer","Oslo Børs falt kraftig mandag","Norcod bytter sjef","Fortsatt i minus for torskeoppdretteren Norcod","Torskedebutant trosser børsfall - opp 40 prosent siden notering","Norcod fosser frem på børs"]
+	},
+
+	"updated":"5/15/23 10:24:07",
+	"currency":"NOK"
+}

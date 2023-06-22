@@ -1,0 +1,32 @@
+{
+	"name":"IFISH",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[29,29],
+		"Median":[29,29],
+		"High":[29,29]
+	},
+	"FinancialCalendar":{
+		"Time":["210512","210512","210702","210826","211111","220525","220623","221116","230228"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.13209","-0.0078","0.3","0.13","0.23","-0.25","0.24958","-0.28406","0.05","-1.36","0.07724","-0.07558","0.07","0.96"]
+	},
+	"About":{
+		"Employees":[51],
+		"Incorporated year":[2020],
+		"Description":["Ice Fish Farm AS is a Norway-based company that is engaged in farm fishing. It produces and processes fish. The Companies main activities are finfish aquaculture and ownership or participation in other companies with similar activities."],
+		"City":["Oslo"],
+		"Phone":[74360900]
+	},
+	"NewsDN":{
+		"Time":["233003","221611","222909","222306","220206","222705","222705","222203","222302","211312","212411","211108","212306","203011","202311","201211","201910","202309"],
+		"Author":["Mikael Holter","TDN Direkt","Jonas Solgård","Felix Sandblom","Agnete Klevstrand","Kahni Ismail","Lene Marita Berg Hermann","Leila Feratovic","TDN Direkt","Martin Kværnes","TDN Direkt","TDN Direkt","TDN Direkt","Kenneth Lund","Jonas Christensen","TDN Direkt","Jonas Christensen","Johanne Mikkelsen Espeland"],
+		"Title":["Ice Fish Farm henter 500 millioner i emisjon","Oppdrettsselskapet Ice Fish Farm økte omsetningen i tredje kvartal","Ice Fish Farm tapte 144 mill. før skatt i andre kvartal","Generalforsamling i IFISH","Virus oppdaget på to lakseanlegg","Knallsterk uke for Oslo Børs – hovedindeksen opp over tre prosent","Ice Fish Farm mistenker smittsom laksesykdom på anlegg","Ice Fish Farm får oppdrettskonsesjon for 7000 tonn laks","Ice Fish Farm tapte penger i fjerde kvartal","Oppdrettsselskapet Ice Fish Farm vil kjøpe opp islandske Laxar Fiskeldi","Ice Fish Farm akselererer slaktingen","Meglerhus nedgraderer flere oppdrettsaksjer - trekker frem én favoritt blant de store","Ice Fish Farm starter samtaler med Laxar Fiskeldi EHF","Anbefaler kjøp på Ice Fish Farm","NTS med milliardtransaksjon - blir storeier i Norway Royal Salmon","Svakere for oppdretteren Ice Fish Farm","Sissener drar inn snøret etter storgevinst","Oslo børs stenger svakt opp"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

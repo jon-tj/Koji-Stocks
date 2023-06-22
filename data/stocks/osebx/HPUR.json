@@ -1,0 +1,33 @@
+{
+	"name":"HPUR",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[31.94,31.94],
+		"Median":[35.93,35.93],
+		"High":[39.92,39.92]
+	},
+	"FinancialCalendar":{
+		"Time":["210216","210216","210302","210427","210511","210810","211102","220215","220427","220510","220809","221101","230316","230425","230509"],
+		"Type":["Earnings Call","Earnings Call","Special Situation","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Capital Markets Day - Q1 2022 Earnings","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200205","200505","200505","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[-0.5,-0.57982,-0.57982,-0.6,-0.16,-0.3,-0.45,-0.3,-0.37,-0.4,-0.5222,-0.47,-0.27]
+	},
+	"About":{
+		"Employees":[415],
+		"Incorporated year":[2017],
+		"Description":["Hexagon Purus ASA is a Norway-based zero emission mobility space company with position in compressed hydrogen Type 4 cylinders and systems as well as commercial vehicle battery systems, electric drivetrain components and vehicle integration. The Company is a provider of type 4 high-pressure cylinders, fuel storage and distribution systems for hydrogen, complete vehicle systems and battery packs for fuel cell electric and battery electric vehicles (FCEV and BEV). The Company's solutions enable the safe and effective use of hydrogen and electricity as transportation fuel in a variety of applications including light, medium and heavy-duty vehicles, buses, distribution, refueling, rail, maritime, aerospace and ground storage. Its customers include automotive Original Equipment Manufacturers (OEMs), industrial gas companies and refueling infrastructure providers. "],
+		"City":["Alesund"],
+		"Phone":[70304450],
+		"Homepage":["https://hexagonpurus.com/"]
+	},
+	"NewsDN":{
+		"Time":["232703","232203","230103","230602","220111","223110","220908","220208","221107","222505","221105","222104","222004","222803","221502","221502","221502","220402","220102","223101","211612","212211","210211","213009","211008","211106","211105","212201"],
+		"Author":["Kimmo Risbakken","TDN Direkt","Bjørn-Egil Mikalsen","Emma W. B. Helgevold","Kimmo Risbakken","Kimmo Risbakken","TDN Direkt","TDN Direkt","TDN Direkt","Kenneth Lund","TDN Direkt/DN","TDN Direkt","TDN Direkt","Kahni Ismail","Mari Malm","Kahni Ismail","TDN Direkt","TDN Direkt","Kahni Ismail","Leila Feratovic","Sara Sofie Tallaksen","Magnus Newth","Jonas Solgård / TDN Direkt","Kahni Ismail","TDN Direkt / Sofie Braseth","Jonas Christensen","TDN Direkt","TDN"],
+		"Title":["Hexagon Purus kansellerer reparasjonsemisjon","Hexagon Purus har søkt overgang til hovedlisten","Mitsui investerer en halv mrd. i Hexagon Purus","Hydrogenselskapet Hexagon omsatte for 370 millioner kroner i fjerde kvartal","Hexagon Purus med 222 mill. i inntekter","Hexagon Purus får bekreftet kontrakt","Omsetningsvekst for Hexagon Purus","Ny kontrakt for Hexagon Purus verdt om lag 5,2 mill. euro","Ny kontrakt for Hexagon Purus","Solid oppgang på Oslo Børs – positivt fra Equinor og Frontline","Hexagon Purus-datter mottatt ordre verdt over 20 millioner kroner","Hexagon Purus kjøper 40 prosent av  Cryoshelter GmbH sin flytende hydrogenvirksomhet","Mottatt ordre verdt om lag 1,5 millioner euro","Hexagon Purus har inngått avtale med Cimc Enric i Kina","Hexagon Purus skal hente 600 millioner kroner","Hexagon Purus faller kraftig etter ferske kvartalstall","Hexagon Purus økte underskuddet i fjerde kvartal","Hexagon Purus med ordre til 57 mill.","Hexagon Purus stiger til værs på Børsen","Hexagon Purus nominert til milliardkontrakt","Hexagon Purus skal levere hydrogendrevne lastebiler for 20 millioner","Hexagon Purus melder om avtale med bussaktør","Nær inntektsdobling for hydrogenselskapet Hexagon Purus – samtidig øker tapene","Hexagon kjøper Wystrach for 440 millioner kroner","Hexagon Purus med milliontap i andre kvartal","Hexagon Purus med amerikansk partnerskap","Tapene vokser for Hexagon Purus","Hexagon Purus har inngått en leverandøravtale til en verdi av 7,7 millioner kroner"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

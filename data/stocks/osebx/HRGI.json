@@ -1,0 +1,33 @@
+{
+	"name":"HRGI",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[22,22],
+		"Median":[22,22],
+		"High":[22,22]
+	},
+	"FinancialCalendar":{
+		"Time":["210825","210826","210916","220401","220525","220527","220826","221116","230228","230301","230420"],
+		"Type":["Earnings Call","Presentation","Presentation","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Presentation","Presentation","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200725","201025"],
+		"Difference%":["0","-1.35","-1.35","-0.48","0","0"]
+	},
+	"About":{
+		"Employees":[44],
+		"Incorporated year":[2019],
+		"Description":["Horisont Energi AS is a Norway-based carbon technology company that provides clean energy, carbon transport and carbon storage services. The Company's purpose is to convert natural and renewable gases, water and renewable energy into clean ammonia and hydrogen, and to offer Carbon Dioxide (CO2) transport and storage solutions using proprietary technology, paving the way for a low-carbon economy. The Company develops land-based production facilities for these products with carbon storage infrastructure on the Norwegian continental shelf. Horisont Energi ASâ€™ activities can be divided into two business areas, Clean Ammonia and Commercialization of Carbon Storage. The Company commercializes carbon storage for the European market."],
+		"City":["SANDNES"],
+		"Phone":[51225531],
+		"Homepage":["https://www.horisontenergi.no/"]
+	},
+	"NewsDN":{
+		"Time":["230902","230702","223008","222608","222508","220504","221401","221401","221301","221301","211712","210810","210610","213009","211509","211509","211009","211009","210909","210909","210909","211608","210508","210508","213006","210306","211905","210403","210303","210303","212801","212701","212601"],
+		"Author":["Kathinka Hartwig","Jonas Solgård","TDN Direkt","TDN Direkt","Bjørn Borkamo","TDN Direkt","Lars Kristian Solem","Sara Sofie Tallaksen","Kimmo Risbakken","Kimmo Risbakken","Martin Kværnes","TDN","Jonas Solgård","Kathinka Hartwig","Kimmo Risbakken","Kimmo Risbakken","Emilie Solberg","Kathinka Hartwig","Emilie Solberg","Jonas Solgård","Jonas Christensen","Till Zhang","Erik Bucher Johannessen","Erik Bucher Johannessen","Karoline Johannessen Litland","Kathinka Hartwig","Synnøve Berg Meisingset","Erik Bucher Johannessen","Erik Bucher Johannessen/TDN Direkt","Kim Ingwersen","Erik Bucher Johannessen","Leila Feratovic","Kenneth Lund"],
+		"Title":["Spetalen fortsetter nedsalget i Horisont Energi","Øystein Stray Spetalen har kvittet seg med flere Horisont Energi-aksjer","Ny intensjonsavtale for Horisont Energi","Horisont Energi og Koole Terminals planlegger CO2-terminal i Rotterdam","Spetalen-dominerte Saga Pure dro inn 147 millioner kroner fra finansielle investeringer","Equinor, Vår Energi og Horisont Energi får letetillatelser for co₂-lagre på sokkelen","Spetalen-selskap gjør nytt aksjekjøp i Horisont Energi","Oslo børs endte ukens siste handelsdag i pluss","Spetalen laster opp i kursrakett","Oslo Børs endte torsdagen i minus","Oslo Børs falt 0,78 prosent – energiselskap bykset over 30 prosent etter Enova-støtte","Horisont Energi inngår intensjonsavtale om ammoniakkterminal i Rotterdam","Horisont Energi inngår rammeavtale","Horisont Energi i diskusjon med investorer rundt finansiering av Barents Blue-prosjektet","Handelen i Horisont Energi er i gang","Horisont Energi pauset","Oslo Børs snudde ned - Aker Biomarine faller 5,85 prosent","Nytt børshopp for Horisont Energi","Nedgang på Oslo Børs - Aker Biomarine falt 8,3 prosent etter resultatvarsel","Nedgang fra start på Børsen – Horisont Energi stiger kraftig etter avtale med Equinor","Vår Energi, Equinor og Horisont Energi skal se på ammoniakk-muligheter","St1 Nordic og Horisont Energi inngår samarbeid om grønt ammoniakkprosjekt i Finnmark","Flat utvikling på Oslo Børs","Horisont Energi og Port of Rotterdam inngår intensjonsavtale om blå ammonikakk","Horisont Energi inngår flere intensjonsavtaler for karbonlagring","Horisont Energi har valgt foretrukket tomt for Barents Blue-prosjektet","Horisont Energi og Equinor inngår avtale om utvikling av Polaris-prosjektet","Oslo Børs falt svakt torsdag – Bank Norwegian steg over 20 prosent etter Nordax-bud","Oslo Børs stenger svakt ned – Flyr steg 13 prosent etter ny knalldag","Horisont Energi-aksjen stiger til værs","Oslo Børs stengte i pluss – unngikk syvende dag på rad med nedgang","Spetalen med storgevinst etter Horisont Energi-oppgang","Horisont Energi as noteres på Euronext Growth på Oslo Børs"]
+	},
+
+	"updated":"5/15/23 10:24:03",
+	"currency":"NOK"
+}

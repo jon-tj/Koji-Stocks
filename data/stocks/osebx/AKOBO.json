@@ -1,0 +1,15 @@
+{
+	"name":"AKOBO",
+	"FinancialCalendar":{
+		"Time":["210826","210826","220221","220523","220621","220825","221124","230309"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"NewsDN":{
+		"Time":["232003","221409","222508","220703","222501","221301","212511","212309","210608","210508","212207"],
+		"Author":["TDN Direkt","TDN Direkt","TDN","TDN Direkt","Jonas Solgård","TDN Direkt","TDN Direkt / Jonas Solgård","Jonas Solgård","Till Zhang","Ingeborg Løkling","Ingeborg Løkling"],
+		"Title":["Akobo Minerals har utstedt usikret konvertibelt lån","DNB har signert fusjonsplan med Sbanken","Bedring for gullselskapet Akobo Minerals","Gullselskap tror på en årlig produksjon på 45.000 unser gull","Gullselskapet Akobo Minerals med ny ansettelse","Akobo Minerals har truffet synlig gull på 205 meters hulldybde på Segele","Gullselskapet Akobo Minerals tapte drøye fem mill. kroner i tredje kvartal","Gullselskapet Akobo Minerals får tildelt lisens i Etiopia","Oslo Børs starter dagen med oppgang – festen fortsetter for Seadrill","Oslo Børs stenger flatt torsdag ettermiddag","Oslo Børs stiger fra start"]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

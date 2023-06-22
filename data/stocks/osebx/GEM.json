@@ -1,0 +1,29 @@
+{
+	"name":"GEM",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[5.4,5.4],
+		"Median":[5.4,5.4],
+		"High":[5.4,5.4]
+	},
+	"FinancialCalendar":{
+		"Time":["210723","210915","211022","220218","220520","220526","220831","221028","230217"],
+		"Type":["Earnings Call","Presentation","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200505","200725","200725","201025","201025"],
+		"Difference%":[-0.09,-0.18,-0.14,-0.32,-0.07,-0.16,-0.08,-0.23]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"]
+	},
+	"NewsDN":{
+		"Time":["222601","212312","212307","212307","212503","212403","212403","212303"],
+		"Author":["Jonas Christensen","Adham Rana","Ingeborg Løkling","TDN Direkt","Odin Alnæs","Erik Bucher Johannessen","Odin Alnæs","Odin Alnæs"],
+		"Title":["Oslo Børs stiger fra start","Oslo Børs stenger opp 0,78 prosent","Oslo Børs snur","Negativt driftsresultat for Green Minerals","Børsferske Green Minerals faller kraftig for andre dag på rad","Oslo Børs ender svakt i pluss etter byks i oljeprisen","Gårsdagens børsnykommer Green Minerals stuper på Euronext Growth","Nynoterte Green Minerals stiger 32 prosent"]
+	},
+
+	"updated":"5/15/23 10:24:01",
+	"currency":"NOK"
+}

@@ -1,0 +1,35 @@
+{
+	"name":"ABTEC",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[9,9],
+		"Median":[9,9],
+		"High":[9,9]
+	},
+	"DividendsMS":{
+		"X-day":[150604,150604,160609,161118,170608],
+		"Payout date":[150610,150610,160624,161202,170621],
+		"Announce date":[150424,150511,160210,161027,170420],
+		"Amount NOK":["0.4","0.6","1.5","1","1"]
+	},
+	"FinancialCalendar":{
+		"Time":["180530","180530","190214","190627","200610","200911","210609","220609"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[2],
+		"Incorporated year":[2004],
+		"Description":["Aqua Bio Technology ASA is a Norway-based skincare company. The Company develops and commercializes sustainable biotechnology for use in skin care products. ABT develops new active ingredients for skincare based on marine technology with documented positive effects on human skin. The ingredients are based on natural and sustainable substances, found in plants, algae and in the oceans and provide the cosmetics industry with natural alternatives to traditional ingredients. In addition to ingredients from its own technology, ABT also markets and distributes natural skincare products to consumers, retailers and professional users in Europe and the Middle East. The ABT portfolio of skincare products contains exclusive and high-end products as well as off the shelf products. They are distributed over the Internet, in stores and through professional channels such as skincare clinics."],
+		"City":["LYSAKER"],
+		"Phone":[98245410],
+		"Homepage":["https://aquabiotechnology.com/"]
+	},
+	"NewsDN":{
+		"Time":["221309","222408","222806","221201","211312","211511","212508","212508","211908","212306","210906","212005","213004","213004","212304","211404","212602","211202","210502","201412","201012","201009","202108","201808","201808","201708","201106","201006","202904","202101","202101","180512","181806","181904","181304","180702","172208","171502","161711","162710"],
+		"Author":["TDN Direkt / DN","TDN Direkt","TDN Direkt","Till Zhang","TDN Direkt","TDN Direkt","Christopher Magnus","Kathinka Hartwig","Jonas Solgård","TDN Direkt","Christopher Magnus","Leila Feratovic","Kenneth Lund","Kenneth Lund","TDN Direkt","Jonas Solgård","TDN Direkt","TDN Direkt","TDN Direkt","Christopher Magnus","Henrik Giæver","TDN Direkt","Johanne Mikkelsen Espeland","William Bugge","TDN Direkt","William Bugge","TDN/Mads Randen","TDN Direkt / Jonas Solgård","Jonas Christensen","Jonas Christensen","Jonas Solgård","Jonas Christensen","Kathinka Hartwig","Christian Bjerknes","Christian Bjerknes","Jonas Christensen","Jonas Christensen","Thomas Frantsvold","Morten Iversen","Kathinka Hartwig"],
+		"Title":["Aqua Bio Technology avslutter toårig kontrakt med distribusjons- og merkevareselskap","Tapene øker i Aqua Bio Technology","Aqua Bio Technology ASA kjøper Cosmed Beauty AS og Ultrabody AB","Aqua Bio Technology fornyer femårsavtale med Restorsea","Aqua Bio Technology henter 12,9 millioner i rettet emisjon","Aqua Bio med betydelig ordre","Oppgang på Oslo Børs","Kosmetikkselskap faller tungt på børs etter resultatfremleggelse","Kosmetikkselskapet Aqua Bio Technology har inngått intensjonsavtaler i Asia","Nærstående til styremedlem i ABT selger for nesten to mill. kroner","Flat dag på Oslo Børs. Lakseselskap dagens taper","Oslo Børs med comeback – Golden Ocean stiger etter knallresultater","Oslo Børs og oljeprisen faller","Innsider handler i Aqua Bio Technology","Aqua Bio Technology kan distribuere Moana Skincare til 50 apotek i Saudi-Arabia","Børsmyggen Aqua Bio Technology vurderer rettet emisjon på 15 mill. kroner","Aqua Bio Technology med avtale i Oceania","Kosmetikkselskapet Aqua Bio Technology har inngått avtale for distribusjon i Danmark","Aqua Bio Technology med eksklusiv avtale","Aqua Bio Technology med seks godkjente sikkerhetsstudier","Aqua Bio Technology har sluttført oppkjøp av Moana Skincare","ABT kjøper rettighetene til Moana Skincare","Oslo Børs avslutter uken svakt ned","Oslo Børs stenger med nedgang tirsdag","Aqua Bio Technology: Rettet emisjon fulltegnet, samlet proveny 12,63 millioner","Aqua Bio Technology melder om planlagt rettet emisjon på 12,6 millioner","Aqua Bio Technology har inngått et strategisk partnerskap - aksjen rett til værs","Aqua Bio Technology har fått markedstillatelse i India","Espen Kvale blir permanent sjef i Aqua bio Technology","Setter varelageret til null etter vedtak fra Finanstilsynet","Aqua Bio Technology stanser handel","Sjefen nedgraderes - skal hente penger","Søksmål mot Aqua Bio Technology","Aqua Bio Technology signerer Kuwait-avtale","Aqua Bio Technology utsetter årsrapporten","Energiinnsprøyting på børs","Aqua Bio Technology inngår avtale med Tanner","Dropper kvartalsrapporter","Hva skjer i dag?","Aqua Bio Technology innkaller til ekstraordinær generalforsamling"]
+	},
+
+	"updated":"5/15/23 10:23:55",
+	"currency":"NOK"
+}

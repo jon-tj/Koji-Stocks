@@ -1,0 +1,29 @@
+{
+	"name":"PYRUM",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[916.29,916.29],
+		"Median":[916.29,916.29],
+		"High":[916.29,916.29]
+	},
+	"FinancialCalendar":{
+		"Time":["220714","230228"],
+		"Type":["Shareholder meeting","Presentation"]
+	},
+	"About":{
+		"Employees":[51],
+		"Incorporated year":[2008],
+		"Description":["Pyrum Innovations AG (Pyrum), formerly Pyrum Innovations ESC GmbH, is a Germany-based recycling company. The Company develops, builds, and operates recycling systems using the thermolysis process to extract the raw materials from old tires, rubber and plastic waste which are again fed back into the material cycle in the new form. The raw materials obtained include thermolysis oil and recovered carbon black (rCB). Pyrum markets the thermolysis recycling systems worldwide and supplies them to their contractual partners. The Company's services include Green Workshops, and Waste Tire Disposal, where used tires are safely disposed and/or shredded; Laboratory Analysis, where tests are carried out to determine pyrolytic recycling of different input materials."],
+		"City":["DILLINGEN/SAAR"],
+		"Phone":[6831959480],
+		"Homepage":["https://www.pyrum.net/"]
+	},
+	"NewsDN":{
+		"Time":["232401","212810"],
+		"Author":["TDN Direkt","Kahni Ismail"],
+		"Title":["Pyrum Innovations har signert intensjonsavtale","Pyrum starter arbeidet med å øke produksjonskapasiteten"]
+	},
+
+	"updated":"5/15/23 10:24:11",
+	"currency":"NOK"
+}

@@ -1,0 +1,24 @@
+{
+	"name":"AWDR",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[235.32,235.32],
+		"Median":[235.32,235.32],
+		"High":[235.32,235.32]
+	},
+	"FinancialCalendar":{
+		"Time":["221109","221109","221208"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[118],
+		"Incorporated year":[2009],
+		"Description":["Awilco Drilling PLC is a United Kingdom-based drilling contractor. The Company's principal business activity is to operate the drilling rigs. The Company's is not performing any operational activity."],
+		"City":["WESTHILL"],
+		"Phone":[1224737900],
+		"Homepage":["http://www.awilcodrilling.com/"]
+	},
+
+	"updated":"5/15/23 10:23:58",
+	"currency":"NOK"
+}

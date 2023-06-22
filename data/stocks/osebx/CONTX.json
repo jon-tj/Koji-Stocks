@@ -1,0 +1,38 @@
+{
+	"name":"CONTX",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[10.03,10.03],
+		"Median":[10.03,10.03],
+		"High":[10.03,10.03]
+	},
+	"DividendsMS":{
+		"X-day":[220208],
+		"Payout date":[220210],
+		"Announce date":["000000"],
+		"Amount NOK":["0"]
+	},
+	"FinancialCalendar":{
+		"Time":["180427","180427","180509","180817","180906","180912","180921","181026","181112","181125","181206","190222","190306","190406","190426","190508","190708","190816","190907","190912","190918","191025","200221","200310","200424","200507","200715","200805","200814","200819","201022","210218","210303","210422","210505","210813","211022","211210","220208","220422","220504","220812","221021","221206","230503"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Presentation","Investor Meeting","Presentation","Earnings Call","Presentation","Presentation","Presentation","Earnings Call","Presentation","Presentation","Earnings Call","Shareholder meeting","Presentation","Earnings Call","Presentation","Presentation","Analyst Meeting","Earnings Call","Earnings Call","Investor Meeting - FY 2019 Earnings","Earnings Call","Shareholder meeting","Presentation","Shareholder meeting","Earnings Call","Special Situation","Earnings Call","Earnings Call","Presentation","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Presentation","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200505","200725","200725","200725","200725","201025","201025"],
+		"Difference%":[-0.009,-0.05551,0.0982,0.01,-0.03963,-0.021,0.096,-0.0306,0.11807,0.123,0.10428]
+	},
+	"About":{
+		"Employees":[35]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"]
+	},
+	"NewsDN":{
+		"Time":["222104","211511","212110","201308","202002","192703","190901","182510","180310","181608","182202","171708","172704","162710"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","Birk Helle","Birk Helle","Jonas Christensen","Anders Kvale","Jonas Christensen","Jonas Christensen","Bente Bjørndal","Jakob Schultz"],
+		"Title":["Nedgang for Contextvision i første kvartal","Contextvision med viktig strategisk endring","Styremedlem kjøper i ContextVision","Medisinteknologiselskap med resultatnedgang i andre kvartal","Contextvision økte omsetningen, men bunnlinjen snudde i minus","Ny sjef i Contextvision","ContextVision melder om «tidenes salg»","ContextVision øker salget","ContextVision-sjefen trekker seg","Contextvision i minus","Dette har skjedd i markedene i natt","På agendaen i dag","ContextVision tror på lansering av produkt mot prostatakreft i 2018","Svakere for kunstig intelligens"]
+	},
+
+	"updated":"5/15/23 10:24:00",
+	"currency":"NOK"
+}

@@ -1,0 +1,15 @@
+{
+	"name":"BSP",
+	"FinancialCalendar":{
+		"Time":["210630","210630","220627"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["221412","221205","221205","222801","211309","210308","211907","211907","211207","210107","212306","201908","201902","191812"],
+		"Author":["TDN Direkt","Kahni Ismail","Kahni Ismail","Kahni Ismail","Till Zhang","Ingeborg Løkling","TDN Direkt/Live Tronstad","Live Tronstad","Till Zhang","Odin Alnæs","Odin Alnæs","Johanne Mikkelsen Espeland","TDN Direkt","TDN Direkt"],
+		"Title":["Black Sea Property med låneavtale for datterselskap til 77,8 millioner kroner","Black Sea Property påvirket av krigen i Ukraina – kostnadene for resort i Bulgaria øker","Erik Sture Larre har gått bort","Bank har fremmet nye krav på lånetilbud til Black Sea Property","Black Sea Property gjennomfører fusjon med Bulgaria Eiendom Invest","Oslo Børs endte dagen med svak nedgang","Black Sea Property starter å formalisere lånetilbud på 124 millioner","Black Sea Property henter 1,5 millioner kroner i etterfølgende emisjon","Black Sea Property låner 124 mill. av bulgarsk bank til finansiering og nedbetaling av gjeld","Svært god dag på børsen etter byks i oljeprisen","Solid dag på Oslo Børs","Oslo Børs oppgang ved slutt","Black Sea Property har mottatt tegninger for 4.432.346 kroner","Black Sea Property henter konvertibelt lån på 10,4 mill."]
+	},
+
+	"updated":"5/15/23 10:23:59",
+	"currency":"NOK"
+}

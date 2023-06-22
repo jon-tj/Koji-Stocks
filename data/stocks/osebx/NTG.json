@@ -1,0 +1,24 @@
+{
+	"name":"NTG",
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[2.89],
+		"Market cap":["192.20M"],
+		"Dividend yield":[9.04],
+		"Beta":[2.70],
+		"ROE TTM":[30.02],
+		"Net profits TTM":[968.16],
+		"Gross Margin TTM":[50.71],
+		" TTME BITD":["3.256M"],
+		"Debt to equity":[26.28]
+	},
+	"NewsDN":{
+		"Time":["222608"],
+		"Author":["Bjørn Borkamo"],
+		"Title":["Industriselskapet Nordic Technology Group med tap i første halvår"]
+	},
+
+	"updated":"5/15/23 10:24:08",
+	"currency":"NOK"
+}

@@ -1,0 +1,22 @@
+{
+	"name":"AYFIE",
+	"FinancialCalendar":{
+		"Time":["210504","210504","210826","220329","220830","230227","230321","230330"],
+		"Type":["Shareholder meeting","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Extraordinary Shareholdres Meeting","Earnings Call","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[49],
+		"Incorporated year":[2016],
+		"Description":["Ayfie Group AS is a Norway-based provider of digital products related to data search, GDPR compliance, and APIs for developers. The Company's solutions combine linguistics-based natural language processing and modern machine learning to form AI to efficiently identify critical insights, conduct smart search and power business intelligence solutions. Ayfie Group is a boutique provider of digital products related to data search, risk and compliance. The Company's business model is based on subscriptions, with contract lengths of typically 1-3 years. It is focused on on-premise installations of the software products for corporate search. Ayfie Group maintains and develops this product as well as sales area."],
+		"City":["OSLO"],
+		"Phone":[22547222]
+	},
+	"NewsDN":{
+		"Time":["222709","221101","213006","210505","212004","201311","202409","201109","200709"],
+		"Author":["Katrine Nordanger Mjelde","Till Zhang","Odin Alnæs","Katrine Nordanger Mjelde","TDN Direkt","William Bugge","Erik Bucher Johannessen","Jantra Hollum/TDN Direkt","TDN Direkt og Jonas Christensen"],
+		"Title":["Oppgang på Oslo Børs","Ayfie ansetter ny salgssjef og gjør endringer i ledelsen","Herman Sjøberg ansatt som ny toppsjef i Ayfie Group – får med seg 2,5 millioner opsjoner","Administrerende direktør i Ayfie Group trekker seg","Ayfie Group med omsetningsfall","Spetalen-dominerte Ayfie Group flytter ","Spetalen-dominerte Ayfie Group  tapte 33 mill. kroner i første halvår","Ayfie Group har fullført oppkjøpet av Haive AS","Spetalen-selskap med oppkjøp"]
+	},
+
+	"updated":"5/15/23 10:23:58",
+	"currency":"NOK"
+}

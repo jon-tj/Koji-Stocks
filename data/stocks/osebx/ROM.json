@@ -1,0 +1,33 @@
+{
+	"name":"ROM",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[2.1,2.1],
+		"Median":[2.1,2.1],
+		"High":[2.1,2.1]
+	},
+	"FinancialCalendar":{
+		"Time":["180524","180831","181130","190222","190417","190524","190830","191122","200228","200424","200522","200828","201127","210226","210423","210528","210827","211126","220225","220428","220527","220826","221125","230224","230427"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"About":{
+		"Employees":[5],
+		"Incorporated year":[2005],
+		"Description":["RomReal Limited is a Bermuda-based company. The Company and its subsidiaries are principally engaged in property investments and development in Romania. The Company owns a portfolio of prime location plots in the Black Sea region, Constanta and Ovidiu. The plots are suited for residential and commercial developments. Total size of the Companyâ€™s Property Portfolio totaled 232.298 square meters. The Company has approximately six plots, which includes Ovidiu Lakeside, Badulescu plot, Ovidiu (Oasis), Centrepoint, Gunaydin plot and Balada Market. The Companyâ€™s subsidiaries include Westhouse Group SRL, Concorde Group SRL, Investate SRL, Westhouse Oasis Residences SRL and Westhouse Lakeside SRL."],
+		"City":["HAMILTON"],
+		"Phone":[4414006000],
+		"Homepage":["http://www.romreal.com/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"]
+	},
+	"NewsDN":{
+		"Time":["222608","222705","222502","212912","212409","211709","212805","210904","193008","182405","182302","182601","172411","170301","170201","162411"],
+		"Author":["Bjørn Borkamo","TDN Direkt / DN","Jonas Christensen","Adham Rana","Kahni Ismail","Synnøve Berg Meisingset","TDN Direkt","Martin Kværnes","TDN Direkt","TDN Direkt","Jonas Christensen","Jonas Christensen","Jonas Christensen","TDN Finans","Einar Takla","Morten Iversen"],
+		"Title":["Eiendomsselskapet RomReal med svakere andre kvartal enn i 2021","Opptur for Romreal i første kvartal: resultat på 400.000 før skatt","Bedre fra Romreal","Oslo Børs falt onsdag","Oslo Børs stenger ned","Administrerende direktør og styreleder Kjetil Grønskag kjøper aksjer for 554.400 kroner","Resultatøkning for Romreal","Administrerende direktør og styreleder Kjetil Grønskag kjøper ni aksjer for til sammen 15,75 kroner i RomReal","Hårfint i pluss","Romreal tapte mer på driften","Slik har markedene beveget seg i natt","Får 4,6 mill. etter salg av dyrket mark i Romania","Dette skjer i dag","Styremedlem selger unna én million aksjer i Romreal","RomReal selger to eiendomsprosjekter","Dagens finanskalender"]
+	},
+
+	"updated":"5/15/23 10:24:12",
+	"currency":"NOK"
+}

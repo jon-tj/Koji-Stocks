@@ -1,0 +1,33 @@
+{
+	"name":"TEKNA",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[12.05,12.05],
+		"Median":[20.66,20.66],
+		"High":[29.19,29.19]
+	},
+	"FinancialCalendar":{
+		"Time":["210505","210505","210819","211111","220209","220310","220331","220504","220505","220530","220818","221110","230209","230322","230503","230504"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Presentation","Shareholder meeting","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Presentation","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200725","200725","201025","201025"],
+		"Difference%":[-0.139,-0.34666,-0.068,-0.07051,-0.069,-0.20649]
+	},
+	"About":{
+		"Employees":[216],
+		"Incorporated year":[2020],
+		"Description":["Tekna Holding ASA is a Norway-based provider of advanced materials to industry. The Company produces high purity, micron and nano-sized metal powders for applications such as 3D printing in the aerospace, medical and automotive sectors, as well as optimized induction plasma systems for industrial research and production. Its operations are divided into four business segments: Additive Manufacturing, Printed Electronics, Energy Storage and Systems. The Company operates in Norway, Canada, France, China, Korea, Japan and India."],
+		"City":["ARENDAL"],
+		"Phone":[37234400],
+		"Homepage":["https://www.tekna.com/"]
+	},
+	"NewsDN":{
+		"Time":["231801","223110","221209"],
+		"Author":["Jonas Christensen","TDN Direkt","TDN Direkt"],
+		"Title":["Ny finansdirektør i Tekna","Ny ordre for Tekna","Dag Teigland foreslått som ny styreleder i Tekna Holding"]
+	},
+
+	"updated":"5/15/23 10:24:14",
+	"currency":"NOK"
+}

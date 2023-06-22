@@ -1,0 +1,25 @@
+{
+	"name":"MVW",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[21,21],
+		"Median":[21,21],
+		"High":[21,21]
+	},
+	"FinancialCalendar":{
+		"Time":["220303","220303","220407","220503","220913","221115","230214","230427"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200505","200505","200725","201025","201025"],
+		"Difference%":[-0.28,-0.27,-0.26,-0.28,-0.19,-0.23,-0.26]
+	},
+	"NewsDN":{
+		"Time":["232802","221301","212812","211808","211808","210406","210306","212805"],
+		"Author":["TDN Direkt","TDN Direkt","Adham Rana","Jantra Hollum","Jantra Hollum","Ola Magnussen Rydje","Ola Magnussen Rydje","Jonas Christensen"],
+		"Title":["M Vest Water melder om seier i retten","Morten Hilton Thomassen ansatt som finansdirektør i M Vest Water","Oslo Børs stenger opp tirsdag","Svak oppgang på Oslo Børs","Mohn-selskap inngår intensjonsavtale med nederlandsk selskap – aksjen stiger kraftig","Mohn-selskap doblet på børs denne uken","Mohn-selskap opp 60 prosent denne uken","Trond Mohns M Vest Water stiger kraftig i børsdebut"]
+	},
+
+	"updated":"5/15/23 10:24:06",
+	"currency":"NOK"
+}

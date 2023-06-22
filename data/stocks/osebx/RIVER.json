@@ -1,0 +1,15 @@
+{
+	"name":"RIVER",
+	"FinancialCalendar":{
+		"Time":["210618","210618","220630"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["220404","212312","212710","212710","213004","213004","211203","210102","201911","200209","200109","201505","192312","180511","182806"],
+		"Author":["Martin Kværnes","Adham Rana","TDN Direkt","Kahni Ismail","Kenneth Lund","Kenneth Lund","Mikael Holter","Leila Feratovic","Agnete Klevstrand","Henrik Giæver","Henrik Giæver","Jonas Christensen","TDN Direkt","William Bugge","Anders Kvale"],
+		"Title":["River Tech-sjefen går av","Oslo Børs stenger opp 0,78 prosent","Spillselskapet River Tech med resultatvekst","Daniela Pulis blir finansdirektør og Shawn Bezzina blir strategidirektør i River Tech","Oslo Børs og oljeprisen faller","River Tech med fin fremgang","Oslo Børs avslutter uken med svakt fall","Oslo Børs stengte med en moderat oppgang","River Tech snur millionunderskudd til millionoverskudd","Oslo Børs stiger fra start","Kraftig resultatoppgang for River iGaming","Spillinvestor Morten Klein øker i River iGaming","River iGaming varsler om utfordringer med likviditeten - aksjen faller","River iGaming går i samarbeid med Adnuntius","Investorer putter nye 19 mill. kroner hver i River iGaming"]
+	},
+
+	"updated":"5/15/23 10:24:12",
+	"currency":"NOK"
+}

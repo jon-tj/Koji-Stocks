@@ -1,0 +1,93 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}
+
+{% endblock %}
+
+
+{%block body%}
+
+<main>
+    <figure id="canvas_position"></figure>
+</main>
+{% endblock %}
+
+{%block after%}
+{% if in_session %}
+<section id="data_and_statistics">
+    
+    <aside>
+        <section id="name_and_value">
+            <h3 id="name_of_stock"></h3>
+            <span id="curr_price"> </span>
+            <span id="change_price"></span>
+        </section>
+        <section name="data" id="informational_data">
+            <h3>{{ lang['Overview']}}</h3>
+            <p id="beta"></p><p id="volatility"></p>
+            <table id="about"></table>
+        </section>
+    </aside>
+    <aside id="buy_sell_button">
+        <section id="buy_sell">
+            <img src="/static/icons/nordnet.png" alt="trade on nordnet" class="icon" style="position: relative; top:0.5em">
+            <button id="btn_buy" onclick="window.location='/'">
+                Buy
+            </button>
+            <button id="btn_sell" onclick="window.location='/'">
+                Sell
+            </button>
+        </section>
+        
+    <section id="posts">
+
+        <!--do not speak to me about redundancy-->
+        <div class="btn"
+        {% if not in_session %} 
+        onclick="window.location=getLang()+'/login'"
+        {% else %}
+        target="post_maker" onclick="collapse(this)"
+        {% endif %}
+        >
+            <img class="icon" src="/static/icons/make_post.png" alt="make new post">
+            <span>Make post</span>
+        </div>
+        {% if in_session %}
+        <section id="post_maker" class="collapsed" style="display:none">
+            <textarea id="post_body" cols="30" rows="4" placeholder="Nice weather..."></textarea>
+            <div onclick="makePost();" class="btn">Post</div>
+            <hr>
+        </section>
+        {% endif %}
+        <section id="posts_container"></section>
+    </section>
+    </aside>
+    
+</section>
+{% endif %}
+
+{% if not in_session %}
+<p id="change_price" style="color:rgb(192, 192, 192); margin-left: 1em;"></p>
+<section style="min-height: 80vh; text-align: center; width: 100%; padding: 1em; background-color: white;">
+<p><a href="{{lang['code']}}/login">Log in</a> to see more data...</p>
+</section>
+{% endif %}
+{% endblock %}
+
+{%block tail%}
+<script>
+    let requested_ticker=window.location.href.split('/');
+    requested_ticker=requested_ticker[requested_ticker.length-1];
+</script>
+{% if in_session %}
+
+<script src="/static/scripts/stock_overview.js" onload="setup_stock_overview();"></script>
+<script src="/static/scripts/social_posts.js" onload="loadPosts(requested_ticker);"></script>{% endif %}
+
+<script src="/static/scripts/collapsible.js"></script>
+
+<link rel="stylesheet" type="text/css"  href="/static/styles/canvas_graph.css">
+<script type="text/javascript" src="/static/scripts/stock_view/indicators_client.js"></script>
+<script type="text/javascript" src="/static/scripts/stock_view/drawC.js"></script>
+<script type="text/javascript" src="/static/scripts/stock_view/canvasGraph.js"></script>
+<script type="text/javascript" src="/static/scripts/stock_view/main.js" defer></script>
+{% endblock %}

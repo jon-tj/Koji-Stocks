@@ -1,0 +1,19 @@
+{
+	"name":"WPU",
+	"About":{
+		"Employees":[3],
+		"Incorporated year":[2020],
+		"Description":["Waste Plastic Upcycling A/S, formerly Waste Plastic Upcycling Holding A/S is a Denmark-based company that has developed a technology which, without processing or sorting, can convert end-of-life plastic waste into oil, which can be used to make completely new plastics or different forms of fuel. Through the pyrolysis technology, Waste Plastic Upcycling A/S upcycles plastic waste into oil, which can be used in the production of completely new plastic products or as a supplement in bio-oils and fuel for e.g., planes. In general, pyrolysis technology involves the use of high temperatures and lack of oxygen to degrade plastic waste into solid, liquid and gaseous fuels. The Company has several subsidiaries, including Waste Plastic Upcycling Trading ApS, Produktionsselskabet WPU Nakskov ApS og Produktionsselskabet WPU Esbjerg ApS."],
+		"City":["FAAREVEJLE"],
+		"Phone":["0"],
+		"Homepage":["https://wpu-dk.com/"]
+	},
+	"NewsDN":{
+		"Time":["232803","222508"],
+		"Author":["TDN Direkt","Bjørn Borkamo"],
+		"Title":["Waste Plastic Upcycling : mottatt miljøtillatelse for å starte driften ved Faarevejle-anlegget","Waste Plastic Upcycling gjør om gjeld til 1,16 millioner nye aksjer"]
+	},
+
+	"updated":"5/15/23 10:24:16",
+	"currency":"NOK"
+}

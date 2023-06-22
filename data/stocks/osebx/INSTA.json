@@ -1,0 +1,33 @@
+{
+	"name":"INSTA",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[3,3],
+		"Median":[3,3],
+		"High":[3,3]
+	},
+	"FinancialCalendar":{
+		"Time":["201029","201029","210506","220407","220811","230208","230412","230427"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.07693","0.05014","0.08","0.08","0.08424","0.04448","0.04448","0.06","0.04","0.06","0.12","0.05098","0.06337","0.07","0.17"]
+	},
+	"About":{
+		"Employees":[41],
+		"Incorporated year":[2016],
+		"Description":["Instabank ASA is a Norway-based company, which is primarily engaged in the financial services industry. The Company operates as a fully digital bank that offers loan products, savings and insurance to consumers in Norway, Sweden, Finland and Germany. The Company is a small and dynamic organization that provides customers with straightforward, digital and flexible bank solutions. Through Instabank's technology and paytech expertise, the Bank also assists companies that want to innovate their business model in light of the digital transformation. The Company distributes products and services primarily through the bankâ€™s Website and via agents. The Company is primarily owned by Norwegian investors."],
+		"City":["OSLO"],
+		"Phone":[21519300],
+		"Homepage":["https://instabank.no/"]
+	},
+	"NewsDN":{
+		"Time":["230802","220311","220311","223009","221108","220408","220605","222803","222402","213011","210911","210811","211009","210909","210709","211208","212603","212303","202212","202910","201910"],
+		"Author":["TDN Direkt","Sara Sofie Tallaksen","Bjørn Borkamo","Kimmo Risbakken","TDN Direkt","Kimmo Risbakken","TDN Direkt","Katrine Nordanger Mjelde","TDN Direkt","TDN Direkt","Agnete Klevstrand","Kenneth Lund","Jonas Christensen","Jonas Christensen","TDN Direkt","Herman Østensen","Kenneth Lund","Leila Feratovic","Thomas Frantsvold","TDN Direkt","Jonas Christensen"],
+		"Title":["Resultatnedgang for Instabank","Konsernsjef Robert Berg kjøper i Instabank","Instabank økte renteinntektene i tredje kvartal","Danske Lunar får ikke kjøpt Instabank","Svakere resultat for Instabank","Lunar stopper Instabank-oppkjøpet","Instabank med driftsresultat på 25 mill.","Instabank stiger 54 prosent etter salgsnyheter","Instabank vil selge deler av bankens misligholdte lån","Instabank har inngått avtale for salg av låneportefølje i Finland","Investor Christen Sveaas flagger i B2 Holding","Pareto endrer i forbruksbanker","Celina Midelfart ute av topplisten i Instabank","Celina Midelfart faller på listene i Instabank","Instabank-direktør har kjøpt aksjer","Instabank med rekordresultat i andre kvartal","Oppjusterer kursmålene på forbrukslånbanker","Innsider laster opp i Instabank","Instabank selger 160 mill. i misligholdte lån","Toppsjefen kjøper aksjer i Instabank","XXL-gründere selger seg ned i forbrukslånsbank"]
+	},
+
+	"updated":"5/15/23 10:24:04",
+	"currency":"NOK"
+}

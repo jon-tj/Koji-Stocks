@@ -1,0 +1,39 @@
+{
+	"name":"SADG",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[105,105],
+		"Median":[105,105],
+		"High":[105,105]
+	},
+	"DividendsMS":{
+		"X-day":[140327,150327,170331,180322,190329,200401,211015,220324,230329],
+		"Payout date":[140411,150410,170411,180406,190410,200415,211022,220401,230413],
+		"Announce date":[140313,150211,170215,180208,190214,200213,211001,220210,230208],
+		"Amount NOK":[3,3,1.25,2.8,5.2,5,5.95,5.35,6.05]
+	},
+	"FinancialCalendar":{
+		"Time":["190521","220512","220811","220831"],
+		"Type":["Capital Markets Day","Earnings Call","Earnings Call","Presentation"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[1.71787,2.07924,2.2,1.5,1.65172,1.8511,1.8511,2,2.59654,2.31862,2.4,3.1,1.45,1.84796,1.8,1.5]
+	},
+	"About":{
+		"Employees":[151],
+		"Incorporated year":[1995],
+		"Description":["Sandnes Sparebank is a Norway-based savings bank, that offers a broad range of banking and investment products to retail and corporate customers. The services include daily banking activities, borrowing, personal insurance (child, death, health, disablility, income), non-life insurance and savings operations among others. The Group has three segments: Retail Market (RM), Corporate Market (CM) and Real Estate. RM and CM represents the banking operations split into two main customer groups. They also include general investment advice for the bankâ€™s customers. The Real Estate segment involves real estate brokerage activities. This segment consists of the subsidiary, Aktiv Eiendomsmegling JÃ¦ren AS. "],
+		"City":["SANDNES"],
+		"Phone":[51676700],
+		"Homepage":["https://sandnes-sparebank.no/"]
+	},
+	"NewsDN":{
+		"Time":["221508","222204","211911","211511"],
+		"Author":["TDN Direkt","TDN Direkt","Emilie Solberg","Leila Feratovic"],
+		"Title":["Styremedlem kjøper 2.000 egenkapitalbevis i Sandnes Sparebank","Pareto Securities reviderer estimatene for sparebanker","Sandnes sparebank vedtar ikke millionbot fra PST","Sandnes Sparebank får bot på én mill. fra PST"]
+	},
+
+	"updated":"5/15/23 10:24:12",
+	"currency":"NOK"
+}

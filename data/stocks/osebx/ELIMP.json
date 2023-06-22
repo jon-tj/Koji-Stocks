@@ -1,0 +1,34 @@
+{
+	"name":"ELIMP",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[41,41],
+		"Median":[41,41],
+		"High":[41,41]
+	},
+	"DividendsMS":{
+		"X-day":[210611,210611,220504,220504],
+		"Payout date":[210831,211206,220630,220930],
+		"Announce date":[210211,210528,220425,220425],
+		"Amount NOK":[1.21,1.21,1.39,1.39]
+	},
+	"FinancialCalendar":{
+		"Time":["210505","210505","210610","210818","211104","220210","220503","220504","220818","220901","221103","230215","230502","230503"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Presentation","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call"]
+	},
+	"About":{
+		"Employees":[492],
+		"Incorporated year":[2014],
+		"Description":["Elektroimportoren AS is a Norway-based holding company that offers wholesale and retail distribution of electrical goods. The Company operates through its subsidiaries: Elektroimportoeren Holding AS, Elektroimportoeren Norge AS, Namron AS and Spoton AS. All subsidiaries are wholly owned. The Company sells electrical installation products, such as electrical equipment, lighting, heating and related products to the professional and private market in Norway, through wholly owned stores and on internet. It has 25 physical stores in addition to the online store. There is a growing demand for the products the Group offers to the customers, especially smart home products and electrical vehicles charges. "],
+		"City":["OSLO"],
+		"Phone":[22812770]
+	},
+	"NewsDN":{
+		"Time":["220311","221808","221706","221602","210411","211102","212901","212501"],
+		"Author":["TDN Direkt","TDN Direkt","TDN Direkt / DN","Jonas Christensen","TDN Direkt","TDN Direkt","Kathinka Hartwig","Kathinka Hartwig"],
+		"Title":["Elektroimportøren krympet overskuddet i tredje kvartal","Bedre utvikling enn ventet første halvår","Meglerhus nedgraderer Elektroimportøren til hold","John Fredriksen kjøper seg opp i Elektroimportøren","Svakere fra Elektroimportøren","Kraftig resultatvekst for Elektroimportøren","Vegard Søraunet etablerer investeringsselskap for Fredriksen-familien - kunngjør nytt styre","Elektroimportøren rammes av restriksjoner - permitterer ikke"]
+	},
+
+	"updated":"5/15/23 10:24:00",
+	"currency":"NOK"
+}

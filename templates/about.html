@@ -1,0 +1,115 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}{% endblock %}
+{%block head%}
+<link rel="stylesheet" href="{{ url_for('static', filename='misc.css') }}"/>
+{%endblock%}
+
+{%block before%}
+
+<section class="motto">
+
+    <aside class="logo">
+        <img src="../static/favicon.png" alt=""><span class="logo" style="position: relative; top:-1em">Koji</span>
+    </aside> 
+    <aside class="motto">
+        <p>Revolutionizing the world of stock screening and prediction</p>
+    </aside>
+</section>  
+<section id="about" class="about">
+    <h1> Empowering Traders with Intelligent Insights.</h1>
+    <pre>
+        <img id="smart_kiran" src="../static/art/smart kiran.gif" alt="art gif">
+        At Koji, we are on a mission to revolutionize the world of stock screening and prediction. We have created a cutting-edge platform that seamlessly blends the power of advanced machine learning with the wisdom of our vibrant trader community. By doing so, we are leveling the playing field, offering our humble trader userbase unprecedented access to powerful tools and resources previously reserved for the elite.
+        
+        Democratizing the World of Finance.
+        Our vision is to democratize savings and investments, ensuring that everyone has the opportunity to thrive in the dynamic realm of financial markets. Through our relentless pursuit of innovation, simplicity, and transparency, we challenge traditional structures, dismantling barriers and providing private traders with equal access to information, strategies, and services that were once exclusive to professional investors.
+
+        Unleashing the Potential of Intelligent Insights.
+        At Koji, we firmly believe that the future lies at the intersection of machine learning and human expertise. Our state-of-the-art algorithms crunch vast amounts of data, extracting valuable patterns and trends to fuel our intelligent screening and prediction tools. However, we also understand the immeasurable value of collective wisdom. That's why we foster an engaged and collaborative community, where traders can share insights, exchange ideas, and collectively amplify their chances of success.
+
+        Embracing Innovation and User-Friendliness
+        Our unwavering aspiration is to be the unparalleled choice for traders seeking reliable, data-driven investment strategies. To achieve this, we consistently challenge the status quo and push the boundaries of innovation. User-friendliness and the tangible benefits to our users' trading experiences remain at the forefront of our agenda. By prioritizing our users' needs and desires, we strive to deliver exceptional customer satisfaction, forging strong brand loyalty, and becoming the industry leader in attracting new users and cultivating passionate advocates for the Koji platform.
+
+        Join us at Koji and embark on a transformative journey through the world of stock screening and prediction. Experience the power of intelligent insights, the warmth of a thriving trader community, and the boundless possibilities that arise when technology and human ingenuity converge. Together, let's redefine the future of trading and empower every trader to achieve their financial aspirations.
+    </pre>
+</section>
+
+<section id="services" class="about">
+    <h1>Our Comprehensive Range of Services:</h1>
+    <pre>
+        At Koji, we are committed to offering a comprehensive suite of services that empower our users to make informed and strategic investment decisions. With a strong emphasis on data privacy and security, we ensure that your personal information and trading activities remain strictly confidential. Rest assured, we do not sell user data, as your trust and satisfaction are our utmost priorities.
+    
+        API Endpoints for Seamless Integration
+        For developers and institutional clients, we provide robust API endpoints that enable seamless integration with our platform. Contact us to obtain API keys and unlock a wealth of data and functionality, allowing you to enhance your own applications and systems with the power of our cutting-edge technology.
+        
+        Stock Screening Strategy Builder
+        Our stock screening strategy builder page is a game-changer for traders seeking to optimize their investment strategies. With intuitive drag-and-drop functionality, users can assemble blocks of different indicators and algorithms to create custom screening strategies. This powerful tool enables you to quickly and easily backtest various market theories, ensuring that you make data-driven decisions with precision and confidence.
+        
+        Engaging Community for Knowledge Exchange
+        At Koji, we believe in the power of community. Our vibrant platform fosters an engaged and supportive community of traders, where you can share insights, discuss stocks, markets, and industry trends. Discover new perspectives, gain valuable knowledge, and collaborate with fellow traders to uncover new opportunities and refine your investment strategies.
+        
+        AI-Driven Stock Prediction
+        Gain an extra edge in your trading endeavors with our state-of-the-art AI stock prediction. Our advanced machine learning algorithms analyze vast amounts of historical and real-time data, identifying patterns and trends to generate accurate predictions. Leverage these insights to make informed decisions and stay ahead of the market.
+        
+        Streamlined Portfolio Management
+        Managing your portfolio has never been easier. With Koji, we offer a unique feature that calculates the necessary stock orders required to transition from your current portfolio to the predicted best portfolio based on our AI-driven strategies. Execute trades with just a few clicks, saving you time and effort while ensuring that you align your investments with our intelligent recommendations.
+        
+        Contact Us for More Information
+        For more information about our services, API integration, or any other inquiries, please reach out to our dedicated support team. We are here to assist you and provide the guidance you need to maximize your trading potential.
+        
+        Contact Information:
+        Email: info@koji.com
+        Phone: +1-XXX-XXX-XXXX
+        
+        Experience the power of data-driven insights, the collaborative energy of our trading community, and the convenience of streamlined portfolio management. Join Koji today and elevate your trading experience to new heights.
+        
+        Note: We take data privacy and security seriously. Rest assured that your personal information and trading activities are protected and will never be sold or shared with third parties.
+    </pre>
+</section>
+<section id="faq" class="about">
+    <h1>Frequently Asked Questions (FAQ):
+    </h1>
+    Here are some commonly asked questions about Koji and our stock screening and prediction services:
+    <qna>
+
+        Q: How can I sign up for an account with Koji?
+        <br>A: Signing up for a Koji account is simple. Just visit our website and click on the "Register" button. Follow the prompts to create your account, and you'll be ready to explore our platform and its features.
+        
+    </qna>
+    <qna>Q: Is my personal and financial information secure with Koji?
+        <br>A: Absolutely! At Koji, we take the security and privacy of your personal and financial information seriously. We employ robust security measures and encryption protocols to ensure that your data remains safe and confidential.
+        </qna>
+    <qna>Q: Can I access Koji on my mobile device?
+        <br>A: Yes, you can! Koji is designed to be mobile-responsive, allowing you to access our platform and its features on various devices, including smartphones and tablets. Simply visit our website using your mobile browser, and you'll have full access to our services on the go.
+        </qna>
+    <qna>Q: Can I integrate Koji's services into my own applications or systems?
+        <br>A: Yes, you can! We offer API endpoints that allow for seamless integration with our platform. Developers and institutional clients can reach out to us for API keys and further information on how to leverage our data and functionality within their own applications.
+        </qna>
+    <qna>Q: How accurate are the AI stock predictions provided by Koji?
+        <br>A: While our AI stock predictions are based on sophisticated machine learning algorithms and historical data analysis, it's important to remember that the stock market is inherently unpredictable. Our predictions serve as an additional tool to aid your decision-making process, but they should not be considered foolproof. We always recommend combining AI insights with your own research and expertise.
+        </qna>
+    <qna>Q: Can I backtest my own stock screening strategies on Koji?
+        <br>A: Absolutely! With our stock screening strategy builder, you can assemble blocks of different indicators and algorithms to create custom screening strategies. This feature allows you to backtest your strategies quickly and easily, enabling you to evaluate their historical performance and refine your trading approach.
+        </qna>
+    
+    <qna>Q: How can I get in touch with the Koji support team?
+        <br>A: For any questions, concerns, or assistance, our dedicated support team is here to help. You can reach us by sending an email to info@koji.com or by calling +1-XXX-XXX-XXXX. We strive to provide timely and helpful support to ensure you have the best possible experience with Koji.
+    </qna>
+    
+</section>
+{% endblock %}
+
+{%block tail%}
+<script>
+    // Determine whether or not to scroll to a given section in the URL
+    let section=window.location.href.split('=');
+    if(section.length==2){
+        section=section[1];
+        let e=document.getElementById(section);
+        if(e){
+            e.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+    }
+    document.getElementById("_body").style.display="none"; //the body has min-height so we need to hide it manually
+</script>
+{% endblock %}

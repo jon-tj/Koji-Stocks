@@ -1,0 +1,31 @@
+{
+	"name":"ALT",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[59.56,59.56],
+		"Median":[59.56,59.56],
+		"High":[59.56,59.56]
+	},
+	"FinancialCalendar":{
+		"Time":["210817","210817","211029","211115","220215","220518","220817","221026"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200725","201025"],
+		"Difference%":["0.202","5.229","0.506"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"],
+		"PE":[-3.16],
+		"Market cap":["280.889M"]
+	},
+	"NewsDN":{
+		"Time":["232803","221708","211708"],
+		"Author":["TDN Direkt","Lene Marita Berg Hermann","TDN Direkt"],
+		"Title":["Alternus Energy Group enige om midlertidig endring i obligasjonsavtale","Alternus Energy doblet omsetning i andre kvartal","Alternus Energy Group økte omsetningen"]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

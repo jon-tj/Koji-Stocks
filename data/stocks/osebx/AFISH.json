@@ -1,0 +1,32 @@
+{
+	"name":"AFISH",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[130,130],
+		"Median":[130,130],
+		"High":[130,130]
+	},
+	"FinancialCalendar":{
+		"Time":["220525","220603","220831","230215"],
+		"Type":["Earnings Call","Shareholder meeting","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":["0.66983","0.7777","1.1","1.83","-0.85592","4.65118","4.65118","-0.39","0.61317","0.70303","1.47","1.18","0.35018","0.77438","-0.1","-0.77"]
+	},
+	"About":{
+		"Employees":[71],
+		"Incorporated year":[2020],
+		"Description":["Arctic Fish Holding AS is a Norway-based holding company which is the parent company of such Icelandic entities as: Arctic Fish ehf., Arctic Smolt ehf., Arctic Sea Farm ehf., and Arctic Oddi ehf. The Groupâ€™s business is to supply the market with healthy salmon. The Groupâ€™s strategy is to run effective fish farming operations, as well as to sell the output of its own production. The Group has a modern and high capacity smolt facility with recirculating aquaculture systems (RAS) technology. The operating segment Farming is used by the Group to assess performance and profitability at a strategic level. The fish farming business includes smolt production, salmon farming, harvesting activities and sales of the harvested fish. All farming sites are located in the Westfjords of Iceland. G"],
+		"City":["STAVANGER"],
+		"Phone":[72447900]
+	},
+	"NewsDN":{
+		"Time":["222912","222906","221006","222505","221502","211110","213008","212308","211108","210103"],
+		"Author":["Jonas Solgård","TDN Direkt","Kenneth Lund","Jonas Christensen","TDN Direkt","TDN Direkt","TDN Direkt","Jonas Christensen","TDN Direkt","TDN Direkt/Erik Bucher Johannessen"],
+		"Title":["Mowi-sjef Ivan Vindheim foreslås som nytt styremedlem i Arctic Fish","Primærinnsider kjøpte aksjer for 748.000 kroner i Arctic Fish","Storaksjonærer selger i Arctic Fish Holding","Minus for Arctic Fish","Arctic Fish med snuoperasjon i fjerde kvartal","Nye lisenser på Island til Arctic Sea Farm","Arctic Fish-selskap har inngått avtaler for ekspansjon av smoltfasilitet på Island","Kraftig resultatoppgang for Arctic Fish","Meglerhus nedgraderer flere oppdrettsaksjer - trekker frem én favoritt blant de store","Islandsk domstol avviste tvistesak til fordel for Arctic Fish Holding"]
+	},
+
+	"updated":"5/15/23 10:23:56",
+	"currency":"NOK"
+}

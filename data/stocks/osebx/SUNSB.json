@@ -1,0 +1,30 @@
+{
+	"name":"SUNSB",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[147,147],
+		"Median":[147,147],
+		"High":[147,147]
+	},
+	"DividendsMS":{
+		"X-day":[180323,190222,200327,210326,220401,230331],
+		"Payout date":["000000","190306","200407","210408","220411","230413"],
+		"Announce date":[180323,190205,200305,210219,220223,230223],
+		"Amount NOK":[5.4,7.5,8,6,7,9.5]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200505","200505","200725","201025"],
+		"Difference%":[2,2.7,1.15,3.6,3.6,1.93,3.7,2.5]
+	},
+	"About":{
+		"Employees":[42],
+		"Incorporated year":[1995],
+		"Description":["Sunndal Sparebank is a Norway-based independent, local savings bank. Its primary customers are private households, as well as small and medium-sized enterprises. The Bank's services include savings accounts, checking accounts, payment mediation services, credit cards, mortgages, personal loans, life assurance, asset insurance, leasing and investment trusts, online and mobile banking among others. The main office is located at Sunndalsoera in the northwest of Norway, and with three branches located in Kristiansund, Molde and Alesund. The Bank serve private customers domestically. Its business activities are concentrated in Moere and Romsdal and Troendelag. Sunndal Sparebank is a part of the Eika Alliansen, Eika Gruppen AS and Eika Boligkreditt AS."],
+		"City":["SUNNDALSORA"],
+		"Phone":[71689100],
+		"Homepage":["https://sunndal-sparebank.no/"]
+	},
+
+	"updated":"5/15/23 10:24:14",
+	"currency":"NOK"
+}

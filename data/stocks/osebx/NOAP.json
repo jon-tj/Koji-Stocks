@@ -1,0 +1,33 @@
+{
+	"name":"NOAP",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[79.82,79.82],
+		"Median":[79.82,79.82],
+		"High":[79.82,79.82]
+	},
+	"FinancialCalendar":{
+		"Time":["210820","220321","230301","230511"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200205","201025"],
+		"Difference%":["0","0","-0.94"]
+	},
+	"About":{
+		"Employees":[39],
+		"Incorporated year":[2016],
+		"Description":["Nordic Aqua Partners A/S is a Denmark-based Atlantic salmon farming company. The Company uses cutting-edge Nordic technology and expertise to set up the first fully integrated and commercially scaled Recirculating Aquaculture System (RAS) farm for Atlantic salmon located in Ningbo, China, thus being able to deliver live and locally farmed Atlantic salmon to the Chinese market. The Nordic Aqua facility at Gaotang Island is designed to optimize fish welfare and production efficiency. The Company sources the water from the ocean right next to the facility in the Gaotang Sound, and in the end returns the purified water back to the sea. The Company has one subsidiary, Nordic Aqua (Ningbo) Co Ltd."],
+		"City":["RIBE"],
+		"Phone":["0"],
+		"Homepage":["http://www.nordicaquapartners.com/"]
+	},
+	"NewsDN":{
+		"Time":["230902","230702","221808","220206","222103","212008"],
+		"Author":["Kenneth Lund","Jonas Solgård/TDN Direkt","TDN Direkt","TDN Direkt/Jonas Solgård","TDN Direkt","Till Zhang"],
+		"Title":["Nordic Aqua Partners hentet 300 millioner kroner","Oppdretter vil hente 300 mill. i ny kapital","Minus for Nordic Aqua Partners","Nordic Aqua Partners varsler negativt driftsresultat på opptil 35 mill. i 2022","Lavere tap for Nordic Aqua Partners","Nordic Aqua Partner tapte 13,2 mill. før skatt i første halvår"]
+	},
+
+	"updated":"5/15/23 10:24:07",
+	"currency":"NOK"
+}

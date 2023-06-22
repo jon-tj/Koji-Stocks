@@ -1,0 +1,37 @@
+{
+	"name":"IWS",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[53,53],
+		"Median":[55,55],
+		"High":[57,57]
+	},
+	"FinancialCalendar":{
+		"Time":["210915","220406","220509","230228","230508"],
+		"Type":["Presentation","Shareholder meeting","Shareholder meeting","Earnings Call","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[-0.12,-0.22671,-0.22671,-0.27,-0.36764,-0.51,-0.13,-0.37733,-0.1562,-0.18,-0.12,-0.37087,-0.4991,-0.18]
+	},
+	"About":{
+		"Employees":[48],
+		"Incorporated year":[2020],
+		"Description":["Integrated Wind Solutions ASA is a Norway-based company engaged in shipping activities. Itâ€™s offering includes service and digital solutions related to offshore wind farms and other renewable energy. Integrated Wind Solutions aims to provide a fleet of state-of-the-art service vessels to the offshore wind industry, combined with a suite of adhering services, to reduce Levelized Cost of Energy (LCOE) for offshore wind. The Companyâ€™s activities also include the acquisition, management, mortgaging and sale of capital assets in the shipping business, in addition to investment in shares, bonds and partnership contribution of all and any type connected with shipping, as well as participation in the form of ownership holdings in other shipping companies."],
+		"City":["OSLO"],
+		"Phone":[22014200],
+		"Homepage":["https://www.integratedwind.com/"]
+	},
+	"Finances":{
+		"Time":["230418"],
+		"Currency":["USD"]
+	},
+	"NewsDN":{
+		"Time":["221511","222103","222103","221102","212312","211507","211106","211404"],
+		"Author":["TDN Direkt","Kahni Ismail","Mikael Holter","TDN Direkt","TDN Direkt","Adham Rana / TDN Direkt","Jonas Christensen","TDN Direkt"],
+		"Title":["Integrated Wind Systems taper fortsatt penger på driften","Integrated Wind Solutions vurderer å hente 350 millioner kroner","Integrated Wind Solutions bestiller to skip til 950 millioner kroner","Resultatoppgang for Integrated Wind Systems","Integrated Wind Solutions har inngått intensjonsavtale om grønn seniorsikret kredittfasilitet","Integrated Wind Solutions kjøper den danske offshore-spesialisten Green Ducklings","Kontrakt på kvart milliard for Kongsberg","Fearnley Securities starter dekning av Integrated Wind Solutions med kjøpsanbefaling"]
+	},
+
+	"updated":"5/15/23 10:24:04",
+	"currency":"NOK"
+}

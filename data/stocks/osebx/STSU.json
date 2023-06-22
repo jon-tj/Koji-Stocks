@@ -1,0 +1,27 @@
+{
+	"name":"STSU",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[6.18,6.18],
+		"Median":[6.18,6.18],
+		"High":[6.18,6.18]
+	},
+	"DividendsMS":{
+		"X-day":[230228],
+		"Payout date":[230308],
+		"Announce date":[230216],
+		"Amount NOK":["0.1"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","201025"],
+		"Difference%":["0.101","0.101","9.71847"]
+	},
+	"NewsDN":{
+		"Time":["231204","221111"],
+		"Author":["Kathinka Hartwig","Sara Sofie Tallaksen"],
+		"Title":["Standard Supply melder om økt utbyttekapasitet","Spetalen-dominerte Standard ETC leverer positivt resultat i tredje kvartal"]
+	},
+
+	"updated":"5/15/23 10:24:14",
+	"currency":"NOK"
+}

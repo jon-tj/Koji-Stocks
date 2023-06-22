@@ -1,0 +1,17 @@
+{
+	"name":"DDRIL",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[20.13,20.13],
+		"Median":[22.12,22.12],
+		"High":[24.11,24.11]
+	},
+	"NewsDN":{
+		"Time":["221611"],
+		"Author":["Martin Kværnes"],
+		"Title":["Dolphin Drilling-innsidere selger aksjer for å betale skatt"]
+	},
+
+	"updated":"5/15/23 10:24:00",
+	"currency":"NOK"
+}

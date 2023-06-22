@@ -1,0 +1,163 @@
+{%extends "bases/index_base.html"%}
+{% block title %}Koji {{lang['Stock Services']}}{% endblock %}
+
+{%block body%}
+<style>._content{width:50%; min-width: 40em; text-align: left;}</style>
+<section id="update_details">
+    <h3>{{lang['update details']}}</h3>
+    <hr>
+    
+
+    <div style="display:none; float: right; max-width: 20em;" id="btn_update" onclick="attempt_update('username')" class="btn">{{lang['Update']}}</div>
+    <span>
+                    
+        {{lang['Username']}}: 
+                    </span>
+    <input type="text" name="username" id="username" onkeyup="{check_username_available();
+        document.getElementById('btn_update').style.display='inline'}">
+            <p id="username_available"></p>
+
+            <em>We advice our users to not change usernames too often, as this can lead to confusion in the community.</em>
+    
+    
+    
+</section>
+<div class="vspacer"></div>
+<br>
+<section id="accessibility">
+
+    <h3>{{lang['update accessibility']}}</h3>
+    <hr>
+
+    <span>{{lang['change Password']}}:</span>
+    <input type="password" name="password" id="password" onkeyup="{check_pwd_quality();
+        document.getElementById('cpwd').style.display='inline'}"> 
+
+    <aside id="cpwd" style="display:none">
+
+        <p>Make sure that your new password:</p>
+        <table style="border-top: 1px solid gray;">
+            <tr>
+                <td><img id="pwd_c0" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+                <td>contains at least 10 characters.</td>
+            </tr>
+            <tr>
+                <td><img id="pwd_c1" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+                <td>contains both upper- and lowercase letters.</td>
+            </tr>
+            <tr>
+                <td><img id="pwd_c2" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+                <td>contains digits. (0-9)</td>
+            </tr>
+            <tr>
+                <td><img id="pwd_c3" src="/static/icons/checkbox_unchecked.png" alt="unchecked"></td>
+                <td>contains one of the following: .,_!?@#*^´~<>()[]</td>
+            </tr>
+        </table>
+        <p id="pwd_level" style="visibility:hidden" ></p>
+        <div onclick="attempt_update('password')" class="btn">{{lang['Update']}}</div>
+    </aside>
+</section>
+{% endblock %}
+
+{%block tail%}
+
+<script src="../static/scripts/collapsible.js"></script>
+<script>
+    async function attempt_update(target){
+        body=NaN;
+        if(target=='username'){
+
+            if(!username_available){
+                displayErr('Please enter a different username.');
+                return;
+            }
+            let username=document.getElementById('username').value;
+            body=JSON.stringify({username:username})
+        }
+        if(target=='password'){
+
+            if(pwd_level<5){
+                displayErr('Your password does not match our safety requirements.');
+                return;
+            }
+            let password=document.getElementById('password').value;
+            body=JSON.stringify({password:password})
+        }
+        
+        await fetch("/api/user",{
+            method:'PUT',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:body
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            if(r['successful']=='true'){
+                window.location=getLang();
+            }else{
+                displayErr(r['errMsg']);
+            }
+        });
+    }
+    async function check_pwd_quality(){
+        let password=document.getElementById('password').value;
+        
+        await fetch("/api/pwd_quality",{
+            method:'POST',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({pwd:password})
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            let conditions=r['conditions'];
+            for(let i=0; i<4; i++){
+                let src='/static/icons/checkbox_unchecked.png'
+                if(conditions[i])src='/static/icons/checkbox_checked.png';
+                document.getElementById('pwd_c'+i).src=src;
+            }
+            pwd_level=r['level'];
+            let pwdBox=document.getElementById('pwd_level');
+            pwdBox.style.visibility="visible";
+            display_level=pwd_level
+            if(password.length>17)display_level++; //give a little ego boost to people with long a** passwords
+            pwdBox.innerHTML='<span class="colored '+['nocolor','high','high','medium','medium','medium','low'][display_level]+'">'+
+                ['Empty','Bad','Weak','Medium','Medium','Medium','Strong'][display_level]+
+                '</span>&nbsp;password.</p>';
+            
+        });
+    }
+    let username_available=0;
+    let pwd_level=0;
+
+    async function check_username_available(){
+        let username=document.getElementById('username').value;
+        
+        await fetch("/api/username_available",{
+            method:'POST',
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({username:username})
+        })
+        .then(response=>response.json())
+        .then(r=>{
+            let usrBox=document.getElementById('username_available');
+            if(r['available']){
+                usrBox.innerHTML='';
+                username_available=1;
+            }
+            else{
+                usrBox.style.visibility="visible";
+                usrBox.innerHTML='<span class="colored high">Username taken.</p>';
+                username_available=0;
+            }
+        });
+    }
+
+
+</script>
+{% endblock %}

@@ -1,0 +1,39 @@
+{
+	"name":"TOTG",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[235,235],
+		"Median":[235,235],
+		"High":[235,235]
+	},
+	"DividendsMS":{
+		"X-day":[140321,150320,160407,170331,180323,190329,200401,210326,220401,230331],
+		"Payout date":[140401,150331,160415,170407,180406,190409,200415,210409,220412,230414],
+		"Announce date":[140206,150211,160211,170216,180215,190213,200211,210209,220209,230207],
+		"Amount NOK":[2.5,5,5,6,8,8,7,6.75,10,11]
+	},
+	"FinancialCalendar":{
+		"Time":["190328","230330"],
+		"Type":["General Assembly","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200205","200205","200205","200505","200505","200505","200505","200725","200725","200725","200725","201025","201025","201025"],
+		"Difference%":[5.13,4.94,4.47,4.81,3.74,5.05,5.05,3.33,5.61,6.86,4.49,6.7,4.21,4.44,4.6]
+	},
+	"About":{
+		"Employees":[92],
+		"Incorporated year":[1995],
+		"Description":["Totens Sparebank is a Norway-based savings bank. The Bankâ€™ s main market is Oppland. The Bank is engaged in the provision of banking services. Its offers online and mobile banking services, card issue, payment services, mortgage and different kind of small loans, saving and retire account, property and health insurance and real estate credit among others. Its primary customers include private customers and small and medium-sized enterprises. "],
+		"City":["OSTRE TOTEN"],
+		"Phone":[61141200],
+		"Homepage":["https://totenbanken.no/"]
+	},
+	"NewsDN":{
+		"Time":["211910","212904"],
+		"Author":["TDN Direkt","Kenneth Lund"],
+		"Title":["Jekker opp kursmålet på Aker Solutions-aksjen","Totens Sparebank dobler resultatet"]
+	},
+
+	"updated":"5/15/23 10:24:15",
+	"currency":"NOK"
+}

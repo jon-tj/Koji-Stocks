@@ -1,0 +1,33 @@
+{
+	"name":"ISLAX",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[190,190],
+		"Median":[195,195],
+		"High":[200,200]
+	},
+	"FinancialCalendar":{
+		"Time":["220825","221110","230222","230511"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200101","200101","200205","200205","200505","200505","200725","200725","201025","201025","201025","201025"],
+		"Difference%":[6.596,4.115,6.3421,0.98386,0,2.684,3.18735,3.783,3.18735,0.00497,1.84194,1.84194,0]
+	},
+	"About":{
+		"Employees":[174],
+		"Incorporated year":[2001],
+		"Description":["Icelandic Salmon AS, formerly known as Arnarlax AS, is an Iceland-based company engaged in fish industry. The Company is a producer of Icelandic salmon."],
+		"City":["Bildudalur"],
+		"Phone":[4560100],
+		"Homepage":["https://arnarlax.is/"]
+	},
+	"NewsDN":{
+		"Time":["232202","221011","221010","222508","221205","222102","221802","220701","211309","212608","211108","211008","210705","211201"],
+		"Author":["TDN Direkt","Bjørn Borkamo","TDN Direkt","Bjørn Borkamo","TDN Direkt","TDN Direkt","Katrine Nordanger Mjelde","Adham Rana/TDN Direkt","Till Zhang","Jonas Christensen","TDN Direkt","TDN Direkt","TDN Direkt","TDN Direkt"],
+		"Title":["Icelandic Salmon økte operasjonelt driftsresultat","Icelandic Salmon nær firedoblet driftsmarginen i tredje kvartal","Styremedlem i Icelandic Salmon trekker seg","Icelandic Salmon nær doblet driftsinntektene","Kraftig omsetningsøkning for Icelandic Salmon","Pareto Securities nedgraderer Icelandic Salmon","Resultatforbedring for oppdrettsselskapet Icelandic Salmon","Salmar slaktet 56.300 tonn i fjerde kvartal","Voldberg kjøper seg kraftig opp i Kahoot – selger seg ned i Patientsky og Icelandic Salmon","Kraftig resultatoppgang for Icelandic Salmon","Meglerhus nedgraderer flere oppdrettsaksjer - trekker frem én favoritt blant de store","Meglerhus høyner kursmål på lakseaksjer","Icelandic Salmon kjøper anlegg på Island","Artic høyner Mowi-kursmål i ny sektorrapport"]
+	},
+
+	"updated":"5/15/23 10:24:04",
+	"currency":"NOK"
+}

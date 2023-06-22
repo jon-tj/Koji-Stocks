@@ -1,0 +1,33 @@
+{
+	"name":"OSUN",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[25,25],
+		"Median":[25,25],
+		"High":[25,25]
+	},
+	"FinancialCalendar":{
+		"Time":["210819","211011","211109","220210","220825"],
+		"Type":["Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200505","200505","200505","200725","200725","201025"],
+		"Difference%":[-0.05,-0.07,-0.03,-0.03,-0.07,-0.09634,-0.06]
+	},
+	"About":{
+		"Employees":[12],
+		"Incorporated year":[2016],
+		"Description":["Ocean Sun AS is a Norway-based technology provider to floating Photovoltaic (PV) systems. The Company delivers a technology based on photovoltaic panels mounted on a hydro-elastic membrane that minimizes the use of materials and enables direct cooling of the PV cells, increasing production efficiency. The Company is offering its customers this technology, detailed design and solutions in addition to approved vendors, both key material and the installation companies. The Company does not manufacture the components but offer license agreements, whereby developers and in dependent power producers are granted rights to deploy the technology for their projects around the world."],
+		"City":["FORNEBU"],
+		"Phone":["0"],
+		"Homepage":["https://oceansun.no/"]
+	},
+	"NewsDN":{
+		"Time":["230902","220111","221507","220803","222102","220302","222601","210911","211510","210510","212409","212209","210608","211106","211006","211006","210306","210306","210305","213003","211801","202610","202610"],
+		"Author":["TDN Direkt","Kimmo Risbakken","TDN Direkt","Ola Magnussen Rydje","Martin Kværnes","TDN Direkt","Sara Sofie Tallaksen","Kenneth Lund","Harald Berglihn","Herman Østensen/TDN Direkt","TDN Direkt","Katrine Nordanger Mjelde","Ingeborg Løkling","Christopher Magnus","TDN Direkt / DN","Jonas Christensen","Ola Magnussen Rydje","TDN Direkt","Jonas Christensen","Martin Kværnes","Jantra Hollum","Jonas Christensen","William Bugge"],
+		"Title":["Ocean Sun tapte mindre penger","Ocean Sun med kontrakt","Ocean Sun og Keppel med avtale om flytende solkraft","Oslo Børs stenger marginalt opp","Ocean Sun-styremedlem kjøper aksjer","Ny midlertidig finansdirektør i Ocean Sun","Markant oppgang på Oslo Børs","Ocean Sun øker både omsetning og underskudd","Oslo Børs endte i minus","Driftsdirektør kjøper aksjer for 150.000 kroner i Ocean Sun","Ocean Sun har fått godkjent patentsøknad","Ingulstad Holding har solgt 2,5 millioner aksjer i Ocean Sun","Oslo Børs ender uken med nedgang","Oslo Børs brøt den negative trenden","Ocean Sun faller kraftig etter hendelse ved anlegg i Albania","Oslo Børs åpner flatt","Hovedindeksen stenger flatt - Mohn-selskap dagens vinner","Ocean Sun og Statkraft har startet produksjon av flytende solkraft  i Albania","Ocean Sun tapte 3,2 mill. i første kvartal","Ocean Sun inngår avtale med MP Quantum Group","Ocean Sun og Fred Olsen Renewables er blitt tildelt EU-midler – skal bygge flytende solanlegg i Atlanterhavet","Lunken børsdebut for Ulltveit-Moe og Andenæs sin solbaby","Oslo Børs åpner ukens første handelsdag med nedgang"]
+	},
+
+	"updated":"5/15/23 10:24:09",
+	"currency":"NOK"
+}

@@ -1,0 +1,15 @@
+{
+	"name":"ARGEO",
+	"FinancialCalendar":{
+		"Time":["210825","210825","211110","211210","220228","220519","220616","220908","221117","230316"],
+		"Type":["Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call"]
+	},
+	"NewsDN":{
+		"Time":["211612","212209","211608","211006","212704"],
+		"Author":["Sara Sofie Tallaksen","Katrine Nordanger Mjelde","TDN Direkt","Jonas Christensen","Jonas Christensen"],
+		"Title":["Argeo signerer avtale med kunde i Brasil","Argeo tildelt 12 millioner fra Innovasjon Norge og Forskningsrådet","Meglerhus tar opp dekning på Argeo og anbefaler kjøp","Oslo Børs åpner flatt","Sveaas og Fredly satser på Argeo"]
+	},
+
+	"updated":"5/15/23 10:23:57",
+	"currency":"NOK"
+}

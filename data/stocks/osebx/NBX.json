@@ -1,0 +1,15 @@
+{
+	"name":"NBX",
+	"FinancialCalendar":{
+		"Time":["220425","220425","220527"],
+		"Type":["Shareholder meeting","Shareholder meeting","Shareholder meeting"]
+	},
+	"NewsDN":{
+		"Time":["223009","222109","220807","220407","221506","220206","222904","222202"],
+		"Author":["Kimmo Risbakken","Jonas Solgård","Jonas Solgård","TDN Direkt/Jonas Solgård","TDN Direkt","TDN Direkt","TDN Direkt","Martin Kværnes"],
+		"Title":["Kjos' kryptobørs mister finansdirektør","Norwegian Block Exchange henter 20 mill. i friske penger","NBX planlegger lansering av kredittkort med «kryptobelønninger»","Kryptoselskapet NBX inngår avtale med Fireblocks","Norwegian Block Exchange: Svekket krone har ført til høyere kostnader – tar ytterligere kostnadsgrep","NBX med intensjonsavtale om lansering av krypto-indeksfond","NBX har inngått avtale med betalingsselskap","NBX tapte 11 mill. i fjerde kvartal – vil utforske muligheter for å finansiere vekst"]
+	},
+
+	"updated":"5/15/23 10:24:07",
+	"currency":"NOK"
+}

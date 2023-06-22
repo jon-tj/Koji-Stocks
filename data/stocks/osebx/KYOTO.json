@@ -1,0 +1,25 @@
+{
+	"name":"KYOTO",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[28.82,28.82],
+		"Median":[28.82,28.82],
+		"High":[28.82,28.82]
+	},
+	"FinancialCalendar":{
+		"Time":["210820","210820","211125","220218","220428","220629","220817","220825","230314"],
+		"Type":["Earnings Call","Earnings Call","Capital Markets Day","Shareholder meeting","Earnings Call","Shareholder meeting","Special Situation","Earnings Call","Presentation"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200505","200725","201025","201025","201025"],
+		"Difference%":[-0.69,-0.81,-0.71,-0.36,-1.41,-1.41]
+	},
+	"NewsDN":{
+		"Time":["231001","220809","222001","221201","212008"],
+		"Author":["Jacob Trumpy","Jonas Solgård","Christopher Magnus","Bente Bjørndal","Till Zhang"],
+		"Title":["Kyoto Group har hentet 60 mill. i frisk kapital","Ny finansdirektør i Kyoto Group","Flatt på Oslo Børs","Kyoto Group ansetter to nye i konsernledelsen","Kyoto Group tapte 16,2 mill. før skatt i første halvår"]
+	},
+
+	"updated":"5/15/23 10:24:05",
+	"currency":"NOK"
+}

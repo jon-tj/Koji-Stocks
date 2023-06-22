@@ -1,0 +1,33 @@
+{
+	"name":"NSOL",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[3.5,3.5],
+		"Median":[3.5,3.5],
+		"High":[3.5,3.5]
+	},
+	"FinancialCalendar":{
+		"Time":["210819","211124","220527"],
+		"Type":["Earnings Call","Presentation","Shareholder meeting"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200101","200101","200101","200505","200505","200725"],
+		"Difference%":[-0.09,-0.12,-0.49,0.01,-0.29,-0.03]
+	},
+	"About":{
+		"Employees":[25],
+		"Incorporated year":[2017],
+		"Description":["Norsk Solar AS is a Norway-based renewable energy company. The Company develops, builds, owns, and operates solar photovoltaic power plants that deliver clean energy to companies and state utilities under long-term contracts. Norsk Solar serves customers worldwide. "],
+		"City":["STAVANGER"],
+		"Phone":["0"],
+		"Homepage":["https://norsksolar.com/"]
+	},
+	"NewsDN":{
+		"Time":["222906","221406","222004","220703","220103","222802","213012","210510","211908","211904"],
+		"Author":["Kahni Ismail","Katrine Nordanger Mjelde","TDN Direkt","TDN Direkt","Kahni Ismail","Christopher Magnus","Adham Rana","TDN Direkt","Till Zhang","Jonas Solgård"],
+		"Title":["Helga Cotgrove blir finansdirektør i Eidesvik Offshore","Norsk Solar med milliontap på kraftverket i Ukraina","Norsk Solar vil nå sine mål om investeringsbeslutninger for året","Norsk Solar skal bygge seks solcelleanlegg","Norsk Solars ukrainske kraftverk tilbake i drift","Norsk Solar med Ukraina-oppdatering","Norsk Solar starter opp kommersiell produksjon av solenergi i Vietnam","Norsk Solar har inngått kraftkjøpsavtale i Brail","Norsk Solar tapte 15,4 mill. på driften i første halvår","Børsdebutant stiger over 20 prosent fra emisjonskurs"]
+	},
+
+	"updated":"5/15/23 10:24:08",
+	"currency":"NOK"
+}

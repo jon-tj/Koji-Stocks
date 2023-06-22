@@ -1,0 +1,33 @@
+{
+	"name":"PRYME",
+	"Analysis":{
+		"Time":["230418","230419"],
+		"Low":[30.92,30.92],
+		"Median":[30.92,30.92],
+		"High":[30.92,30.92]
+	},
+	"FinancialCalendar":{
+		"Time":["210526","210526","210528","210825","211124","220224","220622","221111","221130"],
+		"Type":["Earnings Call","Earnings Call","Shareholder meeting","Earnings Call","Earnings Call","Earnings Call","Shareholder meeting","Shareholder meeting","Fearnley Securities\u0092 Renewable & Clean-Tech Conference"]
+	},
+	"QuarterlySurpriseEPS":{
+		"Time":["200205","200505","200725","201025"],
+		"Difference%":[-1,-1,0,0]
+	},
+	"About":{
+		"Employees":[12],
+		"Incorporated year":[2019],
+		"Description":["Pryme NV is a Company based in the Netherlands. The Company is engaged in recycling of plastics using chemical technologies. Prymeâ€™s activities concentrate on converting plastic waste into petrochemical products using chemical processes, mainly pyrolysis process. The technology involves decomposing polymers by exposing plastic waste to high temperatures. The final products of the process can be reused as a fuel or are delivered to petrochemical plants to become polyethylene and polypropylene. The Company purchases plastics and other raw materials and markets the processâ€™ finished products. Other objectivities of the Company include constructing, developing and operating factories that are involved in the reuse of plastics."],
+		"City":["ROTTERDAM"],
+		"Phone":[107988466],
+		"Homepage":["https://pryme-cleantech.com/"]
+	},
+	"NewsDN":{
+		"Time":["232103","221112","220704","220104","220104","221103","211911","211510","211510","211110","210610","210610","210408","212406"],
+		"Author":["Kenneth Lund","Bjørn Borkamo","Lene Marita Berg Hermann","Christopher Magnus","Lene Marita Berg Hermann","TDN Direkt / Jonas Solgård","Kahni Ismail","Emilie Solberg","TDN Direkt","Emilie Solberg","Herman Østensen","Herman Østensen/TDN Direkt","Erik Bucher Johannessen","Marcus Hippe"],
+		"Title":["Pryme vil hente inn 169 millioner kroner","Finansdirektør i Pryme går av","Pryme vil hente inntil 17 millioner euro i friske penger","Børsen startet april med solid oppgang","Toppsjef i Pryme går av","Toppsjefen i Pryme går av","Finansdirektøren i Pryme fratrer","Oslo Børs i minus –  teknologiselskap stiger 13 prosent","Styremedlem laster opp i Pryme","Pryme stiger 14 prosent- opp 95 prosent på en uke","Pryme stiger kraftig etter Shell-avtale og Pareto kursmål","Pryme stiger over 15 prosent etter Shell-avtale","Oppgang fra start på Oslo Børs","Nye styremedlemmer i teknologiselskapet Pryme"]
+	},
+
+	"updated":"5/15/23 10:24:11",
+	"currency":"NOK"
+}
